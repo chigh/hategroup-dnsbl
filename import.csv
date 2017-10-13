@@ -1,0 +1,300 @@
+# Hate group DNS Blocklist
+# Based off Southern Poverty Law Center's list of hate groups. 
+#   Source: https://www.splcenter.org/fighting-hate
+#   URL: https://tch3.net/hg-dnsbl/blocklist.txt
+#
+###########################################################################
+### Custom 
+###########################################################################
+Identity Dixie|identitydixie.com
+Daily Stormer|dailystormer.com
+Daily Stormer|dailystormer.ru
+Daily Stormer|dailystormer.lol
+National Alliance|navtan.com
+Southern Party of Georgia|spofga.org
+Sharia Unveiled|shariaunveiled.wordpress.com
+#
+#
+###########################################################################
+### Alt-Right (N/A)
+###########################################################################
+#
+#
+###########################################################################
+### Anti-immigrant (2017-09-25)
+###########################################################################
+American Border Patrol|americanborderpatrol.com
+American Immigration Control Foundation/Americans for Immigration Control|immigrationcontrol.com
+Americans for Legal Immigration (ALIPAC)|alipac.us
+Borderkeepers of Alabama|borderkeepersofalabama.org
+Californians for Population Stabilization|capsweb.org
+Center for Immigration Studies|cis.org
+Colorado Alliance for Immigration Reform|cairco.org
+Federation for American Immigration Reform|fairus.org
+Immigration Reform Law Institute|irli.org
+Legal Immigrants for America|golifa.com
+National Coalition for Immigration Reform (formerly CCIR)|cirnow.org
+New Yorkers for Immigration Control and Enforcement (NYICE)|nyice.us
+ProEnglish|proenglish.org
+US Border Guard (redirects to facebook)|usborderguard.com
+#
+#
+###########################################################################
+### Anti-LGBT (2017-10-13)
+###########################################################################
+Abiding Truth Ministries|abidingtruthministry.com
+Alliance Defending Freedom|adflegal.org
+American College of Pediatricians|acpeds.org
+American Family Association|afa.net
+Americans for Truth About Homosexuality|americansfortruth.com
+American Vision|americanvision.org
+ATLAH World Missionary Church (All The Land Anointed Holy)|atlah.org
+Campus Ministry USA, The|BroJed.org
+Center for Family and Human Rights (C-FAM)|c-fam.org
+Chalcedon Foundation|chalcedon.edu
+Citizens for Community Values|ccv.org
+## Conservative Republicans of Texas|!!! Facebook: facebook.com/crtpac
+D. James Kennedy Ministries (formerly Truth in Action)|djameskennedy.org
+## Faith Baptist Church (formerly Sons of Thundr)| !!! None found.
+Faith2Action|f2a.org
+Faithful Word Baptist Church|faithfulwordbaptist.org
+Family Research Council|frc.org
+Family Research Institute|familyresearchinst.org
+Family Watch International|familywatchinternational.org
+Generations (formerly Generations With Vision)|generations.org
+Heterosexuals Organized for a Moral Environment (H.O.M.E.)|home60515.com
+Illinois Family Institute|illinoisfamily.org
+## Illinois Family Institute Tri-County chapter|!!! Duplicate. illinoisfamily.org
+Liberty Counsel|lc.org
+Mass Resistance|massresistance.org
+Mission: America|missionamerica.com
+Pacific Justice Institute|pacificjustice.org
+Pass the Salt Ministries|coachdavelive.com
+Pilgrims Covenant Church|pccmonroe.org
+Pray in Jesus Name Project, The|prayinjesusname.org
+Probe Ministries|probe.org
+Providence Road Baptist Church|prbcnc.com
+Public Advocate of the United States|publicadvocateusa.org
+Ruth Institute|ruthinstitute.org
+Save California|savecalifornia.com
+Stedfast Baptist Church|stedfastbaptistkjv.org
+TC Family (Traverse City Family)|tcfamily.org
+Tom Brown Ministries|tbm.org
+Traditional Values Coalition|traditionalvalues.org
+## True Light Pentecost Church|None found
+United Families International|unitedfamilies.org
+Verity Baptist Church|veritybaptist.com
+Westboro Baptist Church|godhatesfags.com
+Windsor Hills Baptist Church|windsorhills.org
+World Congress of Families/International Organization for the Family|worldcongress.org
+#
+#
+###########################################################################
+### Anti-Muslim (2017-10-13)
+###########################################################################
+III% Security Force|iiisecurityforce.com
+ACT for America|actforamerica.org
+Altra Firearms|altrafirearms.com
+American Constitution Center|americanconstitutioncenter.org
+American Freedom Alliance|americanfreedomalliance.org
+American Freedom Defense Initiative|freedomdefense.typepad.com
+American Freedom Law Center|americanfreedomlawcenter.org
+## American Security Rally of Montana| None found.
+Bare Naked Islam|barenakedislam.com
+Bomb Islam|bombislam.com
+## Bosch Fawstin|!!! Facebook: facebook.com/bosch.fawstin
+## Bureau on American Islamic Relations|!!! None found.
+Center for Security Policy|centerforsecuritypolicy.org
+Christian Action Network|christianaction.org
+Citizens for National Security|cfns.us
+Citizen Warrior|citizenwarrior.com
+Clarion Project|clarionproject.org
+## Committee to End the CSI Refugee Center|!!! None found.
+Counter Jihadist Coalition of Southern California|counterjihadcoalition.org
+## Crusaders, The|!!! None found
+David Horowitz Freedom Center|horowitzfreedomcenter.org
+## Faith Freedom|??? faithfreedom.org
+Family Security Matters|familysecuritymatters.org
+Fortress of Faith|fortressoffaith.com
+## Foundation for Advancing Christian Truth|!!! Facebook: facebook.com/Foundation-for-the-Advancement-of-Christian-Truth-710222865717689/
+Islamthreat.com|Islamthreat.com
+Jihad Watch|jihadwatch.org
+## Keep South Dakota Safe PAC|!!! None found.
+Lincoln County Citizen Action Network|lincolncountycan.com
+## Pig Blood Bullets|!!! Facebook: facebook.com/Pig-Blood-Bullets-LLC-910554959035722/
+Political Islam|politicalislam.com
+## Radio Jihad/Global Patriot Radio|radiojihad.org facebook.com/The-Radio-Jihad-Network-329740016336/
+Refugee Resettlement Watch|refugeeresettlementwatch.wordpress.com
+## Religious Awareness Network|!!! None found.
+Secure Michigan|securemichigan.org
+Shoebat Foundation, The|shoebat.com
+Silver Bullet Gun Oil|silverbulletgunoil.net
+## Soldiers of Odin|!!! Facebook: facebook.com/Soldiers-of-Odin-1178838978802741/
+Stop the Islamization of the World|siotw.org
+Straight Way and More, The|thestraightway.org
+Sultan Knish a blog by Daniel Greenfield|sultanknish.blogspot.com
+Team America Political Action Committee|teamamericapac.com
+## Treasure Valley Refugee Watch|!!! None found.
+Truth in Love Project|tilproject.com
+Understanding the Threat|understandingthethreat.com
+United West, The|theunitedwest.org
+Virginia Christian Alliance|vachristian.org
+#
+#
+###########################################################################
+### Antigovernment Movement
+###########################################################################
+### Black Separatist
+###########################################################################
+### Christian Identity
+###########################################################################
+### General Hate
+###########################################################################
+### Hate Music
+###########################################################################
+Resistance Records (National Alliance)|resistance.com
+#
+#
+###########################################################################
+### Holocaust Denial (2017-09-25)
+###########################################################################
+Barnes Review/Foundation for Economic Liberty, Inc.|barnesreview.org
+Campaign for Radical Truth in History|revisionisthistory.org
+Carolyn Yeager|carolynyeager.net
+Committee for Open Debate on the Holocaust|codoh.com
+Deir Yassin Remembered|deiryassin.org
+Institute for Historical Review|ihr.org
+Irving Books|irvingbooks.com
+Realist Report, The|therealistreport.com
+#
+#
+###########################################################################
+### KKK (2017-09-25)
+###########################################################################
+Ku Klux Klan|kkk.com
+## Christian American Knights of the Ku Klux Klan|!!! None found.
+Church of the National Knights of the Ku Klux Klan|cnkkkk.net
+## Confederate White Knights of the Ku Klux Klan|!!! None found.
+East Coast Knights Of The True Invisible Empire|eastcoastknightsofthetrueinvisibleempire.com
+Georgia Knight Riders of the Ku Klux Klan|georgiaknightriderskkk.com
+## Great Lakes Knights of the Ku Klux Klan|!!! None found.
+International Keystone Knights of the Ku Klux Klan|ikkkkk.org
+## Knights of the Ku Klux Klan|!!! None found.
+Knights of the White Disciples|knightsofthewhitedisciples.com
+Ku Klos Knights of the Ku Klux Klan|kuklosknights.com
+Loyal White Knights of the Ku Klux Klan|kkkknights.com
+## Militant Knights Ku Klux Klan|!!! None found.
+## Nordic Order Knights of the Ku Klux Klan|!!! None found.
+## North Mississippi White Knights Of The Ku Klux Klan|!!! None found.
+## Old Dominion Knights of the Ku Klux Klan|!!! None found.
+## Old Glory Knights of the Ku Klux Klan|!!! None found.
+Original Knight Riders Knights of the Ku Klux Klan|originalknightriders.net
+## Outlaw Knights of the Ku Klux Klan|!!! None found.
+## Pacific Coast Knights of the Ku Klux Klan|!!! None found.
+## Patriotic Brigade Knights of the Ku Klux Klan|!!! None found.
+Rebel Brigade Knights True Invisible Empire|rebelbrigadeknightstrueinvisibleempire.yolasite.com
+Rebel Brigade Knights True Invisible Empire|rebelbrigade.blogspot.com
+Rebel Brigade Knights True Invisible Empire|rebelbrigadeknightstrueinvisibleempire.wordpress.com
+## Southern Ohio Knights of the Ku Klux Klan|!!! None found.
+Texas Rebel Knights of the Ku Klux Klan|texasrebelknightskkk.com
+Traditionalist American Knights of the Ku Klux Klan|traditionalistamericanknights.com
+## United Dixie White Knights Ku Klux Klan|!!! None found.
+United Klans of America|theuka.us
+United Northern and Southern Knights of the Ku Klux Klan|unskkkk.com
+## United White Knights of the Ku Klux Klan|!!! None found.
+## White Knights of the Ku Klux Klan of America|!!! None found.
+#
+#
+###########################################################################
+### Neo-Confederate (2017-09-25)
+###########################################################################
+## ACTBAC NC|!!! Facebook
+Dixie Republic|dixierepublic.com
+## FreeMississippi|radiofreemississippi.net !!! Dead.
+League of the South|dixienet.org
+Mary Noel Kershaw Foundation|leagueofthesouth.com
+Pace Confederate Depot|paceconfederatedepot.weebly.com
+Southern Future|southernfuture.com
+Southern National Congress|southernnationalcongress.org
+#
+#
+###########################################################################
+### Racist Skinheads (2017-09-25)
+###########################################################################
+## AC Skins|!!! None found.
+## American Front|!!! None found.
+American Vikings|americanvikings.com
+## Aryan Strikeforce|!!! Facebook
+## Be Active Front USA|!!! None found.
+Blood and Honour America Division|bloodandhonour.net
+Blood and Honour Arkansas/Combat 18|bloodandhonour-arkansas.webs.com
+## Blood and Honour Social Club|!!! facebook
+## California Skinheads|!!! None found.
+## Confederate Hammerskins|hammerskins.net
+Crew 38|crew38.com
+## Eastern Hammerskins|hammerskins.net
+## Firm 22|!!! None found.
+Golden State Skinheads|goldenstateskinheads.org
+## Hamerskins Nation|hammerskins.net
+Keystone State Skinheads|keystone2001united.wordpress.com
+## Maryland State Skinheads|!!! None found.
+## Midland Hammerskins|hammerskins.net
+## Northern Hammerskins|hammerskins.net
+## Northwestern Hammerskins|hammerskins.net
+## Sacto Skins|!!! Facebook
+## Supreme White Alliance|!!! None found.
+Vinland Clothing|vinlandclothing.com
+## Vinlanders Social Club|!!! None found.
+## Western Hammerskins|hammerskins.net
+#
+#
+###########################################################################
+### White Nationalist (2017-09-25)
+###########################################################################
+Alternative Right|alternative-right.blogspot.com
+American Eagle Party|americaneagleparty.com
+American Freedom Party|american3rdposition.com
+American Freedom Union|americanfreedomunion.com
+American Renaissance/New Century Foundation|amren.com
+American Vanguard|american-vanguard.com
+Bob’s Underground Graduate Seminar/BUGS|whitakeronline.org
+Center for Perpetual Diversity|perpetualdiversity.com
+## Conservative Citizens Foundation, Inc.|!!! None found.
+Council of Conservative Citizens|conservative-headlines.com
+Counter-Currents Publishing|counter-currents.com
+European American Action Coalition|europeanamericanactioncoalition.wordpress.com
+## European American Front|!!! None found.
+Faith and Heritage|faithandheritage.com
+Fitzgerald Griffin Foundation, The|fgfbooks.com
+Forza Nuova—USA|forzanuova.info
+## Foundation for the Marketplace of Ideas|!!! None found.
+Free American|freeamerican.com
+Heritage and Destiny|efp.org.uk
+H.L. Mencken Club|hlmenckenclub.org
+Identity Evropa|identityevropa.com
+National Policy Institute|npiamerica.org
+Northwest Front|northwestfront.org
+Occidental Dissent|occidentaldissent.com
+Occidental Observer|theoccidentalobserver.net
+Occidental Quarterly/Charles Martel Society|toqonline.com
+## Patriotic Flags|!!! None found.
+## Phalanx|!!! None found.
+## Pioneer Little Europe Kalispell|!!! None found.
+Political Cesspool, The|thepoliticalcesspool.org
+Racial Nationalist Party of America|rnpaheadquarters.org
+Radix Journal|radixjournal.com
+Right Stuff, The|therightstuff.biz
+Scott-Townsend Publishers|scott-townsend.com
+Social Contract Press|thesocialcontract.com
+## Sons & Daughters of Liberty|!!! None found.
+## South Africa Project|southafricaproject.info
+Stormfront|stormfront.org
+Traditionalist Worker Party|tradworker.org
+Traditionalist Youth Network|tradyouth.org
+VDARE Foundation|vdare.com
+Washington Summit Publishers|washsummit.com
+White Boy Society|whiteboysociety.blogspot.com
+## White Lives Matter|!!! None found.
+White Rabbit Radio|whiterabbitradio.net
+## Wolves of Vinland|!!!None found.
+WTM Enterprises|thornwalker.com
