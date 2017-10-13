@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
-#. ~/.files/common.sh
+###########################################################################
+## ID: block_hate.sh
+## DESC: creates DNSBL for use with Pi-hole, BIND, and BlueCat
+## AUTHOR: Clair High <github.com@fwd.tch3.com>
+## DATE: 2017-10-13
+###########################################################################
 scratch=$(mktemp -d -t tmp.XXXXXXXXXX) # $scratch will be auto-deleted on
 finish () { rm -rf $scratch ; }        # exit no matter the exit status
 trap finish EXIT INT

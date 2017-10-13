@@ -27,7 +27,7 @@ This is a list of designated hate groups' domains as designated by the [Southern
 
 ## To do
 
-* add GPL license
+* add GPL or other (e.g. Apache) license
 
 ## Ideologies checked/completed: 
 
