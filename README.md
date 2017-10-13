@@ -13,7 +13,7 @@ This is a list of designated hate groups' domains as designated by the [Southern
 	* Script to generate the list objects
 * *blocklist.txt*
 	* A text file list of only the domains. This can be imported into [Pi-hole](https://pi-hole.net)
-	* This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists:
+	* This can be added to Pi-hole configuration on a local web server or add the following URL to [Pi-hole's Block Lists](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists):
 		* https://tch3.net/hg-dnsbl/blocklist.txt
 * *hategrp.rpz.db*
 	* BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
