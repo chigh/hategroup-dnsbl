@@ -25,6 +25,10 @@ This is a list of designated hate groups' domains as designated by the [Southern
 * *named.conf*
 	* A section of named.conf to be included in your BIND implementation to use the included database
 
+## To do
+
+* add GPL license
+
 ## Ideologies checked/completed: 
 
 **Note:** This is a work in progress and I haven't gotten to all sections, yet.
