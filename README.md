@@ -6,7 +6,7 @@
 	* [ISC BIND](#isc-bind)
 	* [BlueCat Address Manager/Response Policies](#bluecat-address-managerresponse-policies)
 * [To do](#to-do)
-* [Ideologies checked/completed](#Ideologies-checkedcompleted)
+* [Ideologies checked/completed](#ideologies-checkedcompleted)
 
 ## Overview
 This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org).
