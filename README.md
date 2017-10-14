@@ -16,27 +16,32 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
 * *import.csv*
 	* A comma separated variable file of domains and the names of the organization.
 	* For reference and to generate all of the lists.
-* ***Pi-hole***
-	* With Pi-hole, use either the wildcard list or the blacklist, but not both. 
-	* *blocklist.txt*
-		* A text file list of only the domains.
-		* This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
-			* https://tch3.net/hg-dnsbl/blocklist.txt
-			* https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-	* *04-pihole-wildcard.conf*
-		* Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
-		* Copy this file into */etc/dnsmasq.d* onto your Pi-hole appliance and restart Pi-hole: 
-			* `pihole restartdns`
-* ***ISC BIND***
-	* *hategrp.rpz.db*
-		* BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
-	* *hategrp.rpz_BAM-import.txt*
-		* A file to be imported into BlueCat Address Manager to create a hate group based Response Policy
-	* *named.conf*
-		* A section of named.conf to be included in your BIND implementation to use the included database. This goes in the *view* section.
-* ***BlueCat Address Manager/Response Policies***
-	* *hategrp.rpz_BAM-import.txt*
-		* Importing the generated file will over-write all entries in the Response Policy in which this list is imported.
+
+### Pi-hole
+With Pi-hole, use either the wildcard list or the blacklist, but not both. 
+
+* *blocklist.txt*
+	* A text file list of only the domains.
+	* This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
+		* https://tch3.net/hg-dnsbl/blocklist.txt
+		* https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
+* *04-pihole-wildcard.conf*
+	* Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
+	* Copy this file into */etc/dnsmasq.d* onto your Pi-hole appliance and restart Pi-hole: 
+		* `pihole restartdns`
+
+### ISC BIND
+* *hategrp.rpz.db*
+	* BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
+* *hategrp.rpz_BAM-import.txt*
+	* A file to be imported into BlueCat Address Manager to create a hate group based Response Policy
+* *named.conf*
+	* A section of named.conf to be included in your BIND implementation to use the included database. This goes in the *view* section.
+
+### BlueCat Address Manager/Response Policies
+Importing the generated file will over-write all entries in the Response Policy in which this list is imported.
+
+* *hategrp.rpz_BAM-import.txt*
 
 ## To do
 
