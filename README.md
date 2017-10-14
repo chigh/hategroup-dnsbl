@@ -1,5 +1,14 @@
 # Hate Group DNSBL
 
+* [Overview]([#overview)
+* [Files & Notes](#files--notes)
+	* [Pi-hole](#pi-hole)
+	* [ISC BIND](#isc-bind)
+	* [BlueCat Address Manager/Response Policies](#bluecat-address-managerresponse-policies)
+* [To do](#to-do)
+* [Ideologies checked/completed](#Ideologies-checkedcompleted)
+
+## Overview
 This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org).
 
 **Note:** This project and I am are in *no* way associated with SPLC. I created this with data from their public website plus a handful of other domains I have come across. (see the Custom section in *import.csv*)
@@ -14,8 +23,7 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
 * *block_hate.sh*
 	* Script to generate the list objects
 * *import.csv*
-	* A comma separated variable file of domains and the names of the organization.
-	* For reference and to generate all of the lists.
+	* A comma separated variable file of domains and the names of the organizations. This is for reference and to generate all of the lists.
 
 ### Pi-hole
 With Pi-hole, use either the wildcard list or the blacklist, but not both. 
