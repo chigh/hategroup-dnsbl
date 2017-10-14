@@ -7,6 +7,7 @@
 	* [BlueCat Address Manager/Response Policies](#bluecat-address-managerresponse-policies)
 * [To do](#to-do)
 * [Ideologies checked/completed](#ideologies-checkedcompleted)
+* [License](#license)
 
 ## Overview
 This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org).
@@ -79,6 +80,9 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Radical Traditional Catholicism] |TBD|
 | [Sovereign Citizens Movement]     |TBD|
 | [White Nationalist]               |2017-09-25|
+
+## License
+Copyright &copy; 2017 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
 
 [na]:   # "No specific groups are listed or found for this ideology."
 [next]: # "This is next on the list to be done."
