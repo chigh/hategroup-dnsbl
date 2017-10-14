@@ -1,6 +1,6 @@
 # Hate Group DNSBL
 
-* [Overview]([#overview)
+* [Overview](#overview)
 * [Files & Notes](#files--notes)
 	* [Pi-hole](#pi-hole)
 	* [ISC BIND](#isc-bind)
