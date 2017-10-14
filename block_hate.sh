@@ -21,6 +21,7 @@ set -o posix
 # USER CONFIGURABLE VARIABLES
 prefix="hategrp"
 input="import.csv" 
+address="172.16.23.13"
 ###########################################################################
 # PLEASE DO NOT CHANGE THE FOLLOWING
 rpz_zone="${prefix}.rpz"
@@ -28,6 +29,7 @@ import_file="${rpz_zone}_BAM-import.txt"
 bind_db="${rpz_zone}.db"
 pihole_txt="blocklist.txt"
 input_tmp="${scratch}/${input}.$$" 
+pihole_wildcard="04-pihole-wildcard.conf"
 ########################################################################### 
 
 if [[ -f ${input} ]]
@@ -63,11 +65,14 @@ function create_import_file() {
 }
 
 function create_pihole_list() {
-    if [[ -e $pihole_txt ]]
-      then rm $pihole_txt
-    fi
+    for file in ${pihole_txt} ${pihole_wildcard}
+    do
+        if [[ -e ${file} ]]
+            then rm ${file}
+        fi
+    done
     
-cat <<EOF >> $pihole_txt
+cat <<EOF >> ${pihole_txt}
 # Hate group DNS Blocklist
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
@@ -77,7 +82,9 @@ cat <<EOF >> $pihole_txt
 EOF
 
     for domain in ${domains[@]}
-      do printf "$domain\n" >> ${pihole_txt}
+      do 
+        printf "${domain}\n" >> ${pihole_txt}
+        printf "address=/${domain}/${address}\n" >> ${pihole_wildcard}
     done
 }
 

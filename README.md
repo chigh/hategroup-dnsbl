@@ -9,11 +9,15 @@ This is a list of designated hate groups' domains as designated by the [Southern
 
 ## Contents
 
+* *04-pihole-wildcard.conf*
+	* Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
+	* Copy this file into */etc/dnsmasq.d* onto your Pi-hole appliance and restart Pi-hole: 
+		* `pihole restartdns`
 * *block_hate.sh*
 	* Script to generate the list objects
 * *blocklist.txt*
 	* A text file list of only the domains. This can be imported into [Pi-hole](https://pi-hole.net)
-	* This can be added to Pi-hole configuration on a local web server or add the following URL to [Pi-hole's Block Lists](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists):
+	* This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
 		* https://tch3.net/hg-dnsbl/blocklist.txt
 * *hategrp.rpz.db*
 	* BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
@@ -25,9 +29,18 @@ This is a list of designated hate groups' domains as designated by the [Southern
 * *named.conf*
 	* A section of named.conf to be included in your BIND implementation to use the included database
 
+### Pi-Hole
+With Pi-hole, use either the wildcard list or the singular blacklist.txt, but not both. 
+
+### BIND
+TBD
+
+### BlueCat
+Importing this file, will over-write all entries in the Response Policy in which this list is imported.
+
 ## To do
 
-* add GPL or other (e.g. Apache) license
+* Complete all ideologies.
 
 ## Ideologies checked/completed: 
 
@@ -39,7 +52,7 @@ This is a list of designated hate groups' domains as designated by the [Southern
 | [Anti-Immigrant]                  |2017-09-25|
 | [Anti-LGBT]                       |2017-10-13|
 | [Anti-Muslim]                     |2017-10-13|
-| [Antigovernment Movement]         |TBD|
+| [Antigovernment Movement]         |[NEXT]|
 | [Black Separatist]  		        |TBD|
 | [Christian Identity] 		        |TBD|
 | [General Hate]                    |TBD|
@@ -54,7 +67,8 @@ This is a list of designated hate groups' domains as designated by the [Southern
 | [Sovereign Citizens Movement]     |TBD|
 | [White Nationalist]               |2017-09-25|
 
-[na]: # "No specific groups are listed or found for this ideology."
+[na]:   # "No specific groups are listed or found for this ideology."
+[next]: # "This is next on the list to be done."
 [sources]: https://www.splcenter.org/fighting-hate
 [ideology]: https://www.splcenter.org/fighting-hate/extremist-files/ideology
 [alt-right]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right
