@@ -77,6 +77,7 @@ cat <<EOF >> ${pihole_txt}
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
+#   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 # Date: $(date +%Y-%m-%d)
 #
 EOF

@@ -2,6 +2,7 @@
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
+#   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 # Date: 2017-10-13
 #
 actforamerica.org

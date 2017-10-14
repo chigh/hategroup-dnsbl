@@ -7,7 +7,9 @@ This is a list of designated hate groups' domains as designated by the [Southern
 * Not all groups have domains; Some have facebook or pages on other shared resources. This will be noted in the *import.csv* if further information is available. This information will be periodically back-filled as it becomes available.
 * Some ideologies have overlap. Pi-hole will account for that. 
 
-## Contents
+Included in this bundle are files and configuration code to be used with [Pi-hole](https://pi-hole.net), [ISC BIND](https://isc.org) Response Policies, or [BlueCat](https://bluecatnetworks.com) Response Policies.
+
+## Files
 
 * *04-pihole-wildcard.conf*
 	* Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
@@ -16,9 +18,10 @@ This is a list of designated hate groups' domains as designated by the [Southern
 * *block_hate.sh*
 	* Script to generate the list objects
 * *blocklist.txt*
-	* A text file list of only the domains. This can be imported into [Pi-hole](https://pi-hole.net)
+	* A text file list of only the domains.
 	* This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
 		* https://tch3.net/hg-dnsbl/blocklist.txt
+		* https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 * *hategrp.rpz.db*
 	* BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
 * *hategrp.rpz_BAM-import.txt*
@@ -36,7 +39,7 @@ With Pi-hole, use either the wildcard list or the singular blacklist.txt, but no
 TBD
 
 ### BlueCat
-Importing this file, will over-write all entries in the Response Policy in which this list is imported.
+Importing the generated file will over-write all entries in the Response Policy in which this list is imported.
 
 ## To do
 
