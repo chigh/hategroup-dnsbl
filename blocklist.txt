@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2017-10-13
+# Date: 2017-10-16
 #
 actforamerica.org
 atlah.org
@@ -57,8 +57,10 @@ counterjihadcoalition.org
 counter-currents.com
 crew38.com
 djameskennedy.org
+dailystormer.ai
 dailystormer.com
 dailystormer.lol
+dailystormer.ph
 dailystormer.ru
 horowitzfreedomcenter.org
 deiryassin.org

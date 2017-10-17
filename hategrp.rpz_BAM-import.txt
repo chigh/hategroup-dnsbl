@@ -50,8 +50,10 @@
 **.counter-currents.com
 **.crew38.com
 **.djameskennedy.org
+**.dailystormer.ai
 **.dailystormer.com
 **.dailystormer.lol
+**.dailystormer.ph
 **.dailystormer.ru
 **.horowitzfreedomcenter.org
 **.deiryassin.org
