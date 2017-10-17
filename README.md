@@ -1,4 +1,4 @@
-# Hate Group DNSBL
+# Hate Group DNS Blacklist
 
 * [Overview](#overview)
 * [Files & Notes](#files--notes)
