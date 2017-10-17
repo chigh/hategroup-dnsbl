@@ -82,6 +82,21 @@ cat <<EOF >> ${pihole_txt}
 #
 EOF
 
+cat <<EOF >> ${pihole_wildcard}
+# Hate group DNS Blocklist
+# Based off Southern Poverty Law Center's list of hate groups. 
+#   Source: https://www.splcenter.org/fighting-hate
+#   URL: https://tch3.net/hg-dnsbl/blocklist.txt
+#   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
+#
+# Copy this file to /etc/dnsmasq.d on your Pi-hole appliance and restart Pi-hole:
+#
+#   pihole restartdns
+#
+# Date: $(date +%Y-%m-%d)
+#
+EOF
+
     for domain in ${domains[@]}
       do 
         printf "${domain}\n" >> ${pihole_txt}
