@@ -11,6 +11,7 @@
 
 ## Overview
 This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org).
+Please report errors [here](https://github.com/chigh/hategroup-dnsbl/issues). 
 
 **Note:** This project and I am are in *no* way associated with SPLC. I created this with data from their public website plus a handful of other domains I have come across. (see the Custom section in *import.csv*)
 
