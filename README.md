@@ -52,10 +52,6 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 * *hategrp.rpz_BAM-import.txt*
 
-## To do
-
-* Complete all ideologies.
-
 ## Sources 
 
 **Note:** This is a work in progress and I haven't gotten to all sections, yet.
@@ -80,6 +76,11 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Radical Traditional Catholicism] |2017-10-25|
 | [Sovereign Citizens Movement]     |[N/A]|
 | [White Nationalist]               |2017-09-25|
+
+## To do
+
+* Complete the Antigovernment Movement.
+	* There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
 
 ## License
 Copyright &copy; 2017 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
