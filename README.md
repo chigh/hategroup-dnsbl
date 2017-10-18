@@ -6,7 +6,7 @@
 	* [ISC BIND](#isc-bind)
 	* [BlueCat Address Manager/Response Policies](#bluecat-address-managerresponse-policies)
 * [To do](#to-do)
-* [Ideologies checked/completed](#ideologies-checkedcompleted)
+* [Sources](#sources)
 * [License](#license)
 
 ## Overview
@@ -56,7 +56,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 * Complete all ideologies.
 
-## Ideologies checked/completed: 
+## Sources 
 
 **Note:** This is a work in progress and I haven't gotten to all sections, yet.
 
