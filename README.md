@@ -62,29 +62,29 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 | [Ideology] & [Sources]            | Date     |
 | :--                               | :--:     |
-| [Alt-Right]                       |[N/A][na]|
+| [Alt-Right]                       |[N/A]|
 | [Anti-Immigrant]                  |2017-09-25|
 | [Anti-LGBT]                       |2017-10-13|
 | [Anti-Muslim]                     |2017-10-13|
 | [Antigovernment Movement]         |TBD|
 | [Black Separatist]  		        |2017-10-17|
 | [Christian Identity] 		        |2017-10-17|
-| [General Hate]                    |TBD|
-| [Hate Music]                      |TBD|
+| [General Hate]                    |[N/A]|
+| [Hate Music]                      |[N/A]|
 | [Holocaust Denial]                |2017-09-25|
 | [KKK]                             |2017-09-25|
 | [Neo-Confederate]                 |2017-09-25|
-| [Neo-Nazi]                        |TBD|
-| [Phineas Priesthood]              |TBD|
+| [Neo-Nazi]                        |2017-10-17|
+| [Phineas Priesthood]              |[N/A]|
 | [Racist Skinheads]                |2017-09-25|
-| [Radical Traditional Catholicism] |TBD|
+| [Radical Traditional Catholicism] |2017-10-25|
 | [Sovereign Citizens Movement]     |TBD|
 | [White Nationalist]               |2017-09-25|
 
 ## License
 Copyright &copy; 2017 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
 
-[na]:   # "No specific groups are listed or found for this ideology."
+[N/A]:  # "No specific groups are listed or found for this ideology."
 [next]: # "This is next on the list to be done."
 [sources]: https://www.splcenter.org/fighting-hate
 [ideology]: https://www.splcenter.org/fighting-hate/extremist-files/ideology
