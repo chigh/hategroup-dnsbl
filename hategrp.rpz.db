@@ -138,6 +138,8 @@ dailystormer.com CNAME .
 dailystormer.lol CNAME .
 *.dailystormer.ph CNAME .
 dailystormer.ph CNAME .
+*.dailystormer.red CNAME .
+dailystormer.red CNAME .
 *.dailystormer.ru CNAME .
 dailystormer.ru CNAME .
 *.horowitzfreedomcenter.org CNAME .

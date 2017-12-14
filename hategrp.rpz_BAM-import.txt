@@ -66,6 +66,7 @@
 **.dailystormer.com
 **.dailystormer.lol
 **.dailystormer.ph
+**.dailystormer.red
 **.dailystormer.ru
 **.horowitzfreedomcenter.org
 **.deiryassin.org
