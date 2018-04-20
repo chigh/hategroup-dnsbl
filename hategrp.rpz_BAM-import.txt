@@ -65,6 +65,7 @@
 **.dailystormer.ai
 **.dailystormer.com
 **.dailystormer.lol
+**.dailystormer.name
 **.dailystormer.ph
 **.dailystormer.red
 **.dailystormer.ru

@@ -136,6 +136,8 @@ dailystormer.ai CNAME .
 dailystormer.com CNAME .
 *.dailystormer.lol CNAME .
 dailystormer.lol CNAME .
+*.dailystormer.name CNAME .
+dailystormer.name CNAME .
 *.dailystormer.ph CNAME .
 dailystormer.ph CNAME .
 *.dailystormer.red CNAME .
