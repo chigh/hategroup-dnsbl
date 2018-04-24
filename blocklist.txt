@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2018-04-20
+# Date: 2018-04-24
 #
 actforamerica.org
 atlah.org
@@ -122,7 +122,7 @@ Islamthreat.com
 israelunite.org
 israelunitedinchrist.tumblr.com
 icgjcmd.org
-http://thecomforter.info
+thecomforter.info
 1west.org
 isupk.com
 jihadwatch.org
