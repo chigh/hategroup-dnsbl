@@ -102,6 +102,7 @@
 **.home60515.com
 **.ihmmedia.net
 **.ihspress.com
+**.threeper-gear.ca
 **.iiisecurityforce.com
 **.identitydixie.com
 **.identityevropa.com
@@ -118,6 +119,7 @@
 **.thecomforter.info
 **.1west.org
 **.isupk.com
+**.jdl-canada.com
 **.jihadwatch.org
 **.keystone2001united.wordpress.com
 **.kingidentity.com
@@ -139,6 +141,7 @@
 **.navtan.com
 **.cirnow.org
 **.npiamerica.org
+**.neveragaincanada.ca
 **.nbpp.org
 **.nbppnational.org
 **.nyice.us
@@ -162,6 +165,7 @@
 **.probe.org
 **.prbcnc.com
 **.publicadvocateusa.org
+**.rairfoundation.com
 **.rnpaheadquarters.org
 **.radixjournal.com
 **.therealistreport.com
@@ -172,6 +176,9 @@
 **.remnantnewspaper.com
 **.resistance.com
 **.therightstuff.biz
+**.ca.rise.ca
+**.risecanada.ca
+**.risecanada.com
 **.robertsungenis.org
 **.ruthinstitute.org
 **.sacredtruthministries.com
@@ -198,6 +205,8 @@
 **.teamamericapac.com
 **.texasrebelknightskkk.com
 **.thethreepercenters.org
+**.threeperscanada.com
+**.threepercentersclub.org
 **.tbm.org
 **.traditioninaction.org
 **.traditionalvalues.org

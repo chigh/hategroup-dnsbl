@@ -2,6 +2,8 @@
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
+# Other resources:
+#   https://nowtoronto.com/news/canada-islamophobic-groups/
 #
 ###########################################################################
 ### Custom 
@@ -20,6 +22,20 @@ Daily Stormer (es)|elstormer6vrre53.onion.link
 Southern Party of Georgia|spofga.org
 Sharia Unveiled|shariaunveiled.wordpress.com
 Three Percenters (aka III%)|thethreepercenters.org
+RAIR Foundation (Islamiphobia)|rairfoundation.com
+
+### Canada
+Three Percenters Canada|threeperscanada.com
+Three Percenters Club|threepercentersclub.org
+III% Canada Gear - Threeper Gear|threeper-gear.ca
+Never Again Canada|neveragaincanada.ca
+Jewish Defence League. JDL Canada|jdl-canada.com
+Rise Canada|risecanada.com
+Rise Canada|ca.rise.ca
+Rise Canada|risecanada.ca
+
+#Three Percenters Alberta (fb)|https://www.facebook.com/Alta3percentSP
+#Canadian Three Percenters|https://www.facebook.com/Canadian-Three-Percenters-1885624221680312
 #
 #
 ###########################################################################

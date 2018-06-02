@@ -20,8 +20,7 @@ Please report errors [here](https://github.com/chigh/hategroup-dnsbl/issues).
 
 Included in this bundle are files and configuration code to be used with [Pi-hole](https://pi-hole.net), [ISC BIND](https://isc.org) Response Policies, or [BlueCat](https://bluecatnetworks.com) Response Policies.
 
-## Files & Notes
-
+## Files & Notes 
 * *block_hate.sh*
 	* Script to generate the list objects
 * *import.csv*
@@ -77,6 +76,10 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Radical Traditional Catholicism] |2017-10-25|
 | [Sovereign Citizens Movement]     |[N/A]|
 | [White Nationalist]               |2017-09-25|
+
+* There is no SPLC for Canada, so based upon a groups related to the ones already in the list.
+	* [A guide to Canada's anti-Islamic groups -- NowToronto](https://nowtoronto.com/news/canada-islamophobic-groups/)
+
 
 ## To do
 

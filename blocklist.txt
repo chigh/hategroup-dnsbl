@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2018-05-10
+# Date: 2018-06-01
 #
 actforamerica.org
 atlah.org
@@ -109,6 +109,7 @@ efp.org.uk
 home60515.com
 ihmmedia.net
 ihspress.com
+threeper-gear.ca
 iiisecurityforce.com
 identitydixie.com
 identityevropa.com
@@ -125,6 +126,7 @@ icgjcmd.org
 thecomforter.info
 1west.org
 isupk.com
+jdl-canada.com
 jihadwatch.org
 keystone2001united.wordpress.com
 kingidentity.com
@@ -146,6 +148,7 @@ noi.org
 navtan.com
 cirnow.org
 npiamerica.org
+neveragaincanada.ca
 nbpp.org
 nbppnational.org
 nyice.us
@@ -169,6 +172,7 @@ proenglish.org
 probe.org
 prbcnc.com
 publicadvocateusa.org
+rairfoundation.com
 rnpaheadquarters.org
 radixjournal.com
 therealistreport.com
@@ -179,6 +183,9 @@ refugeeresettlementwatch.wordpress.com
 remnantnewspaper.com
 resistance.com
 therightstuff.biz
+ca.rise.ca
+risecanada.ca
+risecanada.com
 robertsungenis.org
 ruthinstitute.org
 sacredtruthministries.com
@@ -205,6 +212,8 @@ tcfamily.org
 teamamericapac.com
 texasrebelknightskkk.com
 thethreepercenters.org
+threeperscanada.com
+threepercentersclub.org
 tbm.org
 traditioninaction.org
 traditionalvalues.org

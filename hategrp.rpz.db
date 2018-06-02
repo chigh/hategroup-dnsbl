@@ -210,6 +210,8 @@ home60515.com CNAME .
 ihmmedia.net CNAME .
 *.ihspress.com CNAME .
 ihspress.com CNAME .
+*.threeper-gear.ca CNAME .
+threeper-gear.ca CNAME .
 *.iiisecurityforce.com CNAME .
 iiisecurityforce.com CNAME .
 *.identitydixie.com CNAME .
@@ -242,6 +244,8 @@ thecomforter.info CNAME .
 1west.org CNAME .
 *.isupk.com CNAME .
 isupk.com CNAME .
+*.jdl-canada.com CNAME .
+jdl-canada.com CNAME .
 *.jihadwatch.org CNAME .
 jihadwatch.org CNAME .
 *.keystone2001united.wordpress.com CNAME .
@@ -284,6 +288,8 @@ navtan.com CNAME .
 cirnow.org CNAME .
 *.npiamerica.org CNAME .
 npiamerica.org CNAME .
+*.neveragaincanada.ca CNAME .
+neveragaincanada.ca CNAME .
 *.nbpp.org CNAME .
 nbpp.org CNAME .
 *.nbppnational.org CNAME .
@@ -330,6 +336,8 @@ probe.org CNAME .
 prbcnc.com CNAME .
 *.publicadvocateusa.org CNAME .
 publicadvocateusa.org CNAME .
+*.rairfoundation.com CNAME .
+rairfoundation.com CNAME .
 *.rnpaheadquarters.org CNAME .
 rnpaheadquarters.org CNAME .
 *.radixjournal.com CNAME .
@@ -350,6 +358,12 @@ remnantnewspaper.com CNAME .
 resistance.com CNAME .
 *.therightstuff.biz CNAME .
 therightstuff.biz CNAME .
+*.ca.rise.ca CNAME .
+ca.rise.ca CNAME .
+*.risecanada.ca CNAME .
+risecanada.ca CNAME .
+*.risecanada.com CNAME .
+risecanada.com CNAME .
 *.robertsungenis.org CNAME .
 robertsungenis.org CNAME .
 *.ruthinstitute.org CNAME .
@@ -402,6 +416,10 @@ teamamericapac.com CNAME .
 texasrebelknightskkk.com CNAME .
 *.thethreepercenters.org CNAME .
 thethreepercenters.org CNAME .
+*.threeperscanada.com CNAME .
+threeperscanada.com CNAME .
+*.threepercentersclub.org CNAME .
+threepercentersclub.org CNAME .
 *.tbm.org CNAME .
 tbm.org CNAME .
 *.traditioninaction.org CNAME .
