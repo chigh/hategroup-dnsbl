@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2018-06-01
+# Date: 2018-07-06
 #
 actforamerica.org
 atlah.org
@@ -170,6 +170,7 @@ politicalislam.com
 prayinjesusname.org
 proenglish.org
 probe.org
+proudboysusa.com
 prbcnc.com
 publicadvocateusa.org
 rairfoundation.com

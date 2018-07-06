@@ -58,7 +58,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 | [Ideology] & [Sources]            | Date     |
 | :--                               | :--:     |
-| [Alt-Right]                       |[N/A]|
+| [Alt-Right]                       |2018-07-06|
 | [Anti-Immigrant]                  |2017-09-25|
 | [Anti-LGBT]                       |2017-10-13|
 | [Anti-Muslim]                     |2017-10-13|
