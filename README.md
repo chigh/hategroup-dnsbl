@@ -111,3 +111,4 @@ Copyright &copy; 2019 Clair High &mdash; Licensed under [MIT](https://raw.github
 [radical traditional catholicism]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/radical-traditional-catholicism
 [sovereign citizens movement]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/sovereign-citizens-movement
 [white nationalist]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/white-nationalist
+
