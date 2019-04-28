@@ -15,6 +15,7 @@
 **.americanfreedomlawcenter.org
 **.american3rdposition.com
 **.americanfreedomunion.com
+**.americanidentitymovement.com
 **.immigrationcontrol.com
 **.amren.com
 **.american-vanguard.com
@@ -64,6 +65,7 @@
 **.djameskennedy.org
 **.elstormer6vrre53.onion.link
 **.bbs.dstormer6em3i4km.onion
+**.dstormer6em3i4km.onion.link
 **.dailystormer.ai
 **.dailystormer.com
 **.dailystormer.lol
@@ -71,7 +73,6 @@
 **.dailystormer.ph
 **.dailystormer.red
 **.dailystormer.ru
-**.dstormer6em3i4km.onion.link
 **.horowitzfreedomcenter.org
 **.deiryassin.org
 **.revandrewangel.com

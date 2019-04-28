@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2018-10-03
+# Date: 2019-04-28
 #
 actforamerica.org
 atlah.org
@@ -22,6 +22,7 @@ freedomdefense.typepad.com
 americanfreedomlawcenter.org
 american3rdposition.com
 americanfreedomunion.com
+americanidentitymovement.com
 immigrationcontrol.com
 amren.com
 american-vanguard.com
@@ -71,6 +72,7 @@ culturewars.com
 djameskennedy.org
 elstormer6vrre53.onion.link
 bbs.dstormer6em3i4km.onion
+dstormer6em3i4km.onion.link
 dailystormer.ai
 dailystormer.com
 dailystormer.lol
@@ -78,7 +80,6 @@ dailystormer.name
 dailystormer.ph
 dailystormer.red
 dailystormer.ru
-dstormer6em3i4km.onion.link
 horowitzfreedomcenter.org
 deiryassin.org
 revandrewangel.com

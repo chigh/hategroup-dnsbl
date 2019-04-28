@@ -36,6 +36,8 @@ americanfreedomlawcenter.org CNAME .
 american3rdposition.com CNAME .
 *.americanfreedomunion.com CNAME .
 americanfreedomunion.com CNAME .
+*.americanidentitymovement.com CNAME .
+americanidentitymovement.com CNAME .
 *.immigrationcontrol.com CNAME .
 immigrationcontrol.com CNAME .
 *.amren.com CNAME .
@@ -134,6 +136,8 @@ djameskennedy.org CNAME .
 elstormer6vrre53.onion.link CNAME .
 *.bbs.dstormer6em3i4km.onion CNAME .
 bbs.dstormer6em3i4km.onion CNAME .
+*.dstormer6em3i4km.onion.link CNAME .
+dstormer6em3i4km.onion.link CNAME .
 *.dailystormer.ai CNAME .
 dailystormer.ai CNAME .
 *.dailystormer.com CNAME .
@@ -148,8 +152,6 @@ dailystormer.ph CNAME .
 dailystormer.red CNAME .
 *.dailystormer.ru CNAME .
 dailystormer.ru CNAME .
-*.dstormer6em3i4km.onion.link CNAME .
-dstormer6em3i4km.onion.link CNAME .
 *.horowitzfreedomcenter.org CNAME .
 horowitzfreedomcenter.org CNAME .
 *.deiryassin.org CNAME .
