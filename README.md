@@ -87,7 +87,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 	* There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
 
 ## License
-Copyright &copy; 2017 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
+Copyright &copy; 2019 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
 
 [N/A]:  # "No specific groups are listed or found for this ideology."
 [next]: # "This is next on the list to be done."
