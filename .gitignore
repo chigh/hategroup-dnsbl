@@ -1,3 +1,4 @@
-**/review.csv
+# **/review.csv
 .htaccess
 error.php
+.private
