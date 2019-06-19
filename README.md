@@ -36,6 +36,7 @@ With Pi-hole, use either the wildcard list or the blacklist, but not both.
 		* https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 * *04-pihole-wildcard.conf*
 	* Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
+    * Modify this file to contain the IP address of your Pi-Hole appliance.
 	* Copy this file into */etc/dnsmasq.d* onto your Pi-hole appliance and restart Pi-hole: 
 		* `pihole restartdns`
 
