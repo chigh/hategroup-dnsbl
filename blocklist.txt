@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-04-28
+# Date: 2019-06-29
 #
 actforamerica.org
 atlah.org
@@ -37,6 +37,7 @@ barnesreview.org
 blackridersliberationparty.com
 bloodandhonour.net
 bloodandhonour-arkansas.webs.com
+bloodandhonourworldwide.co.uk
 whitakeronline.org
 bombislam.com
 borderkeepersofalabama.org
@@ -62,6 +63,8 @@ ccv.org
 cfns.us
 clarionproject.org
 cairco.org
+combat18.net
+combat18.org
 codoh.com
 conservative-headlines.com
 counterjihadcoalition.org
