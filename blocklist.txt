@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-06-29
+# Date: 2019-08-04
 #
 actforamerica.org
 atlah.org
@@ -249,3 +249,9 @@ windsorhills.org
 worldcongress.org
 yahushuadsciministry.us
 jameswickstrom.com
+4chan.org
+4channel.org
+8ch.net
+8chan.co
+foxnews.com
+kiwifarms.net
