@@ -3,8 +3,10 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-06-29
+# Date: 2019-08-06
 #
+8ch.net
+avoiceformen.com
 actforamerica.org
 atlah.org
 abidingtruthministry.com
@@ -188,6 +190,7 @@ rebelbrigadeknightstrueinvisibleempire.yolasite.com
 refugeeresettlementwatch.wordpress.com
 remnantnewspaper.com
 resistance.com
+returnofkings.com
 therightstuff.biz
 ca.rise.ca
 risecanada.ca

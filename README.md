@@ -70,6 +70,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Hate Music]                      |[N/A]|
 | [Holocaust Denial]                |2017-09-25|
 | [KKK]                             |2017-09-25|
+| [Male Supremacy]                  |2019-08-06|
 | [Neo-Confederate]                 |2017-09-25|
 | [Neo-Nazi]                        |2017-10-17|
 | [Phineas Priesthood]              |[N/A]|
@@ -105,6 +106,7 @@ Copyright &copy; 2019 Clair High &mdash; Licensed under [MIT](https://raw.github
 [hate music]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/hate-music
 [holocaust denial]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/holocaust-denial
 [kkk]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/ku-klux-klan
+[male supremacy]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy
 [neo-confederate]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-confederate
 [neo-nazi]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-nazi
 [phineas priesthood]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/phineas-priesthood
