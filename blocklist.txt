@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-08-06
+# Date: 2019-08-07
 #
 4chan.org
 4channel.org
@@ -95,6 +95,7 @@ revandrewangel.com
 divine-truth.org
 dixierepublic.com
 eastcoastknightsofthetrueinvisibleempire.com
+epik.com
 eurofolkradio.com
 europeanamericanactioncoalition.wordpress.com
 faithandheritage.com
