@@ -5,7 +5,11 @@
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 # Date: 2019-08-06
 #
+4chan.org
+4channel.org
 8ch.net
+8chan.co
+8chan.org
 avoiceformen.com
 actforamerica.org
 atlah.org
@@ -137,6 +141,8 @@ jihadwatch.org
 keystone2001united.wordpress.com
 kingidentity.com
 kinsmanredeemer.com
+kiwifarms.pl
+kiwifarms.nl
 kiwifarms.net
 knightsofthewhitedisciples.com
 kuklosknights.com
