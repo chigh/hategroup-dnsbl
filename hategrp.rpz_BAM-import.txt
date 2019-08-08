@@ -1,5 +1,7 @@
 **.4chan.org
 **.4channel.org
+**.susukino.com
+**.vipsumo.com
 **.8ch.net
 **.8chan.co
 **.8chan.org
@@ -23,6 +25,8 @@
 **.americanfreedomunion.com
 **.americanidentitymovement.com
 **.immigrationcontrol.com
+**.aicfoundation.com
+**.americanimmigrationcontrol.com
 **.amren.com
 **.american-vanguard.com
 **.americanvikings.com
@@ -32,6 +36,7 @@
 **.americaspromiseministries.org
 **.barenakedislam.com
 **.barnesreview.org
+**.bitmitigate.com
 **.2servethapeople.wixsite.com
 **.blackridersliberationparty.com
 **.bloodandhonour.net
@@ -40,6 +45,7 @@
 **.whitakeronline.org
 **.bombislam.com
 **.borderkeepersofalabama.org
+**.ccir.net
 **.capsweb.org
 **.revisionisthistory.org
 **.BroJed.org
@@ -154,6 +160,7 @@
 **.noi.org
 **.navtan.com
 **.cirnow.org
+**.duke.org
 **.npiamerica.org
 **.neveragaincanada.ca
 **.nbpp.org
@@ -162,6 +169,7 @@
 **.christogenea.org
 **.emahiser.christogenea.org
 **.northwestfront.org
+**.numbersusa.com
 **.omnicbc.com
 **.occidentaldissent.com
 **.theoccidentalobserver.net
@@ -177,6 +185,7 @@
 **.prayinjesusname.org
 **.proenglish.org
 **.probe.org
+**.projectusa.org
 **.proudboysusa.com
 **.prbcnc.com
 **.publicadvocateusa.org
@@ -221,6 +230,8 @@
 **.teamamericapac.com
 **.texasrebelknightskkk.com
 **.thekosherquestion.com
+**.tscpress.com
+**.steinreport.com
 **.thethreepercenters.org
 **.threeperscanada.com
 **.threepercentersclub.org
@@ -242,6 +253,7 @@
 **.vinlandclothing.com
 **.vachristian.org
 **.richardhoskins.com
+**.americanpatrol.com
 **.thornwalker.com
 **.waronthehorizon.com
 **.washsummit.com

@@ -3,10 +3,12 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-08-07
+# Date: 2019-08-08
 #
 4chan.org
 4channel.org
+susukino.com
+vipsumo.com
 8ch.net
 8chan.co
 8chan.org
@@ -30,6 +32,8 @@ american3rdposition.com
 americanfreedomunion.com
 americanidentitymovement.com
 immigrationcontrol.com
+aicfoundation.com
+americanimmigrationcontrol.com
 amren.com
 american-vanguard.com
 americanvikings.com
@@ -39,6 +43,7 @@ americansfortruth.com
 americaspromiseministries.org
 barenakedislam.com
 barnesreview.org
+bitmitigate.com
 2servethapeople.wixsite.com
 blackridersliberationparty.com
 bloodandhonour.net
@@ -47,6 +52,7 @@ bloodandhonourworldwide.co.uk
 whitakeronline.org
 bombislam.com
 borderkeepersofalabama.org
+ccir.net
 capsweb.org
 revisionisthistory.org
 BroJed.org
@@ -161,6 +167,7 @@ mostholyfamilymonastery.com
 noi.org
 navtan.com
 cirnow.org
+duke.org
 npiamerica.org
 neveragaincanada.ca
 nbpp.org
@@ -169,6 +176,7 @@ nyice.us
 christogenea.org
 emahiser.christogenea.org
 northwestfront.org
+numbersusa.com
 omnicbc.com
 occidentaldissent.com
 theoccidentalobserver.net
@@ -184,6 +192,7 @@ politicalislam.com
 prayinjesusname.org
 proenglish.org
 probe.org
+projectusa.org
 proudboysusa.com
 prbcnc.com
 publicadvocateusa.org
@@ -228,6 +237,8 @@ tcfamily.org
 teamamericapac.com
 texasrebelknightskkk.com
 thekosherquestion.com
+tscpress.com
+steinreport.com
 thethreepercenters.org
 threeperscanada.com
 threepercentersclub.org
@@ -249,6 +260,7 @@ veritybaptist.com
 vinlandclothing.com
 vachristian.org
 richardhoskins.com
+americanpatrol.com
 thornwalker.com
 waronthehorizon.com
 washsummit.com

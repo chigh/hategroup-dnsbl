@@ -6,6 +6,10 @@ LOCALHOST. IN A 127.0.0.1
 4chan.org CNAME .
 *.4channel.org CNAME .
 4channel.org CNAME .
+*.susukino.com CNAME .
+susukino.com CNAME .
+*.vipsumo.com CNAME .
+vipsumo.com CNAME .
 *.8ch.net CNAME .
 8ch.net CNAME .
 *.8chan.co CNAME .
@@ -52,6 +56,10 @@ americanfreedomunion.com CNAME .
 americanidentitymovement.com CNAME .
 *.immigrationcontrol.com CNAME .
 immigrationcontrol.com CNAME .
+*.aicfoundation.com CNAME .
+aicfoundation.com CNAME .
+*.americanimmigrationcontrol.com CNAME .
+americanimmigrationcontrol.com CNAME .
 *.amren.com CNAME .
 amren.com CNAME .
 *.american-vanguard.com CNAME .
@@ -70,6 +78,8 @@ americaspromiseministries.org CNAME .
 barenakedislam.com CNAME .
 *.barnesreview.org CNAME .
 barnesreview.org CNAME .
+*.bitmitigate.com CNAME .
+bitmitigate.com CNAME .
 *.2servethapeople.wixsite.com CNAME .
 2servethapeople.wixsite.com CNAME .
 *.blackridersliberationparty.com CNAME .
@@ -86,6 +96,8 @@ whitakeronline.org CNAME .
 bombislam.com CNAME .
 *.borderkeepersofalabama.org CNAME .
 borderkeepersofalabama.org CNAME .
+*.ccir.net CNAME .
+ccir.net CNAME .
 *.capsweb.org CNAME .
 capsweb.org CNAME .
 *.revisionisthistory.org CNAME .
@@ -314,6 +326,8 @@ noi.org CNAME .
 navtan.com CNAME .
 *.cirnow.org CNAME .
 cirnow.org CNAME .
+*.duke.org CNAME .
+duke.org CNAME .
 *.npiamerica.org CNAME .
 npiamerica.org CNAME .
 *.neveragaincanada.ca CNAME .
@@ -330,6 +344,8 @@ christogenea.org CNAME .
 emahiser.christogenea.org CNAME .
 *.northwestfront.org CNAME .
 northwestfront.org CNAME .
+*.numbersusa.com CNAME .
+numbersusa.com CNAME .
 *.omnicbc.com CNAME .
 omnicbc.com CNAME .
 *.occidentaldissent.com CNAME .
@@ -360,6 +376,8 @@ prayinjesusname.org CNAME .
 proenglish.org CNAME .
 *.probe.org CNAME .
 probe.org CNAME .
+*.projectusa.org CNAME .
+projectusa.org CNAME .
 *.proudboysusa.com CNAME .
 proudboysusa.com CNAME .
 *.prbcnc.com CNAME .
@@ -448,6 +466,10 @@ teamamericapac.com CNAME .
 texasrebelknightskkk.com CNAME .
 *.thekosherquestion.com CNAME .
 thekosherquestion.com CNAME .
+*.tscpress.com CNAME .
+tscpress.com CNAME .
+*.steinreport.com CNAME .
+steinreport.com CNAME .
 *.thethreepercenters.org CNAME .
 thethreepercenters.org CNAME .
 *.threeperscanada.com CNAME .
@@ -490,6 +512,8 @@ vinlandclothing.com CNAME .
 vachristian.org CNAME .
 *.richardhoskins.com CNAME .
 richardhoskins.com CNAME .
+*.americanpatrol.com CNAME .
+americanpatrol.com CNAME .
 *.thornwalker.com CNAME .
 thornwalker.com CNAME .
 *.waronthehorizon.com CNAME .
