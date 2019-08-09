@@ -25,6 +25,8 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
 	* Script to generate the list objects
 * *import.csv*
 	* A comma separated variable file of domains and the names of the organizations. This is for reference and to generate all of the lists.
+    * Lines beginning with ? are groups/domains that are not in the 2018 list ([Source](https://www.splcenter.org/hate-map)).
+    * Lines beginning with + are newly added groups in the 2018 list.
 
 ### Pi-hole
 With Pi-hole, use either the wildcard list or the blacklist, but not both. 
