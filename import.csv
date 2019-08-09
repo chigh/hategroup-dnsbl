@@ -1,7 +1,9 @@
 # Hate group DNS Blocklist
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
+#           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
+#        
 # Other resources:
 #   https://nowtoronto.com/news/canada-islamophobic-groups/
 #
