@@ -3,8 +3,10 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-08-08
+# Date: 2019-08-09
 #
+truelightpentecost.org
+wfcchurch.org
 4chan.org
 4channel.org
 susukino.com
@@ -12,6 +14,12 @@ vipsumo.com
 8ch.net
 8chan.co
 8chan.org
+ccv.org
+prbcnc.com
+stedfastbaptistkjv.org
+tcfamily.org
+traditionalvalues.org
+windsorhills.org
 avoiceformen.com
 actforamerica.org
 atlah.org
@@ -68,16 +76,18 @@ christorchaos.com
 christianaction.org
 christianamericaministries.com
 christianrevivalcenter.org
+churchmilitant.com
 churchofisrael.org
 cnkkkk.net
 citizenwarrior.com
-ccv.org
 cfns.us
 clarionproject.org
 cairco.org
 combat18.net
 combat18.org
 codoh.com
+concernedchristiancitizens.org
+crtpac.com
 conservative-headlines.com
 counterjihadcoalition.org
 counter-currents.com
@@ -194,7 +204,6 @@ proenglish.org
 probe.org
 projectusa.org
 proudboysusa.com
-prbcnc.com
 publicadvocateusa.org
 rairfoundation.com
 rnpaheadquarters.org
@@ -228,12 +237,11 @@ thesocialcontract.com
 southernfuture.com
 southernnationalcongress.org
 spofga.org
-stedfastbaptistkjv.org
 siotw.org
 stormfront.org
 thestraightway.org
 sultanknish.blogspot.com
-tcfamily.org
+surefoundationbaptist.church
 teamamericapac.com
 texasrebelknightskkk.com
 thekosherquestion.com
@@ -244,7 +252,6 @@ threeperscanada.com
 threepercentersclub.org
 tbm.org
 traditioninaction.org
-traditionalvalues.org
 traditionalistamericanknights.com
 tradworker.org
 tradyouth.org
@@ -267,7 +274,6 @@ washsummit.com
 godhatesfags.com
 whiteboysociety.blogspot.com
 whiterabbitradio.net
-windsorhills.org
 worldcongress.org
 yahushuadsciministry.us
 jameswickstrom.com

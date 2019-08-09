@@ -2,6 +2,10 @@ $TTL 5
 @ IN SOA LOCALHOST. postmaster.no.email.please. ( 1 3600 600 2592000 3600 )
 @ IN NS LOCALHOST.
 LOCALHOST. IN A 127.0.0.1
+*.truelightpentecost.org CNAME .
+truelightpentecost.org CNAME .
+*.wfcchurch.org CNAME .
+wfcchurch.org CNAME .
 *.4chan.org CNAME .
 4chan.org CNAME .
 *.4channel.org CNAME .
@@ -16,6 +20,18 @@ vipsumo.com CNAME .
 8chan.co CNAME .
 *.8chan.org CNAME .
 8chan.org CNAME .
+*.ccv.org CNAME .
+ccv.org CNAME .
+*.prbcnc.com CNAME .
+prbcnc.com CNAME .
+*.stedfastbaptistkjv.org CNAME .
+stedfastbaptistkjv.org CNAME .
+*.tcfamily.org CNAME .
+tcfamily.org CNAME .
+*.traditionalvalues.org CNAME .
+traditionalvalues.org CNAME .
+*.windsorhills.org CNAME .
+windsorhills.org CNAME .
 *.avoiceformen.com CNAME .
 avoiceformen.com CNAME .
 *.actforamerica.org CNAME .
@@ -128,14 +144,14 @@ christianaction.org CNAME .
 christianamericaministries.com CNAME .
 *.christianrevivalcenter.org CNAME .
 christianrevivalcenter.org CNAME .
+*.churchmilitant.com CNAME .
+churchmilitant.com CNAME .
 *.churchofisrael.org CNAME .
 churchofisrael.org CNAME .
 *.cnkkkk.net CNAME .
 cnkkkk.net CNAME .
 *.citizenwarrior.com CNAME .
 citizenwarrior.com CNAME .
-*.ccv.org CNAME .
-ccv.org CNAME .
 *.cfns.us CNAME .
 cfns.us CNAME .
 *.clarionproject.org CNAME .
@@ -148,6 +164,10 @@ combat18.net CNAME .
 combat18.org CNAME .
 *.codoh.com CNAME .
 codoh.com CNAME .
+*.concernedchristiancitizens.org CNAME .
+concernedchristiancitizens.org CNAME .
+*.crtpac.com CNAME .
+crtpac.com CNAME .
 *.conservative-headlines.com CNAME .
 conservative-headlines.com CNAME .
 *.counterjihadcoalition.org CNAME .
@@ -380,8 +400,6 @@ probe.org CNAME .
 projectusa.org CNAME .
 *.proudboysusa.com CNAME .
 proudboysusa.com CNAME .
-*.prbcnc.com CNAME .
-prbcnc.com CNAME .
 *.publicadvocateusa.org CNAME .
 publicadvocateusa.org CNAME .
 *.rairfoundation.com CNAME .
@@ -448,8 +466,6 @@ southernfuture.com CNAME .
 southernnationalcongress.org CNAME .
 *.spofga.org CNAME .
 spofga.org CNAME .
-*.stedfastbaptistkjv.org CNAME .
-stedfastbaptistkjv.org CNAME .
 *.siotw.org CNAME .
 siotw.org CNAME .
 *.stormfront.org CNAME .
@@ -458,8 +474,8 @@ stormfront.org CNAME .
 thestraightway.org CNAME .
 *.sultanknish.blogspot.com CNAME .
 sultanknish.blogspot.com CNAME .
-*.tcfamily.org CNAME .
-tcfamily.org CNAME .
+*.surefoundationbaptist.church CNAME .
+surefoundationbaptist.church CNAME .
 *.teamamericapac.com CNAME .
 teamamericapac.com CNAME .
 *.texasrebelknightskkk.com CNAME .
@@ -480,8 +496,6 @@ threepercentersclub.org CNAME .
 tbm.org CNAME .
 *.traditioninaction.org CNAME .
 traditioninaction.org CNAME .
-*.traditionalvalues.org CNAME .
-traditionalvalues.org CNAME .
 *.traditionalistamericanknights.com CNAME .
 traditionalistamericanknights.com CNAME .
 *.tradworker.org CNAME .
@@ -526,8 +540,6 @@ godhatesfags.com CNAME .
 whiteboysociety.blogspot.com CNAME .
 *.whiterabbitradio.net CNAME .
 whiterabbitradio.net CNAME .
-*.windsorhills.org CNAME .
-windsorhills.org CNAME .
 *.worldcongress.org CNAME .
 worldcongress.org CNAME .
 *.yahushuadsciministry.us CNAME .
