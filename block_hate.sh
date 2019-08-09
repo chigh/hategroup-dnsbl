@@ -21,7 +21,7 @@ set -o posix
 # USER CONFIGURABLE VARIABLES
 prefix="hategrp"
 input="import.csv" 
-address="172.16.23.13"
+address="127.0.0.1"
 ###########################################################################
 # PLEASE DO NOT CHANGE THE FOLLOWING
 rpz_zone="${prefix}.rpz"
@@ -34,7 +34,7 @@ pihole_wildcard="04-pihole-wildcard.conf"
 
 if [[ -f ${input} ]]
 then
-    sort ${input} > ${input_tmp}
+    sort -k2 -n ${input} > ${input_tmp}
 else
     printf "error: missing input file\n"
     exit 1
@@ -119,7 +119,7 @@ function create_named_conf()  {
 }
 
 function create_bind_db() {
-sort ${input} > ${input_tmp}
+sort -k2 -n ${input} > ${input_tmp}
 cat > ${bind_db} <<EOL
 \$TTL 5
 @ IN SOA LOCALHOST. postmaster.no.email.please. ( 1 3600 600 2592000 3600 )
