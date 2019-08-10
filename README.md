@@ -68,7 +68,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Antigovernment Movement]         |TBD|
 | [Black Separatist]  		        |2019-08-10|
 | [Christian Identity] 		        |2019-08-10|
-| [General Hate]                    |[N/A]|
+| [General Hate]                    |2019-08-10|
 | [Hate Music]                      |[N/A]|
 | [Holocaust Denial]                |2017-09-25|
 | [KKK]                             |2017-09-25|
@@ -87,6 +87,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 ## To do
 
+* Fill in with 2018 data from SPLC's hate map. [in progress]
 * Complete the Antigovernment Movement.
 	* There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
 
