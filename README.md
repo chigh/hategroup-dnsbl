@@ -93,6 +93,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 ## License
 Copyright &copy; 2019 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
+[the nuts and bolts of putting this together]
 
 [N/A]:  # "No specific groups are listed or found for this ideology."
 [next]: # "This is next on the list to be done."
