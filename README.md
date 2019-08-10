@@ -67,7 +67,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Anti-Muslim]                     |2017-10-13|
 | [Antigovernment Movement]         |TBD|
 | [Black Separatist]  		        |2019-08-10|
-| [Christian Identity] 		        |2017-10-17|
+| [Christian Identity] 		        |2019-08-10|
 | [General Hate]                    |[N/A]|
 | [Hate Music]                      |[N/A]|
 | [Holocaust Denial]                |2017-09-25|
