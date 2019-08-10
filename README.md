@@ -77,9 +77,9 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Neo-Nazi]                        |2019-08-10|
 | [Phineas Priesthood]              |[N/A]|
 | [Racist Skinheads]                |2019-08-10|
-| [Radical Traditional Catholicism] |2017-10-25|
+| [Radical Traditional Catholicism] |2019-08-10|
 | [Sovereign Citizens Movement]     |[N/A]|
-| [White Nationalist]               |2017-09-25|
+| [White Nationalist]               |2019-08-10|
 
 * There is no SPLC for Canada, so based upon a groups related to the ones already in the list.
 	* [A guide to Canada's anti-Islamic groups -- NowToronto](https://nowtoronto.com/news/canada-islamophobic-groups/)
