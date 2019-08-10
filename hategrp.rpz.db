@@ -144,6 +144,8 @@ southernfuture.com CNAME .
 southernnationalcongress.org CNAME .
 *.thesnc.org CNAME .
 thesnc.org CNAME .
+*.vinlandclothing.com CNAME .
+vinlandclothing.com CNAME .
 *.avoiceformen.com CNAME .
 avoiceformen.com CNAME .
 *.actforamerica.org CNAME .
@@ -196,8 +198,6 @@ americannaziparty.com CNAME .
 amren.com CNAME .
 *.american-vanguard.com CNAME .
 american-vanguard.com CNAME .
-*.americanvikings.com CNAME .
-americanvikings.com CNAME .
 *.americanvision.org CNAME .
 americanvision.org CNAME .
 *.alipac.us CNAME .
@@ -216,6 +216,8 @@ asatrufolkassembly.org CNAME .
 runestone.org CNAME .
 *.barnesreview.org CNAME .
 barnesreview.org CNAME .
+*.ourfightclothingco.com CNAME .
+ourfightclothingco.com CNAME .
 *.beasstproductions.com CNAME .
 beasstproductions.com CNAME .
 *.liveprayer.com CNAME .
@@ -286,6 +288,8 @@ codoh.com CNAME .
 concernedchristiancitizens.org CNAME .
 *.ccfile.com CNAME .
 ccfile.com CNAME .
+*.hammerskins.net CNAME .
+hammerskins.net CNAME .
 *.crtpac.com CNAME .
 crtpac.com CNAME .
 *.conservative-headlines.com CNAME .
@@ -698,8 +702,6 @@ patriotfront.us CNAME .
 vanguardnewsnetwork.com CNAME .
 *.veritybaptist.com CNAME .
 veritybaptist.com CNAME .
-*.vinlandclothing.com CNAME .
-vinlandclothing.com CNAME .
 *.vinlandicwerwolfdistribution.wordpress.com CNAME .
 vinlandicwerwolfdistribution.wordpress.com CNAME .
 *.vachristian.org CNAME .

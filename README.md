@@ -76,7 +76,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Neo-Confederate]                 |2019-08-10|
 | [Neo-Nazi]                        |2019-08-10|
 | [Phineas Priesthood]              |[N/A]|
-| [Racist Skinheads]                |2017-09-25|
+| [Racist Skinheads]                |2019-08-10|
 | [Radical Traditional Catholicism] |2017-10-25|
 | [Sovereign Citizens Movement]     |[N/A]|
 | [White Nationalist]               |2017-09-25|
