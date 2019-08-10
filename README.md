@@ -63,14 +63,14 @@ Importing the generated file will over-write all entries in the Response Policy 
 | :--                               | :--:     |
 | [Alt-Right]                       |2018-07-06|
 | [Anti-Immigrant]                  |2019-08-08|
-| [Anti-LGBT]                       |2017-10-13|
-| [Anti-Muslim]                     |2017-10-13|
+| [Anti-LGBT]                       |2019-08-09|
+| [Anti-Muslim]                     |2019-08-09|
 | [Antigovernment Movement]         |TBD|
 | [Black Separatist]  		        |2019-08-10|
 | [Christian Identity] 		        |2019-08-10|
 | [General Hate]                    |2019-08-10|
 | [Hate Music]                      |2019-08-10|
-| [Holocaust Denial]                |2017-09-25|
+| [Holocaust Denial]                |2019-08-10|
 | [KKK]                             |2017-09-25|
 | [Male Supremacy]                  |2019-08-06|
 | [Neo-Confederate]                 |2017-09-25|
