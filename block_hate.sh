@@ -3,7 +3,7 @@
 ## ID: block_hate.sh
 ## DESC: creates DNSBL for use with Pi-hole, BIND, and BlueCat
 ## AUTHOR: Clair High <github.com@fwd.tch3.com>
-## DATE: 2017-10-13
+## DATE: 2017-10-13, 2019-08-10
 ###########################################################################
 scratch=$(mktemp -d -t tmp.XXXXXXXXXX) # $scratch will be auto-deleted on
 finish () { rm -rf $scratch ; }        # exit no matter the exit status
@@ -32,15 +32,13 @@ input_tmp="${scratch}/${input}.$$"
 pihole_wildcard="04-pihole-wildcard.conf"
 ########################################################################### 
 
-if [[ -f ${input} ]]
+if [[ ! -f ${input} ]]
 then
-    sort -k2 -n ${input} > ${input_tmp}
-else
     printf "error: missing input file\n"
     exit 1
 fi
 
-domains=$(grep -v ^# ${input_tmp} | awk -F'|' '{print $2}')
+domains=$(grep -v ^# ${input} | awk -F'|' '{print $2}' | sort)
 
 function help() {
 printf "Usage: $(basename $0) -abchin\n"
@@ -76,6 +74,7 @@ cat <<EOF >> ${pihole_txt}
 # Hate group DNS Blocklist
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
+#           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 # Date: $(date +%Y-%m-%d)
@@ -86,6 +85,7 @@ cat <<EOF >> ${pihole_wildcard}
 # Hate group DNS Blocklist
 # Based off Southern Poverty Law Center's list of hate groups. 
 #   Source: https://www.splcenter.org/fighting-hate
+#           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 #
@@ -119,7 +119,7 @@ function create_named_conf()  {
 }
 
 function create_bind_db() {
-sort -k2 -n ${input} > ${input_tmp}
+#sort -k2 -n ${input} > ${input_tmp}
 cat > ${bind_db} <<EOL
 \$TTL 5
 @ IN SOA LOCALHOST. postmaster.no.email.please. ( 1 3600 600 2592000 3600 )
