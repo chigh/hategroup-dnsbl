@@ -7,11 +7,13 @@
 # Other resources:
 #   https://nowtoronto.com/news/canada-islamophobic-groups/
 #
+# File format:
+#   Name|website|date-added|anything-else
 ###########################################################################
 ### Custom 
 ###########################################################################
-CRW Flags|crwflags.com
-European Americans United|europeanamericansunited.org
+CRW Flags|crwflags.com|2019-08-10|similar to patriotic-flags
+European Americans United|europeanamericansunited.org|2019-08-10|
 Kosher Question, The|thekosherquestion.com
 National Vanguard|nationalvanguard.org
 Nationalist Coalition|ncoal.com
@@ -20,7 +22,8 @@ Sharia Unveiled|shariaunveiled.wordpress.com
 Silent Nationalist Majority|silentnationalistmajority.com
 Southern Party of Georgia|spofga.org
 Three Percenters (aka III%)|thethreepercenters.org
-Western Voices News|wvwnews.net
+Weare138productions -- NeoConservative Christian/white supremacists/Conspiracy Theorists|killingfreespeech.com|2019-08-15
+Western Voices News|wvwnews.net|2019-08-10|
 #
 #
 ###########################################################################
