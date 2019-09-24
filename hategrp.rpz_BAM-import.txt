@@ -220,6 +220,7 @@
 **.ncoal.com
 **.ncparty.ca
 **.ncpastors.net
+**.neinchan.com
 **.neveragaincanada.ca
 **.noi.org
 **.northwestfront.org

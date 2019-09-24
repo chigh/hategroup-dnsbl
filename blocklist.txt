@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-08-15
+# Date: 2019-09-24
 #
 1west.org
 2servethapeople.wixsite.com
@@ -228,6 +228,7 @@ nc-f.org
 ncoal.com
 ncparty.ca
 ncpastors.net
+neinchan.com
 neveragaincanada.ca
 noi.org
 northwestfront.org
