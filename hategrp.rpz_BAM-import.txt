@@ -1,3 +1,4 @@
+**.1776.shop
 **.1west.org
 **.2servethapeople.wixsite.com
 **.4chan.org
@@ -5,6 +6,9 @@
 **.8ch.net
 **.8chan.co
 **.8chan.org
+**.8kun.com
+**.8kun.net
+**.8kun.org
 **.BroJed.org
 **.Islamthreat.com
 **.a2zpublications.com
@@ -258,6 +262,7 @@
 **.publicadvocateusa.org
 **.puttroopsontheborder.com
 **.pzg.biz
+**.qmap.pub
 **.radiojihad.org
 **.radiowehrwolf.world
 **.radixjournal.com

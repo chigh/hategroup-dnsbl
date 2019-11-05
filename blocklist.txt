@@ -4,8 +4,9 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-09-24
+# Date: 2019-11-05
 #
+1776.shop
 1west.org
 2servethapeople.wixsite.com
 4chan.org
@@ -13,6 +14,9 @@
 8ch.net
 8chan.co
 8chan.org
+8kun.com
+8kun.net
+8kun.org
 BroJed.org
 Islamthreat.com
 a2zpublications.com
@@ -266,6 +270,7 @@ proudboysusa.com
 publicadvocateusa.org
 puttroopsontheborder.com
 pzg.biz
+qmap.pub
 radiojihad.org
 radiowehrwolf.world
 radixjournal.com

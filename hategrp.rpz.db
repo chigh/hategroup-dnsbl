@@ -2,6 +2,8 @@ $TTL 5
 @ IN SOA LOCALHOST. postmaster.no.email.please. ( 1 3600 600 2592000 3600 )
 @ IN NS LOCALHOST.
 LOCALHOST. IN A 127.0.0.1
+*.1776.shop CNAME .
+1776.shop CNAME .
 *.1west.org CNAME .
 1west.org CNAME .
 *.2servethapeople.wixsite.com CNAME .
@@ -16,6 +18,12 @@ LOCALHOST. IN A 127.0.0.1
 8chan.co CNAME .
 *.8chan.org CNAME .
 8chan.org CNAME .
+*.8kun.com CNAME .
+8kun.com CNAME .
+*.8kun.net CNAME .
+8kun.net CNAME .
+*.8kun.org CNAME .
+8kun.org CNAME .
 *.BroJed.org CNAME .
 BroJed.org CNAME .
 *.Islamthreat.com CNAME .
@@ -522,6 +530,8 @@ publicadvocateusa.org CNAME .
 puttroopsontheborder.com CNAME .
 *.pzg.biz CNAME .
 pzg.biz CNAME .
+*.qmap.pub CNAME .
+qmap.pub CNAME .
 *.radiojihad.org CNAME .
 radiojihad.org CNAME .
 *.radiowehrwolf.world CNAME .
