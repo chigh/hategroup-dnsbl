@@ -24,6 +24,8 @@ LOCALHOST. IN A 127.0.0.1
 8kun.net CNAME .
 *.8kun.org CNAME .
 8kun.org CNAME .
+*.8kun.tv CNAME .
+8kun.tv CNAME .
 *.BroJed.org CNAME .
 BroJed.org CNAME .
 *.Islamthreat.com CNAME .
@@ -310,6 +312,8 @@ freespeech.tv CNAME .
 gallowstreewotansvolk.blogspot.com CNAME .
 *.generations.org CNAME .
 generations.org CNAME .
+*.george.news CNAME .
+george.news CNAME .
 *.georgiaknightriderskkk.com CNAME .
 georgiaknightriderskkk.com CNAME .
 *.godhatesfags.com CNAME .
@@ -354,6 +358,8 @@ irli.org CNAME .
 irvingbooks.com CNAME .
 *.isdrecords.com CNAME .
 isdrecords.com CNAME .
+*.isitwetyet.com CNAME .
+isitwetyet.com CNAME .
 *.isoc.ws CNAME .
 isoc.ws CNAME .
 *.israelunite.org CNAME .
