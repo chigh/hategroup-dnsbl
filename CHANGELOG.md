@@ -1,4 +1,8 @@
+## 2020-06-16
+
+- ADDED: Center for Countering Digital Hate
+
 ## 2019-11-05
 
-- Added 8chan rebrand 8kun. Probably already offline, but blocking nonetheless.
+- ADDED: 8chan rebrand 8kun. Probably already offline, but blocking nonetheless.
 
