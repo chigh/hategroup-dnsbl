@@ -1,7 +1,10 @@
 # Hate group DNS Blocklist
-# Based off Southern Poverty Law Center's list of hate groups. 
-#   Source: https://www.splcenter.org/fighting-hate
-#           https://www.splcenter.org/hate-map
+# Based off 
+#   Southern Poverty Law Center's list of hate groups. 
+#       https://www.splcenter.org/fighting-hate
+#       https://www.splcenter.org/hate-map
+#   Center for Countering Digital Hate
+#       https://counterhate.co.uk
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #        
 # Other resources:
@@ -24,6 +27,10 @@ Southern Party of Georgia|spofga.org
 Three Percenters (aka III%)|thethreepercenters.org
 Weare138productions -- NeoConservative Christian/white supremacists/Conspiracy Theorists|killingfreespeech.com|2019-08-15
 Western Voices News|wvwnews.net|2019-08-10|
+# Zero hedge -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
+Zero Hedge -- racist|zerohedge.com|2020-06-16
+# The Federalist
+The Federalist -- Racist|thefederalist.com|2020-06-16
 #
 #
 ###########################################################################
@@ -153,7 +160,7 @@ American Freedom Law Center|americanfreedomlawcenter.org
 ##+American Public Policy Alliance (twitter)|https://twitter.com/americanlaws
 ##?American Security Rally of Montana| None found.
 ? Bare Naked Islam|barenakedislam.com
-Bomb Islam|bombislam.com
+Bomb Islam|bombislam.com|Robert Sterkeson
 ## Bosch Fawstin|!!! Facebook: facebook.com/bosch.fawstin
 ## Bureau on American Islamic Relations|!!! None found.
 Center for Security Policy|centerforsecuritypolicy.org
@@ -434,6 +441,7 @@ League of the South (aka Mary Noel Kershaw Foundation)|leagueofthesouth.com
 American Nazi Party|americannaziparty.com
 Aryan Nations Sadistic Souls MC|sadisticsoulsmc.org
 ## Attomwaffen Division|!!! None found.
+Bomb Israel|bombisrael.com|Robert Sterkeson
 Creativity Alliance, The|creativityalliance.com
 Creativity Movement, The|creativitymovement.net
 Creativity Movement, The (Toronto)|creativitymovementtoronto.blogspot.com

@@ -124,6 +124,8 @@ bloodandhonour.net CNAME .
 bloodandhonourworldwide.co.uk CNAME .
 *.bombislam.com CNAME .
 bombislam.com CNAME .
+*.bombisrael.com CNAME .
+bombisrael.com CNAME .
 *.borderkeepersofalabama.org CNAME .
 borderkeepersofalabama.org CNAME .
 *.brothernathanaelfoundation.org CNAME .
@@ -662,6 +664,8 @@ theamericanguard.org CNAME .
 thecomforter.info CNAME .
 *.thedustininmansociety.org CNAME .
 thedustininmansociety.org CNAME .
+*.thefederalist.com CNAME .
+thefederalist.com CNAME .
 *.thekosherquestion.com CNAME .
 thekosherquestion.com CNAME .
 *.theneworder.org CNAME .
@@ -784,3 +788,5 @@ wotansnation.org CNAME .
 wvwnews.net CNAME .
 *.yahushuadsciministry.us CNAME .
 yahushuadsciministry.us CNAME .
+*.zerohedge.com CNAME .
+zerohedge.com CNAME .

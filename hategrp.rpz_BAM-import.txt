@@ -59,6 +59,7 @@
 **.bloodandhonour.net
 **.bloodandhonourworldwide.co.uk
 **.bombislam.com
+**.bombisrael.com
 **.borderkeepersofalabama.org
 **.brothernathanaelfoundation.org
 **.c-fam.org
@@ -328,6 +329,7 @@
 **.theamericanguard.org
 **.thecomforter.info
 **.thedustininmansociety.org
+**.thefederalist.com
 **.thekosherquestion.com
 **.theneworder.org
 **.theoccidentalobserver.net
@@ -389,3 +391,4 @@
 **.wotansnation.org
 **.wvwnews.net
 **.yahushuadsciministry.us
+**.zerohedge.com

@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2019-11-05
+# Date: 2020-06-16
 #
 1776.shop
 1west.org
@@ -67,6 +67,7 @@ bloodandhonour-arkansas.webs.com
 bloodandhonour.net
 bloodandhonourworldwide.co.uk
 bombislam.com
+bombisrael.com
 borderkeepersofalabama.org
 brothernathanaelfoundation.org
 c-fam.org
@@ -336,6 +337,7 @@ tfire.org
 theamericanguard.org
 thecomforter.info
 thedustininmansociety.org
+thefederalist.com
 thekosherquestion.com
 theneworder.org
 theoccidentalobserver.net
@@ -397,3 +399,4 @@ worldcongress.org
 wotansnation.org
 wvwnews.net
 yahushuadsciministry.us
+zerohedge.com
