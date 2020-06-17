@@ -10,7 +10,8 @@
 * [License](#license)
 
 ## Overview
-This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org).
+This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org). Data is pulled from their [Hate Map](https://splcenter.org/hate-map)
+
 Please report errors [here](https://github.com/chigh/hategroup-dnsbl/issues).
 
 **Note:** This project and I am are in *no* way associated with SPLC. I created this with data from their public website plus a handful of other domains I have come across. (see the Custom section in *import.csv*)
@@ -72,7 +73,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Hate Music]                      |2019-08-10|
 | [Holocaust Denial]                |2019-08-10|
 | [KKK]                             |2017-09-25|
-| [Male Supremacy]                  |2019-08-06|
+| [Male Supremacy]                  |2020-06-17|
 | [Neo-Confederate]                 |2019-08-10|
 | [Neo-Nazi]                        |2019-08-10|
 | [Phineas Priesthood]              |[N/A]|
@@ -87,12 +88,12 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 ## To do
 
-* Fill in with 2018 data from SPLC's hate map. [in progress]
+* Fill in with 2019 data from SPLC's hate map. [in progress]
 * Complete the Antigovernment Movement.
 	* There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
 
 ## License
-Copyright &copy; 2019 Clair High &mdash; Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
+Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
 [the nuts and bolts of putting this together]
 
 [N/A]:  # "No specific groups are listed or found for this ideology."
