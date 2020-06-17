@@ -1,6 +1,7 @@
 ## 2020-06-17
 
 - UPDATE: Started update with 2019 data. Anti-immigrant + Wikipedia related
+- UPDATE: Anti-LGBTQ
 
 ## 2020-06-16
 
