@@ -64,7 +64,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | :--                               | :--:     |
 | [Alt-Right]                       |2018-07-06|
 | [Anti-Immigrant]                  |2019-08-08|
-| [Anti-LGBT]                       |2019-08-09|
+| [Anti-LGBTQ]                      |2020-06-17|
 | [Anti-Muslim]                     |2019-08-09|
 | [Antigovernment Movement]         |TBD|
 | [Black Separatist]  		        |2019-08-10|
