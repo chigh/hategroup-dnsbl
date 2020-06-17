@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2020-06-16
+# Date: 2020-06-17
 #
 1776.shop
 1west.org
@@ -33,8 +33,7 @@ aicfoundation.com
 alamoministries.com
 alipac.us
 alleyesonegiptchgo.webs.com
-alternative-right.blogspot.com
-alternativeright.blog
+allscripturebaptist.com
 altrafirearms.com
 american3rdposition.com
 americanborderpatrol.com
@@ -55,6 +54,8 @@ amren.com
 arktos.com
 asatrufolkassembly.org
 atlah.org
+australiafirstparty.net
+australianlibertyalliance.org.au
 avoiceformen.com
 barenakedislam.com
 barnesreview.org
@@ -66,9 +67,10 @@ blackridersliberationparty.com
 bloodandhonour-arkansas.webs.com
 bloodandhonour.net
 bloodandhonourworldwide.co.uk
+bnp.org.uk
+bodubalasena.org
 bombislam.com
 bombisrael.com
-borderkeepersofalabama.org
 brothernathanaelfoundation.org
 c-fam.org
 cagsfl.online
@@ -78,7 +80,6 @@ carolynyeager.net
 catholiccounterpoint.org
 catholicism.org
 ccfile.com
-ccir.net
 ccv.org
 centerforsecuritypolicy.org
 cfnews.org
@@ -136,6 +137,7 @@ eastcoastknightsofthetrueinvisibleempire.com
 efp.org.uk
 elegyrecords.org
 elstormer6vrre53.onion.link
+englishdefenceleague.org.uk
 epik.com
 eurofolkradio.com
 europeanamericanactioncoalition.wordpress.com
@@ -154,13 +156,16 @@ fatima.org
 fgcp.org
 fgfbooks.com
 flds.org
+flimen.org
 fortressoffaith.com
 forzanuova.info
 frc.org
 freeamerican.com
 freedomdefense.typepad.com
 freespeech.tv
+fwbcla.org
 gallowstreewotansvolk.blogspot.com
+gatestoneinstitute.org
 generations.org
 george.news
 georgiaknightriderskkk.com
@@ -168,6 +173,7 @@ godhatesfags.com
 goldenstateskinheads.org
 golifa.com
 hammerskins.net
+helpsavemaryland.org
 hlmenckenclub.org
 home60515.com
 horowitzfreedomcenter.org
@@ -223,6 +229,7 @@ massresistance.org
 missionamerica.com
 missiontoisrael.org
 mostholyfamilymonastery.com
+mountainminutemen.com
 msrproductions.com
 natall.com
 nationalistwomensfront.org
@@ -251,6 +258,7 @@ officialproudboys.com
 officialstreetpreachers.blogspot.com
 officialstreetpreachers.com
 omnicbc.com
+onenation.org.au
 operationwerewolf.com
 oregonir.org
 originalknightriders.net
@@ -260,6 +268,7 @@ pacificjustice.org
 patriotfront.us
 patriotic-flags.com
 pccmonroe.org
+pegida.de
 perpetualdiversity.com
 pioneerlittleeurope.com
 pjtn.org
@@ -275,6 +284,7 @@ publicadvocateusa.org
 puttroopsontheborder.com
 pzg.biz
 qmap.pub
+qsociety.org.au
 radiojihad.org
 radiowehrwolf.world
 radixjournal.com
@@ -303,7 +313,6 @@ runestone.org
 ruthinstitute.org
 sacredtruthministries.com
 sadisticsoulsmc.org
-sandiegopatriots.com
 savecalifornia.com
 scott-townsend.com
 securemichigan.org
@@ -312,8 +321,11 @@ sfawbn.org
 shariaunveiled.wordpress.com
 sharkhunters.com
 shoebat.com
+siaddk.wordpress.com
+sian.no
 silentnationalistmajority.com
 silverbulletgunoil.net
+sioeeu.wordpress.com
 siotw.org
 sonplace.com
 sonsoflibertymedia.com
@@ -334,6 +346,7 @@ teamamericapac.com
 texasrebelknightskkk.com
 texemarrs.com
 tfire.org
+theamericanfreedomparty.us
 theamericanguard.org
 thecomforter.info
 thedustininmansociety.org
@@ -388,6 +401,7 @@ veritybaptist.com
 vinlandclothing.com
 vinlandicwerwolfdistribution.wordpress.com
 vipsumo.com
+voxespana.es
 waronthehorizon.com
 washsummit.com
 wfcchurch.org
