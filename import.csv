@@ -14,7 +14,7 @@
 # - File format:
 #   Name|website|category|date-added|date updated/checked|anything-else
 #
-# - Lines beginning with ? are groups/domains that are not in the list
+# - Lines beginning with ? are groups/domains that are not in the list - perhaps removed?
 # - Lines beginning with + are newly added groups in the list.
 # - Lines beginning with x are domains which no longer exist (nx)
 # - Lines beginning with d are domains which still exist, but are non-functional
@@ -24,8 +24,11 @@
 ###########################################################################
 #CRW Flags | similar to patriotic-flags
 CRW Flags|crwflags.com|Custom|2019-08-10|2020
-European Americans United|europeanamericansunited.org|Custom|2019-08-10
-Kosher Question, The|thekosherquestion.com|Custom|2019
+European Americans United|europeanamericansunited.org|Custom|2019
+# The Federalist -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
+The Federalist|thefederalist.com|Custom Racism|2020-06-16|2020
+International Organization for the Family|profam.org|Custom Anti-LGBTQ|2020|2020
+Kosher Question, The|thekosherquestion.com|Custom Anti-Semetic|2019
 National Vanguard|nationalvanguard.org|Custom|2019
 Nationalist Coalition|ncoal.com|Custom|2019
 RAIR Foundation (Islamiphobia)|rairfoundation.com|Custom|2019
@@ -37,8 +40,6 @@ Weare138productions -- NeoConservative Christian/white supremacists/Conspiracy T
 Western Voices News|wvwnews.net|Custom|2019-08-10|
 # Zero hedge -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
 Zero Hedge -- racist|zerohedge.com|Custom Racism|2020-06-16|2020
-# The Federalist -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
-The Federalist|thefederalist.com|Custom Racism|2020-06-16|2020
 #
 #
 ###########################################################################
@@ -97,58 +98,63 @@ Texans for Immigration Reduction and Enforcement|tfire.org|Anti-Immigrant|2018|2
 ###########################################################################
 ### Anti-LGBTQ
 ###########################################################################
-Abiding Truth Ministries|abidingtruthministry.com|Anti-LGBTQ|2018
+? Abiding Truth Ministries|abidingtruthministry.com|Anti-LGBTQ|2018|2020
+? Abiding Truth Ministries|defendthefamily.com|Anti-LGBTQ|2018|2020
 All Scripture Baptist Church|allscripturebaptist.com|Anti-LGBTQ|2020|2020
-Alliance Defending Freedom|adflegal.org|Anti-LGBTQ|2018
-American College of Pediatricians|acpeds.org|Anti-LGBTQ|2018
-American Family Association|afa.net|Anti-LGBTQ|2018
-American Vision|americanvision.org|Anti-LGBTQ|2018
-Americans for Truth About Homosexuality|americansfortruth.com|Anti-LGBTQ|2018
-ATLAH World Missionary Church (All The Land Anointed Holy)|atlah.org|Anti-LGBTQ|2018
-Campus Ministry USA, The|BroJed.org|Anti-LGBTQ|2018
-Center for Family and Human Rights (C-FAM)|c-fam.org|Anti-LGBTQ|2018
-Chalcedon Foundation|chalcedon.edu|Anti-LGBTQ|2020-06-17
-Church Militant/St. Michael's Media|churchmilitant.com|Anti-LGBTQ|2018
-? Citizens for Community Values|ccv.org|Anti-LGBTQ|2018
-Concerned Christian Citizens|concernedchristiancitizens.org|Anti-LGBTQ|2018
-## Conservative Republicans of Texas|!!! Facebook: facebook.com/crtpac|Anti-LGBTQ|2018
-Conservative Republicans of Texas|crtpac.com|Anti-LGBTQ|2018
-D. James Kennedy Ministries (formerly Truth in Action)|djameskennedy.org|Anti-LGBTQ|2018
-## + Faith Baptist Church (formerly Sons of Thundr)|!!! None found.|Anti-LGBTQ|2018
-Faith2Action|f2a.org|Anti-LGBTQ|2018
-Faithful Word Baptist Church|faithfulwordbaptist.org|Anti-LGBTQ|2018
-Family Research Council|frc.org|Anti-LGBTQ|2018
-Family Research Institute|familyresearchinst.org|Anti-LGBTQ|2018
-Family Watch International|familywatchinternational.org|Anti-LGBTQ|2018
+Alliance Defending Freedom|adflegal.org|Anti-LGBTQ|2018|2020
+American College of Pediatricians|acpeds.org|Anti-LGBTQ|2018|2020
+American Family Association|afa.net|Anti-LGBTQ|2018|2020
+American Vision|americanvision.org|Anti-LGBTQ|2018|2020
+Americans for Truth About Homosexuality|americansfortruth.com|Anti-LGBTQ|2018|2020
+ATLAH World Missionary Church (All The Land Anointed Holy)|atlah.org|Anti-LGBTQ|2018|2020
++ Bible Believers Fellowship|bbfohio.com|Anti-LGBTQ|2020|2020
+Center for Family and Human Rights (C-FAM)|c-fam.org|Anti-LGBTQ|2018|2020
+Chalcedon Foundation|chalcedon.edu|Anti-LGBTQ|2020|2020
+Church Militant/St. Michael's Media|churchmilitant.com|Anti-LGBTQ|2018|2020
+Concerned Christian Citizens|concernedchristiancitizens.org|Anti-LGBTQ|2018|2020
+Conservative Republicans of Texas|crtpac.com|Anti-LGBTQ|2018|2020
+D. James Kennedy Ministries (formerly Truth in Action)|djameskennedy.org|Anti-LGBTQ|2018|2020
+Faith Baptist Church (formerly Sons of Thundr)|faithbaptistchalmette.com|Anti-LGBTQ|2018|2020
+Faith2Action|f2a.org|Anti-LGBTQ|2018|2020
+Faithful Word Baptist Church|faithfulwordbaptist.org|Anti-LGBTQ|2018|2020
+Family Research Council|frc.org|Anti-LGBTQ|2018|2020
+Family Research Institute|familyresearchinst.org|Anti-LGBTQ|2018|2020
+Family Watch International|familywatch.org|Anti-LGBTQ|2018
+Family Watch International (Redirect)|familywatchinternational.org|Anti-LGBTQ|2018
 + First Works Baptist Church|fwbcla.org|Anti-LGBTQ|2020|2020
-Generations (formerly Generations With Vision)|generations.org|Anti-LGBTQ|2018
-Heterosexuals Organized for a Moral Environment (H.O.M.E.)|home60515.com|Anti-LGBTQ|2018
-Illinois Family Institute|illinoisfamily.org|Anti-LGBTQ|2018
-## Illinois Family Institute Tri-County chapter|!!! Duplicate. illinoisfamily.org|Anti-LGBTQ|2018
-Liberty Counsel|lc.org|Anti-LGBTQ|2018
-Mass Resistance|massresistance.org|Anti-LGBTQ|2018
-Mission: America|missionamerica.com|Anti-LGBTQ|2018
-Pacific Justice Institute|pacificjustice.org|Anti-LGBTQ|2018
-Pass the Salt Ministries|coachdavelive.com|Anti-LGBTQ|2018
-Pilgrims Covenant Church|pccmonroe.org|Anti-LGBTQ|2018
-Pray in Jesus Name Project, The|prayinjesusname.org|Anti-LGBTQ|2018
+Generations (formerly Generations With Vision)|generations.org|Anti-LGBTQ|2018|2020
+Heterosexuals Organized for a Moral Environment (H.O.M.E.)|home60515.com|Anti-LGBTQ|2018|2020
+Illinois Family Institute|illinoisfamily.org|Anti-LGBTQ|2018|2020
+## Illinois Family Institute Tri-County chapter|Duplicate. illinoisfamily.org|Anti-LGBTQ|2018|2020
++ Liberty Baptist Church (Rock Falls)|libertybc.sermon.net|2020|2020
+Liberty Counsel|lc.org|Anti-LGBTQ|2018|2020
+Mass Resistance|massresistance.org|Anti-LGBTQ|2018|2020
+Mission: America|missionamerica.com|Anti-LGBTQ|2018|2020
+Pacific Justice Institute|pacificjustice.org|Anti-LGBTQ|2018|2020
+Pass the Salt Ministries|coachdavelive.com|Anti-LGBTQ|2018|2020
+Pilgrims Covenant Church|pccmonroe.org|Anti-LGBTQ|2018|2020
 Probe Ministries|probe.org|Anti-LGBTQ|2018
 ? Providence Road Baptist Church|prbcnc.com|Anti-LGBTQ|2018
-Public Advocate of the United States|publicadvocateusa.org|Anti-LGBTQ|2018
-Ruth Institute|ruthinstitute.org|Anti-LGBTQ|2018
-Save California|savecalifornia.com|Anti-LGBTQ|2018
-? Stedfast Baptist Church|stedfastbaptistkjv.org|Anti-LGBTQ|2018
-Sure Foundation Baptist Church|surefoundationbaptist.church|Anti-LGBTQ|2018
-? TC Family (Traverse City Family)|tcfamily.org|Anti-LGBTQ|2018
-Tom Brown Ministries|tbm.org|Anti-LGBTQ|2018
-? Traditional Values Coalition|traditionalvalues.org|Anti-LGBTQ|2018
-+ True Light Pentecost Church|truelightpentecost.org|Anti-LGBTQ|2018
-United Families International|unitedfamilies.org|Anti-LGBTQ|2018
-Verity Baptist Church|veritybaptist.com|Anti-LGBTQ|2018
-+ Warriors For Christ|wfcchurch.org|Anti-LGBTQ|2018
-Westboro Baptist Church|godhatesfags.com|Anti-LGBTQ|2018
+Public Advocate of the United States|publicadvocateusa.org|Anti-LGBTQ|2018|2020
++ Revival Baptist Church (Florida)|revivalbaptistorlando.com|Anti-LGBTQ|2020|2020
+Ruth Institute|ruthinstitute.org|Anti-LGBTQ|2018|2020
+Save California|savecalifornia.com|Anti-LGBTQ|2018|2020
++ Scott Lively Ministries (see also: Abiding Truth Ministries)|scottlively.net|Anti-LGBTQ|2020|2020
+Stedfast Baptist Church|stedfastbaptistkjv.org|Anti-LGBTQ|2018|2020
++ Strong Hold Baptist Church|strongholdbaptist.church|Anti-LGBTQ|2020|2020
+Sure Foundation Baptist Church|surefoundationbaptist.church|Anti-LGBTQ|2018|2020
+? TC Family (Traverse City Family)|tcfamily.org|Anti-LGBTQ|2018|2020
+The Campus Ministry USA, The|BroJed.org|Anti-LGBTQ|2018|2020
+The Pray in Jesus Name Project|prayinjesusname.org|Anti-LGBTQ|2018|2020
+Tom Brown Ministries|tbm.org|Anti-LGBTQ|2018|2020
+True Light Pentecost Church|truelightpentecost.org|Anti-LGBTQ|2018|2020
+United Families International|unitedfamilies.org|Anti-LGBTQ|2018|2020
+Verity Baptist Church|veritybaptist.com|Anti-LGBTQ|2018|2020
+Warriors For Christ|wfcchurch.org|Anti-LGBTQ|2018|2020
+Westboro Baptist Church|godhatesfags.com|Anti-LGBTQ|2018|2020
+Westboro Baptist Church|godhatesamerica.com|Anti-LGBTQ|2018|2020
 ? Windsor Hills Baptist Church|windsorhills.org|Anti-LGBTQ|2018
-World Congress of Families/International Organization for the Family|worldcongress.org|Anti-LGBTQ|2018
+World Congress of Families/International Organization for the Family|worldcongress.org|Anti-LGBTQ|2018|2020
 #
 #
 ###########################################################################
@@ -674,3 +680,5 @@ NumbersUSA|numbersusa.com|Anti-Immigrant|2018|2020
 ProjectUSA|projectusa.org|Anti-Immigrant|2018|2020
 Remembrance Project, The|theremembranceproject.org|Anti-Immigrant|2018|2020
 The Social Contract Press|tscpress.com|White Nationalist|2018|2020
+? Citizens for Community Values|ccv.org|Anti-LGBTQ|2018
+x Traditional Values Coalition|traditionalvalues.org|Anti-LGBTQ|2018
