@@ -28,6 +28,8 @@ LOCALHOST. IN A 127.0.0.1
 8kun.tv CNAME .
 *.BroJed.org CNAME .
 BroJed.org CNAME .
+*.Custom CNAME .
+Custom CNAME .
 *.Islamthreat.com CNAME .
 Islamthreat.com CNAME .
 *.a2zpublications.com CNAME .
@@ -238,6 +240,8 @@ dailystormer.ph CNAME .
 dailystormer.red CNAME .
 *.dailystormer.ru CNAME .
 dailystormer.ru CNAME .
+*.danielgreenfield.org CNAME .
+danielgreenfield.org CNAME .
 *.defendthefamily.com CNAME .
 defendthefamily.com CNAME .
 *.deiryassin.org CNAME .
@@ -290,6 +294,8 @@ fairus.org CNAME .
 faithandheritage.com CNAME .
 *.faithbaptistchalmette.com CNAME .
 faithbaptistchalmette.com CNAME .
+*.faithfreedom.org CNAME .
+faithfreedom.org CNAME .
 *.faithfulwordbaptist.org CNAME .
 faithfulwordbaptist.org CNAME .
 *.faithleadersforamerica.com CNAME .
@@ -336,6 +342,8 @@ generations.org CNAME .
 george.news CNAME .
 *.georgiaknightriderskkk.com CNAME .
 georgiaknightriderskkk.com CNAME .
+*.globalfaith.org CNAME .
+globalfaith.org CNAME .
 *.godhatesamerica.com CNAME .
 godhatesamerica.com CNAME .
 *.godhatesfags.com CNAME .
@@ -410,6 +418,8 @@ jdl.org CNAME .
 jihadwatch.org CNAME .
 *.jtf.org CNAME .
 jtf.org CNAME .
+*.kari55.com CNAME .
+kari55.com CNAME .
 *.keystone2001united.wordpress.com CNAME .
 keystone2001united.wordpress.com CNAME .
 *.killingfreespeech.com CNAME .
@@ -566,6 +576,8 @@ projectusa.org CNAME .
 proudboysusa.com CNAME .
 *.publicadvocateusa.org CNAME .
 publicadvocateusa.org CNAME .
+*.publicpolicyalliance.org CNAME .
+publicpolicyalliance.org CNAME .
 *.puttroopsontheborder.com CNAME .
 puttroopsontheborder.com CNAME .
 *.pzg.biz CNAME .
@@ -592,6 +604,8 @@ rebelbrigadeknightstrueinvisibleempire.wordpress.com CNAME .
 rebelbrigadeknightstrueinvisibleempire.yolasite.com CNAME .
 *.redice.tv CNAME .
 redice.tv CNAME .
+*.refugeeresettlementwatch.org CNAME .
+refugeeresettlementwatch.org CNAME .
 *.refugeeresettlementwatch.wordpress.com CNAME .
 refugeeresettlementwatch.wordpress.com CNAME .
 *.remnantnewspaper.com CNAME .
@@ -638,8 +652,12 @@ savecalifornia.com CNAME .
 scott-townsend.com CNAME .
 *.scottlively.net CNAME .
 scottlively.net CNAME .
+*.seajayfoundation.org CNAME .
+seajayfoundation.org CNAME .
 *.securemichigan.org CNAME .
 securemichigan.org CNAME .
+*.semichiganteaparty.com CNAME .
+semichiganteaparty.com CNAME .
 *.sfaw.org CNAME .
 sfaw.org CNAME .
 *.sfawbn.org CNAME .
@@ -694,8 +712,6 @@ susukino.com CNAME .
 tbm.org CNAME .
 *.tcfamily.org CNAME .
 tcfamily.org CNAME .
-*.teamamericapac.com CNAME .
-teamamericapac.com CNAME .
 *.texasrebelknightskkk.com CNAME .
 texasrebelknightskkk.com CNAME .
 *.texemarrs.com CNAME .
@@ -734,6 +750,8 @@ thesnc.org CNAME .
 thesocialcontract.com CNAME .
 *.thestraightway.org CNAME .
 thestraightway.org CNAME .
+*.thestraightway.org CNAME .
+thestraightway.org CNAME .
 *.thethreepercenters.org CNAME .
 thethreepercenters.org CNAME .
 *.theuka.us CNAME .
@@ -742,6 +760,8 @@ theuka.us CNAME .
 theunitedwest.org CNAME .
 *.third-reich-books.com CNAME .
 third-reich-books.com CNAME .
+*.thomasmore.org CNAME .
+thomasmore.org CNAME .
 *.thornwalker.com CNAME .
 thornwalker.com CNAME .
 *.threeper-gear.ca CNAME .
@@ -754,6 +774,8 @@ threeperscanada.com CNAME .
 tightroperecords.com CNAME .
 *.tilproject.com CNAME .
 tilproject.com CNAME .
+*.tmhnow.org CNAME .
+tmhnow.org CNAME .
 *.toqonline.com CNAME .
 toqonline.com CNAME .
 *.traditionalistamericanknights.com CNAME .

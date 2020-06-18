@@ -14,28 +14,33 @@
 # - File format:
 #   Name|website|category|date-added|date updated/checked|anything-else
 #
-# - Lines beginning with ? are groups/domains that are not in the list - perhaps removed?
-# - Lines beginning with + are newly added groups in the list.
-# - Lines beginning with x are domains which no longer exist (nx)
-# - Lines beginning with d are domains which still exist, but are non-functional
+# - Lines beginning with 
+#       ? are groups/domains that are not in the list, but are on the SPLC site.
+#       + are newly added groups in the list.
+#       - are active groups which have been in previous year's lists, but 
+#         are not in the current year's list
+#       x are domains which no longer exist (nx) (removed from configs)
+#       d are domains which still exist, but are non-functional (remain in configs)
 #
 ###########################################################################
 ### Custom
 ###########################################################################
 #CRW Flags | similar to patriotic-flags
 CRW Flags|crwflags.com|Custom|2019-08-10|2020
+Citizens for the St. Croix Valley|citizensforthestcroixvalley.com|Anti-Muslim|2018|2020
 European Americans United|europeanamericansunited.org|Custom|2019
-# The Federalist -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
-The Federalist|thefederalist.com|Custom Racism|2020-06-16|2020
 International Organization for the Family|profam.org|Custom Anti-LGBTQ|2020|2020
 Kosher Question, The|thekosherquestion.com|Custom Anti-Semetic|2019
 National Vanguard|nationalvanguard.org|Custom|2019
 Nationalist Coalition|ncoal.com|Custom|2019
-RAIR Foundation (Islamiphobia)|rairfoundation.com|Custom|2019
 Sharia Unveiled|shariaunveiled.wordpress.com|Custom|2019
 Silent Nationalist Majority|silentnationalistmajority.com|Custom|2019
 Southern Party of Georgia|spofga.org|Custom|2019
+# The Federalist -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
+The Federalist|thefederalist.com|Custom Racism|2020-06-16|2020
+The Master's House (related: Virtinia Christian Alliance)|tmhnow.org|Custom|2020|2020
 Three Percenters (aka III%)|thethreepercenters.org|Custom|2019
+Valley Family Forum (Related: Virginia Christian Alliance/Focus on the Family)|Custom|2020|2020
 Weare138productions -- NeoConservative Christian/white supremacists/Conspiracy Theorists|killingfreespeech.com||Custom|2019-08-15
 Western Voices News|wvwnews.net|Custom|2019-08-10|
 # Zero hedge -- https://www.nbcnews.com/tech/tech-news/google-bans-two-websites-its-ad-platform-over-protest-articles-n1231176
@@ -91,6 +96,7 @@ Respect Washington|respectwashington.us|Anti-Immigrant|2018|2020
 # San Diegans for Secure Borders|N/A|Anti-Immigrant|2018|2020
 # x San Diegan Patriots (partner to SDfS)|sandiegopatriots.com|Anti-Immigrant|2018|
 Texans for Immigration Reduction and Enforcement|tfire.org|Anti-Immigrant|2018|2020
+The Remembrance Project|theremembranceproject.org|Anti-Immigrant|2018|2020
 ? US Border Guard|usborderguard.com|Anti-Immigrant|2018|
 # V-Dare|vdare.com # Duplicate White Nationalists|Anti-Immigrant|2018|
 #
@@ -111,6 +117,7 @@ ATLAH World Missionary Church (All The Land Anointed Holy)|atlah.org|Anti-LGBTQ|
 Center for Family and Human Rights (C-FAM)|c-fam.org|Anti-LGBTQ|2018|2020
 Chalcedon Foundation|chalcedon.edu|Anti-LGBTQ|2020|2020
 Church Militant/St. Michael's Media|churchmilitant.com|Anti-LGBTQ|2018|2020
+? Citizens for Community Values|ccv.org|Anti-LGBTQ|2018
 Concerned Christian Citizens|concernedchristiancitizens.org|Anti-LGBTQ|2018|2020
 Conservative Republicans of Texas|crtpac.com|Anti-LGBTQ|2018|2020
 D. James Kennedy Ministries (formerly Truth in Action)|djameskennedy.org|Anti-LGBTQ|2018|2020
@@ -147,6 +154,7 @@ Sure Foundation Baptist Church|surefoundationbaptist.church|Anti-LGBTQ|2018|2020
 The Campus Ministry USA, The|BroJed.org|Anti-LGBTQ|2018|2020
 The Pray in Jesus Name Project|prayinjesusname.org|Anti-LGBTQ|2018|2020
 Tom Brown Ministries|tbm.org|Anti-LGBTQ|2018|2020
+x Traditional Values Coalition|traditionalvalues.org|Anti-LGBTQ|2018
 True Light Pentecost Church|truelightpentecost.org|Anti-LGBTQ|2018|2020
 United Families International|unitedfamilies.org|Anti-LGBTQ|2018|2020
 Verity Baptist Church|veritybaptist.com|Anti-LGBTQ|2018|2020
@@ -161,68 +169,71 @@ World Congress of Families/International Organization for the Family|worldcongre
 ### Anti-Muslim
 ###########################################################################
 ACT for America|actforamerica.org|Anti-Muslim|2018|2020
-? Altra Firearms|altrafirearms.com|Anti-Muslim|2018|
 ? American Constitution Center|americanconstitutioncenter.org|Anti-Muslim|2018|
-American Freedom Alliance|americanfreedomalliance.org| 2020-06-19
-American Freedom Defense Initiative (Stop Islamization of America)|freedomdefense.typepad.com|Anti-Muslim|2018|
-American Freedom Law Center|americanfreedomlawcenter.org|Anti-Muslim|2018|
-##+American Public Policy Alliance (twitter)|https://twitter.com/americanlaws|Anti-Muslim|2018|
-##?American Security Rally of Montana| None found.|Anti-Muslim|2018|
-? Bare Naked Islam|barenakedislam.com|Anti-Muslim|2018|
-Bomb Islam|bombislam.com|Robert Sterkeson|Anti-Muslim|2018|
-## Bosch Fawstin|!!! Facebook: facebook.com/bosch.fawstin|Anti-Muslim|2018|
-## Bureau on American Islamic Relations|!!! None found.|Anti-Muslim|2018|
-Center for Security Policy|centerforsecuritypolicy.org|Anti-Muslim|2018|
-Christian Action Network|christianaction.org|Anti-Muslim|2018|
-? Citizen Warrior|citizenwarrior.com|Anti-Muslim|2018|
-+ Citizens for the St. Croix Valley|citizensforthestcroixvalley.com|Anti-Muslim|2018|
-? Citizens for National Security|cfns.us|Anti-Muslim|2018|
-+ Citizens' Action Group of South Florida|cagsfl.online|Anti-Muslim|2018|
+American Freedom Alliance|americanfreedomalliance.org|2018|2020
+American Freedom Defense Initiative (Stop Islamization of America)|freedomdefense.typepad.com|Anti-Muslim|2018|2020
+American Freedom Law Center|americanfreedomlawcenter.org|Anti-Muslim|2018|2020
+American Public Policy Alliance|publicpolicyalliance.org|Anti-Muslim|2018|2020
+? Bare Naked Islam|barenakedislam.com|Anti-Muslim|2018|2020
+Bomb Islam|bombislam.com|Robert Sterkeson|Anti-Muslim|2018|2020
+## ? Bosch Fawstin|N/A|Anti-Muslim|2018|2020
+## Bureau on American Islamic Relations|N/A|Anti-Muslim|2018|2020
+Center for Security Policy|centerforsecuritypolicy.org|Anti-Muslim|2018|2020
+Christian Action Network|christianaction.org|Anti-Muslim|2018|2020
+? Citizen Warrior|citizenwarrior.com|Anti-Muslim|2018|2020
+Citizens for National Security|cfns.us|Anti-Muslim|2018|2020
+x Citizens' Action Group of South Florida|cagsfl.online|Anti-Muslim|2018|
 Clarion Project|clarionproject.org|Anti-Muslim|2018|
-##? Committee to End the CSI Refugee Center|!!! None found.|Anti-Muslim|2018|
+## + Concerned Community Citizens|N/A|ANti-Muslim|2020|2020
 Counter Jihadist Coalition of Southern California|counterjihadcoalition.org|Anti-Muslim|2018|2020
-##? Crusaders, The|!!! None found|Anti-Muslim|2018|
-+ Cultures In Context Incorporated/Turning Point Project|turningpointproject.com|Anti-Muslim|2018|
+Cultures In Context Incorporated/Turning Point Project|turningpointproject.com|Anti-Muslim|2018|2020
 David Horowitz Freedom Center|horowitzfreedomcenter.org|Anti-Muslim|2018|2020
-##? Faith Freedom|??? faithfreedom.org|Anti-Muslim|2018|
-+ Faith Leaders for America|faithleadersforamerica.com|Anti-Muslim|2018|
-Family Security Matters|familysecuritymatters.org|Anti-Muslim|2018|
-Fortress of Faith|fortressoffaith.com|Anti-Muslim|2018|
-## Foundation for Advancing Christian Truth|!!! Facebook: facebook.com/Foundation-for-the-Advancement-of-Christian-Truth-710222865717689/|Anti-Muslim|2018|
-##+ G416 Patriots|!!! None found.|Anti-Muslim|2018|
+? - Faith Freedom|faithfreedom.org|Anti-Muslim|2018|2020
+? - Faith Leaders for America (Center for Security Policy)|faithleadersforamerica.com|Anti-Muslim|2018|2020
+d - Family Security Matters (Center for Security Policy)|familysecuritymatters.org|Anti-Muslim|2018|
+# + Florida Family Association|N/A|Anti-Muslim|2020|2020
+Fortress of Faith|fortressoffaith.com|Anti-Muslim|2018|2020
++ Fortress of Faith (related)|kari55.com|Anti-Muslim|2020|2020
+## Foundation for Advancing Christian Truth|N/A: FB|Anti-Muslim|2018|2020
+##+ G416 Patriots|N/A: FB|Anti-Muslim|2018|
 Glazov Gang Productions/Jamie Galazov|jamieglazov.com|Anti-Muslim|2018|2020
++ Global Faith Institute|globalfaith.org|Anti-Muslim|2020|2020
 ? III% Security Force|iiisecurityforce.com|Anti-Muslim|2018|
 ? Islamthreat.com|Islamthreat.com|Anti-Muslim|2018|
-Jihad Watch|jihadwatch.org|Anti-Muslim|2018|
-## Keep South Dakota Safe PAC|!!! None found.|Anti-Muslim|2018|
-+ Last Chance Patriots|lastchancepatriots.org|Anti-Muslim|2018|
-? Lincoln County Citizen Action Network|lincolncountycan.com|Anti-Muslim|2018|
-+ North Carolina Pastors Network|ncpastors.net|Anti-Muslim|2018|
-##? Pig Blood Bullets|!!! Facebook: facebook.com/Pig-Blood-Bullets-LLC-910554959035722/|Anti-Muslim|2018|
-Political Islam|politicalislam.com|Anti-Muslim|2018|
-+ Proclaiming Justice to the Nations|pjtn.org|Anti-Muslim|2018|
+Jihad Watch|jihadwatch.org|Anti-Muslim|2018|2020
+## - Keep South Dakota Safe PAC|N/A|Anti-Muslim|2018|2020
+Last Chance Patriots|lastchancepatriots.org|Anti-Muslim|2018|2020
+- Lincoln County Citizen Action Network|lincolncountycan.com|Custom Anti-Muslim|2017|2020
+- North Carolina Pastors Network|ncpastors.net|Custom Anti-Muslim|2018|2020
+## - Pig Blood Bullets|N/A: FB|Anti-Muslim|2016|2020
+Political Islam|politicalislam.com|Anti-Muslim|2018|2020
+Proclaiming Justice to the Nations|pjtn.org|Anti-Muslim|2018|2020
 Radio Jihad/Global Patriot Radio|radiojihad.org|Anti-Muslim|2018|
-Refugee Resettlement Watch|refugeeresettlementwatch.wordpress.com|Anti-Muslim|2018|
-##? Religious Awareness Network|!!! None found.|Anti-Muslim|2018|
-Secure Michigan|securemichigan.org|Anti-Muslim|2018|
-## Sharia Crime Stoppers/United West, The (duplicate)|theunitedwest.org|Anti-Muslim|2018|
+Refugee Resettlement Watch|refugeeresettlementwatch.org|Anti-Muslim|2018|
+d - Refugee Resettlement Watch (removed TOS)|refugeeresettlementwatch.wordpress.com|Anti-Muslim|2018|
+Rise Align Ignite Reclaim/RAIR Foundation|rairfoundation.com|Anti-Muslim|2019|2020
+Sea Jay Foundation|seajayfoundation.org|Anti-Muslim|2019|2020
+d - Secure Michigan|securemichigan.org|Anti-Muslim|2016|2020
+## Sharia Crime Stoppers/United West, The (duplicate)|theunitedwest.org|Anti-Muslim|2016|2020
 Shoebat Foundation, The|shoebat.com|Anti-Muslim|2018|
-Silver Bullet Gun Oil|silverbulletgunoil.net|Anti-Muslim|2018|
-## Soldiers of Odin|!!! Facebook: facebook.com/Soldiers-of-Odin-1178838978802741/|Anti-Muslim|2018|
-##+Southeast Michigan Tea Party|!!! Facebook|Anti-Muslim|2018|
-##+Straight Way and More, The (ambiguous and other similar domains)|!!! None found.|Anti-Muslim|2018|
+d Silver Bullet Gun Oil|silverbulletgunoil.net|Anti-Muslim|2017|2020
+## Soldiers of Odin|N/A: FB|Anti-Muslim|2018|2020
+Southeast Michigan Tea Party|semichiganteaparty.com|Anti-Muslim|2018|2020
 ? Stop the Islamization of the World|siotw.org|Anti-Muslim|2018|
 Straight Way and More, The|thestraightway.org|Anti-Muslim|2018|
-? Sultan Knish a blog by Daniel Greenfield|sultanknish.blogspot.com|Anti-Muslim|2018|
-##+ Sunshine on Government (SONG) Alliance|!!! Facebook|Anti-Muslim|2018|
-? Team America Political Action Committee|teamamericapac.com|Anti-Muslim|2018|
-##? Treasure Valley Refugee Watch|!!! None found.|Anti-Muslim|2018|
-Truth in Love Project|tilproject.com|Anti-Muslim|2018|
-+ Truth in Textbooks (Texas)|truthintexastextbooks.com|Anti-Muslim|2018|
-+ Unconstrained Analytics|unconstrainedanalytics.org|Anti-Muslim|2018|
-Understanding the Threat|understandingthethreat.com|Anti-Muslim|2018|
-United West, The/Sharia Crime Stoppers|theunitedwest.org|Anti-Muslim|2018|
-Virginia Christian Alliance|vachristian.org|Anti-Muslim|2018|
+- Sultan Knish a blog by Daniel Greenfield|sultanknish.blogspot.com|Anti-Muslim|2016|2020
+- Sultan Knish a blog by Daniel Greenfield|danielgreenfield.org|Anti-Muslim|2016|2020
+## Sunshine on Government (SONG) Alliance|N/A: FB|Anti-Muslim|2017|2020
+# x Team America Political Action Committee|teamamericapac.com|Anti-Muslim|2017|2020
+The Straight Way and More|thestraightway.org|Anti-Muslim|2016|2020
+The United West/Sharia Crime Stoppers|theunitedwest.org|Anti-Muslim|2018|2020
+## - Treasure Valley Refugee Watch|N/A: YT|Anti-Muslim|2018|2020
++ Thomas More Law Center|thomasmore.org|Anti-Muslim|2019|2020
+Truth in Love Project|tilproject.com|Anti-Muslim|2018|2020
+Truth in Textbooks (Texas)|truthintexastextbooks.com|Anti-Muslim|2017|2020
+Unconstrained Analytics|unconstrainedanalytics.org|Anti-Muslim|2017|2020
+Understanding the Threat|understandingthethreat.com|Anti-Muslim|2018|2020
+Virginia Christian Alliance|vachristian.org|Anti-Muslim|2018|2020
 #
 #
 ###########################################################################
@@ -676,9 +687,8 @@ qmap|qmap.pub|2019-11-05
 # + United Patriots Front/Reclaim Australia|N/A|Wikipedia Islamophobia|2020|2020
 # ? Reclaim Australia|reclaim-australia.com|Wikipedia Islamophobia|2020|2020
 + Vox (Political Party)|voxespana.es|Wikipedia Islamophobia|2020|2020
+
+Altra Firearms|altrafirearms.com|Anti-Muslim|2018|2020
 NumbersUSA|numbersusa.com|Anti-Immigrant|2018|2020
 ProjectUSA|projectusa.org|Anti-Immigrant|2018|2020
-Remembrance Project, The|theremembranceproject.org|Anti-Immigrant|2018|2020
 The Social Contract Press|tscpress.com|White Nationalist|2018|2020
-? Citizens for Community Values|ccv.org|Anti-LGBTQ|2018
-x Traditional Values Coalition|traditionalvalues.org|Anti-LGBTQ|2018

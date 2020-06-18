@@ -11,6 +11,7 @@
 **.8kun.org
 **.8kun.tv
 **.BroJed.org
+**.Custom
 **.Islamthreat.com
 **.a2zpublications.com
 **.abidingtruthministry.com
@@ -116,6 +117,7 @@
 **.dailystormer.ph
 **.dailystormer.red
 **.dailystormer.ru
+**.danielgreenfield.org
 **.defendthefamily.com
 **.deiryassin.org
 **.divine-truth.org
@@ -142,6 +144,7 @@
 **.fairus.org
 **.faithandheritage.com
 **.faithbaptistchalmette.com
+**.faithfreedom.org
 **.faithfulwordbaptist.org
 **.faithleadersforamerica.com
 **.familyresearchinst.org
@@ -165,6 +168,7 @@
 **.generations.org
 **.george.news
 **.georgiaknightriderskkk.com
+**.globalfaith.org
 **.godhatesamerica.com
 **.godhatesfags.com
 **.goldenstateskinheads.org
@@ -202,6 +206,7 @@
 **.jdl.org
 **.jihadwatch.org
 **.jtf.org
+**.kari55.com
 **.keystone2001united.wordpress.com
 **.killingfreespeech.com
 **.kingidentity.com
@@ -280,6 +285,7 @@
 **.projectusa.org
 **.proudboysusa.com
 **.publicadvocateusa.org
+**.publicpolicyalliance.org
 **.puttroopsontheborder.com
 **.pzg.biz
 **.qmap.pub
@@ -293,6 +299,7 @@
 **.rebelbrigadeknightstrueinvisibleempire.wordpress.com
 **.rebelbrigadeknightstrueinvisibleempire.yolasite.com
 **.redice.tv
+**.refugeeresettlementwatch.org
 **.refugeeresettlementwatch.wordpress.com
 **.remnantnewspaper.com
 **.rense.com
@@ -316,7 +323,9 @@
 **.savecalifornia.com
 **.scott-townsend.com
 **.scottlively.net
+**.seajayfoundation.org
 **.securemichigan.org
+**.semichiganteaparty.com
 **.sfaw.org
 **.sfawbn.org
 **.shariaunveiled.wordpress.com
@@ -344,7 +353,6 @@
 **.susukino.com
 **.tbm.org
 **.tcfamily.org
-**.teamamericapac.com
 **.texasrebelknightskkk.com
 **.texemarrs.com
 **.tfire.org
@@ -364,16 +372,19 @@
 **.thesnc.org
 **.thesocialcontract.com
 **.thestraightway.org
+**.thestraightway.org
 **.thethreepercenters.org
 **.theuka.us
 **.theunitedwest.org
 **.third-reich-books.com
+**.thomasmore.org
 **.thornwalker.com
 **.threeper-gear.ca
 **.threepercentersclub.org
 **.threeperscanada.com
 **.tightroperecords.com
 **.tilproject.com
+**.tmhnow.org
 **.toqonline.com
 **.traditionalistamericanknights.com
 **.traditionalvalues.org

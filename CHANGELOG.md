@@ -1,7 +1,7 @@
 ## 2020-06-17
 
-- UPDATE: Started update with 2019 data. Anti-immigrant + Wikipedia related
-- UPDATE: Anti-LGBTQ
+- UPDATE: Started update with 2019 data. Anti-immigrant, Male Supremacist, and Wikipedia related
+- UPDATE: Anti-LGBTQ, Anti-Muslim
 
 ## 2020-06-16
 
