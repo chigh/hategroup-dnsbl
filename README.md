@@ -70,7 +70,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Black Separatist]  		        |2020-06-17|
 | [Christian Identity] 		        |2020-06-17|
 | [General Hate]                    |2020-06-17|
-| [Hate Music]                      |2019-08-10|
+| [Hate Music]                      |2020-06-17|
 | [Holocaust Denial]                |2019-08-10|
 | [KKK]                             |2017-09-25|
 | [Male Supremacy]                  |2020-06-17|
