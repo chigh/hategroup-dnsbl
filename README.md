@@ -63,11 +63,11 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Ideology] & [Sources]            | Date     |
 | :--                               | :--:     |
 | [Alt-Right]                       |2018-07-06|
-| [Anti-Immigrant]                  |2019-08-08|
+| [Anti-Immigrant]                  |2020-06-17|
 | [Anti-LGBTQ]                      |2020-06-17|
-| [Anti-Muslim]                     |2019-08-09|
+| [Anti-Muslim]                     |2020-06-17|
 | [Antigovernment Movement]         |TBD|
-| [Black Separatist]  		        |2019-08-10|
+| [Black Separatist]  		        |2020-06-17|
 | [Christian Identity] 		        |2019-08-10|
 | [General Hate]                    |2019-08-10|
 | [Hate Music]                      |2019-08-10|

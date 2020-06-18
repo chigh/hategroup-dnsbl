@@ -2,6 +2,8 @@ $TTL 5
 @ IN SOA LOCALHOST. postmaster.no.email.please. ( 1 3600 600 2592000 3600 )
 @ IN NS LOCALHOST.
 LOCALHOST. IN A 127.0.0.1
+*.masharahyasharahla.com CNAME .
+masharahyasharahla.com CNAME .
 *.1776.shop CNAME .
 1776.shop CNAME .
 *.1west.org CNAME .
@@ -284,6 +286,8 @@ europeanamericanactioncoalition.wordpress.com CNAME .
 europeanamericansunited.org CNAME .
 *.exodus1715.info CNAME .
 exodus1715.info CNAME .
+*.exodus1715.org CNAME .
+exodus1715.org CNAME .
 *.exodusamericanus.com CNAME .
 exodusamericanus.com CNAME .
 *.f2a.org CNAME .
@@ -362,8 +366,12 @@ hlmenckenclub.org CNAME .
 home60515.com CNAME .
 *.horowitzfreedomcenter.org CNAME .
 horowitzfreedomcenter.org CNAME .
+*.https://www.israelitessaintsofchrist.org/ CNAME .
+https://www.israelitessaintsofchrist.org/ CNAME .
 *.icgjcmd.org CNAME .
 icgjcmd.org CNAME .
+*.icgjcpgh.org CNAME .
+icgjcpgh.org CNAME .
 *.identitydixie.com CNAME .
 identitydixie.com CNAME .
 *.identityevropa.com CNAME .
@@ -646,6 +654,8 @@ ruthinstitute.org CNAME .
 sacredtruthministries.com CNAME .
 *.sadisticsoulsmc.org CNAME .
 sadisticsoulsmc.org CNAME .
+*.saintsunit.org CNAME .
+saintsunit.org CNAME .
 *.savecalifornia.com CNAME .
 savecalifornia.com CNAME .
 *.scott-townsend.com CNAME .
@@ -680,6 +690,8 @@ silverbulletgunoil.net CNAME .
 sioeeu.wordpress.com CNAME .
 *.siotw.org CNAME .
 siotw.org CNAME .
+*.socialarchitects26.com CNAME .
+socialarchitects26.com CNAME .
 *.sonplace.com CNAME .
 sonplace.com CNAME .
 *.sonsoflibertymedia.com CNAME .
@@ -728,8 +740,12 @@ thecomforter.info CNAME .
 thedustininmansociety.org CNAME .
 *.thefederalist.com CNAME .
 thefederalist.com CNAME .
+*.theholyconceptionunit.org CNAME .
+theholyconceptionunit.org CNAME .
 *.thekosherquestion.com CNAME .
 thekosherquestion.com CNAME .
+*.thelionsofisrael.com CNAME .
+thelionsofisrael.com CNAME .
 *.theneworder.org CNAME .
 theneworder.org CNAME .
 *.theoccidentalobserver.net CNAME .

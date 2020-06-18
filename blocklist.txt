@@ -6,6 +6,7 @@
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 # Date: 2020-06-17
 #
+masharahyasharahla.com
 1776.shop
 1west.org
 2servethapeople.wixsite.com
@@ -147,6 +148,7 @@ eurofolkradio.com
 europeanamericanactioncoalition.wordpress.com
 europeanamericansunited.org
 exodus1715.info
+exodus1715.org
 exodusamericanus.com
 f2a.org
 fairus.org
@@ -186,7 +188,9 @@ helpsavemaryland.org
 hlmenckenclub.org
 home60515.com
 horowitzfreedomcenter.org
+https://www.israelitessaintsofchrist.org/
 icgjcmd.org
+icgjcpgh.org
 identitydixie.com
 identityevropa.com
 ihmmedia.net
@@ -328,6 +332,7 @@ runestone.org
 ruthinstitute.org
 sacredtruthministries.com
 sadisticsoulsmc.org
+saintsunit.org
 savecalifornia.com
 scott-townsend.com
 scottlively.net
@@ -345,6 +350,7 @@ silentnationalistmajority.com
 silverbulletgunoil.net
 sioeeu.wordpress.com
 siotw.org
+socialarchitects26.com
 sonplace.com
 sonsoflibertymedia.com
 southernfuture.com
@@ -369,7 +375,9 @@ theamericanguard.org
 thecomforter.info
 thedustininmansociety.org
 thefederalist.com
+theholyconceptionunit.org
 thekosherquestion.com
+thelionsofisrael.com
 theneworder.org
 theoccidentalobserver.net
 thepoliticalcesspool.org
