@@ -103,7 +103,7 @@ Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/mas
 [ideology]: https://www.splcenter.org/fighting-hate/extremist-files/ideology
 [alt-right]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right
 [anti-immigrant]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-immigrant
-[anti-lgbt]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt
+[anti-lgbtq]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt
 [anti-muslim]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-muslim
 [antigovernment movement]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/antigovernment
 [black separatist]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/black-separatist
