@@ -26,9 +26,12 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
 	* Script to generate the list objects
 * *import.csv*
 	* A comma separated variable file of domains and the names of the organizations. This is for reference and to generate all of the lists.
-    * Lines beginning with ? are groups/domains that are not in the current list, but have been in previous years' lists. ([Source](https://www.splcenter.org/hate-map)).
-    * Lines beginning with + are newly added groups in the current list.
-    * More definitions are in the file itself and will update the README accordingly.
+    * Lines beginning with 
+        - `?` are groups/domains that are not in the list, but are on the SPLC site.
+        - `+` are newly added groups in the list.
+        - `-` are active groups which have been in previous year's lists, but are not in the current year's list
+        - `x` are domains which no longer exist (nx) (removed from configs)
+        - `d` are domains which still exist, but are non-functional (remain in configs)
 
 ### Pi-hole
 With Pi-hole, use either the wildcard list or the blacklist, but not both. 

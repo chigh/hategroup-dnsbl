@@ -1,16 +1,15 @@
 # Hate group DNS Blocklist
 # - Based off 
-#       Southern Poverty Law Center's list of hate groups. 
-#           https://www.splcenter.org/fighting-hate
-#           https://www.splcenter.org/hate-map -- Click "Download Data"
-#       Center for Countering Digital Hate
-#           https://counterhate.co.uk
+#       - Southern Poverty Law Center's list of hate groups. 
+#           - https://www.splcenter.org/fighting-hate
+#           - https://www.splcenter.org/hate-map -- Click "Download Data"
+#       - Center for Countering Digital Hate
+#           - https://counterhate.co.uk
+#       - Other resources:
+#           - https://nowtoronto.com/news/canada-islamophobic-groups/
 # 
 # - URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #        
-# - Other resources:
-#   https://nowtoronto.com/news/canada-islamophobic-groups/
-#
 # - File format:
 #   Name|website|category|date-added|date updated/checked|anything-else
 #
@@ -32,6 +31,7 @@ CRW Flags|crwflags.com|Custom|2019-08-10|2020
 Citizens for the St. Croix Valley|citizensforthestcroixvalley.com|Anti-Muslim|2018|2020
 European Americans United|europeanamericansunited.org|Custom|2019
 International Organization for the Family|profam.org|Custom Anti-LGBTQ|2020|2020
+d - Iron March|ironmarch.org|Custom Neo-Nazi|2020|2020
 Kosher Question, The|thekosherquestion.com|Custom Anti-Semetic|2019
 National Vanguard|nationalvanguard.org|Custom|2019
 Nationalist Coalition|ncoal.com|Custom|2019
