@@ -1,13 +1,13 @@
 # Hate Group DNS Blacklist
 
-* [Overview](#overview)
-* [Files & Notes](#files--notes)
-	* [Pi-hole](#pi-hole)
-	* [ISC BIND](#isc-bind)
-	* [BlueCat Address Manager/Response Policies](#bluecat-address-managerresponse-policies)
-* [To do](#to-do)
-* [Sources](#sources)
-* [License](#license)
+- [Overview](#overview)
+- [Files & Notes](#files--notes)
+	- [Pi-hole](#pi-hole)
+	- [ISC BIND](#isc-bind)
+	- [BlueCat Address Manager/Response Policies](#bluecat-address-managerresponse-policies)
+- [To do](#to-do)
+- [Sources](#sources)
+- [License](#license)
 
 ## Overview
 This is a list of designated hate groups' domains as designated by the [Southern Poverty Law Center](http://splcenter.org). Data is pulled from their [Hate Map](https://splcenter.org/hate-map)
@@ -16,17 +16,17 @@ Please report errors [here](https://github.com/chigh/hategroup-dnsbl/issues).
 
 **Note:** This project and I am are in *no* way associated with SPLC. I created this with data from their public website plus a handful of other domains I have come across. (see the Custom section in *import.csv*)
 
-* Not all groups have domains; Some have facebook or pages on other shared resources. This will be noted in the *import.csv* if further information is available. This information will be periodically back-filled as it becomes available.
-* Some ideologies have overlap. Pi-hole will account for that. 
+- Not all groups have domains; Some have facebook or pages on other shared resources. This will be noted in the *import.csv* if further information is available. This information will be periodically back-filled as it becomes available.
+- Some ideologies have overlap. Pi-hole will account for that. 
 
 Included in this bundle are files and configuration code to be used with [Pi-hole](https://pi-hole.net), [ISC BIND](https://isc.org) Response Policies, or [BlueCat](https://bluecatnetworks.com) Response Policies.
 
 ## Files & Notes 
-* *block_hate.sh*
-	* Script to generate the list objects
-* *import.csv*
-	* A comma separated variable file of domains and the names of the organizations. This is for reference and to generate all of the lists.
-    * Lines beginning with 
+- *block_hate.sh*
+	- Script to generate the list objects
+- *import.csv*
+	- A comma separated variable file of domains and the names of the organizations. This is for reference and to generate all of the lists.
+    - Lines beginning with 
         - `?` are groups/domains that are not in the list, but are on the SPLC site.
         - `+` are newly added groups in the list.
         - `-` are active groups which have been in previous year's lists, but are not in the current year's list
@@ -36,29 +36,29 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
 ### Pi-hole
 With Pi-hole, use either the wildcard list or the blacklist, but not both. 
 
-* *blocklist.txt*
-	* A text file list of only the domains.
-	* This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
-		* https://tch3.net/hg-dnsbl/blocklist.txt
-		* https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-* *04-pihole-wildcard.conf*
-	* Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
-    * Modify this file to contain the IP address of your Pi-Hole appliance.
-	* Copy this file into */etc/dnsmasq.d* onto your Pi-hole appliance and restart Pi-hole: 
-		* `pihole restartdns`
+- *blocklist.txt*
+	- A text file list of only the domains.
+	- This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
+		- https://tch3.net/hg-dnsbl/blocklist.txt
+		- https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
+- *04-pihole-wildcard.conf*
+	- Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
+    - Modify this file to contain the IP address of your Pi-Hole appliance.
+	- Copy this file into */etc/dnsmasq.d* onto your Pi-hole appliance and restart Pi-hole: 
+		- `pihole restartdns`
 
 ### ISC BIND
-* *hategrp.rpz.db*
-	* BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
-* *hategrp.rpz_BAM-import.txt*
-	* A file to be imported into BlueCat Address Manager to create a hate group based Response Policy
-* *named.conf*
-	* A section of named.conf to be included in your BIND implementation to use the included database. This goes in the *view* section.
+- *hategrp.rpz.db*
+	- BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
+- *hategrp.rpz_BAM-import.txt*
+	- A file to be imported into BlueCat Address Manager to create a hate group based Response Policy
+- *named.conf*
+	- A section of named.conf to be included in your BIND implementation to use the included database. This goes in the *view* section.
 
 ### BlueCat Address Manager/Response Policies
 Importing the generated file will over-write all entries in the Response Policy in which this list is imported.
 
-* *hategrp.rpz_BAM-import.txt*
+- *hategrp.rpz_BAM-import.txt*
 
 ## Sources 
 
@@ -86,15 +86,16 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Sovereign Citizens Movement]     |[N/A]|
 | [White Nationalist]               |2019-08-10|
 
-* There is no SPLC for Canada, so based upon a groups related to the ones already in the list.
-	* [A guide to Canada's anti-Islamic groups -- NowToronto](https://nowtoronto.com/news/canada-islamophobic-groups/)
+- There is no SPLC for Canada, so based upon a groups related to the ones already in the list.
+	- [A guide to Canada's anti-Islamic groups -- NowToronto](https://nowtoronto.com/news/canada-islamophobic-groups/)
+- Also using [Center for Countering Digital Hate](https://counterhate.co.uk)
 
 
 ## To do
 
-* Fill in with 2019 data from SPLC's hate map. [in progress]
-* Complete the Antigovernment Movement.
-	* There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
+- Fill in with 2019 data from SPLC's hate map. [in progress]
+- Complete the Antigovernment Movement.
+	- There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
 
 ## License
 Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
