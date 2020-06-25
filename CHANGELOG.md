@@ -1,3 +1,7 @@
+## 2020-06-25
+
+- ADDED: Alt-right social media websites
+
 ## 2020-06-17
 
 - UPDATE: Started update with 2019 data. Anti-immigrant, Male Supremacist, and Wikipedia related

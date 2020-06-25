@@ -167,6 +167,7 @@
 **.freedomdefense.typepad.com
 **.freespeech.tv
 **.fwbcla.org
+**.gab.com
 **.gallowstreewotansvolk.blogspot.com
 **.gatestoneinstitute.org
 **.generations.org
@@ -199,6 +200,7 @@
 **.immigrationcontrol.com
 **.insightusa.us
 **.irli.org
+**.ironmarch.org
 **.irvingbooks.com
 **.isdrecords.com
 **.isitwetyet.com
@@ -278,6 +280,7 @@
 **.ourfightclothingco.com
 **.paceconfederatedepot.weebly.com
 **.pacificjustice.org
+**.parler.com
 **.patriotfront.us
 **.patriotic-flags.com
 **.pccmonroe.org
@@ -432,6 +435,7 @@
 **.vinlandclothing.com
 **.vinlandicwerwolfdistribution.wordpress.com
 **.vipsumo.com
+**.voat.co
 **.voxespana.es
 **.waronthehorizon.com
 **.washsummit.com

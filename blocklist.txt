@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2020-06-17
+# Date: 2020-06-25
 #
 masharahyasharahla.com
 1776.shop
@@ -175,6 +175,7 @@ freeamerican.com
 freedomdefense.typepad.com
 freespeech.tv
 fwbcla.org
+gab.com
 gallowstreewotansvolk.blogspot.com
 gatestoneinstitute.org
 generations.org
@@ -207,6 +208,7 @@ illinoisfamily.org
 immigrationcontrol.com
 insightusa.us
 irli.org
+ironmarch.org
 irvingbooks.com
 isdrecords.com
 isitwetyet.com
@@ -286,6 +288,7 @@ originalknightriders.net
 ourfightclothingco.com
 paceconfederatedepot.weebly.com
 pacificjustice.org
+parler.com
 patriotfront.us
 patriotic-flags.com
 pccmonroe.org
@@ -440,6 +443,7 @@ veritybaptist.com
 vinlandclothing.com
 vinlandicwerwolfdistribution.wordpress.com
 vipsumo.com
+voat.co
 voxespana.es
 waronthehorizon.com
 washsummit.com
