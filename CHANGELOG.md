@@ -1,3 +1,8 @@
+## 2020-06-27
+
+- FIXED: commented out some rows which were meant to be exactly that.
+- ADDED: Graham Linehan's, known transphobe, blog domain
+
 ## 2020-06-25
 
 - ADDED: Alt-right social media websites
