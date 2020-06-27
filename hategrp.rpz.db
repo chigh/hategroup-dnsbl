@@ -376,8 +376,6 @@ hlmenckenclub.org CNAME .
 home60515.com CNAME .
 *.horowitzfreedomcenter.org CNAME .
 horowitzfreedomcenter.org CNAME .
-*.https://www.israelitessaintsofchrist.org/ CNAME .
-https://www.israelitessaintsofchrist.org/ CNAME .
 *.hypgnosisrecords.bigcartel.com CNAME .
 hypgnosisrecords.bigcartel.com CNAME .
 *.icgjcmd.org CNAME .
@@ -416,6 +414,8 @@ isdrecords.com CNAME .
 isitwetyet.com CNAME .
 *.isoc.ws CNAME .
 isoc.ws CNAME .
+*.israelitessaintsofchrist.org CNAME .
+israelitessaintsofchrist.org CNAME .
 *.israelunite.org CNAME .
 israelunite.org CNAME .
 *.israelunitedinchrist.tumblr.com CNAME .
@@ -786,8 +786,6 @@ therightstuff.biz CNAME .
 thesnc.org CNAME .
 *.thesocialcontract.com CNAME .
 thesocialcontract.com CNAME .
-*.thestraightway.org CNAME .
-thestraightway.org CNAME .
 *.thestraightway.org CNAME .
 thestraightway.org CNAME .
 *.thethreepercenters.org CNAME .

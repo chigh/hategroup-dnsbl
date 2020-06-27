@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2020-06-25
+# Date: 2020-06-27
 #
 masharahyasharahla.com
 1776.shop
@@ -193,7 +193,6 @@ hipgnosiscovers.com
 hlmenckenclub.org
 home60515.com
 horowitzfreedomcenter.org
-https://www.israelitessaintsofchrist.org/
 hypgnosisrecords.bigcartel.com
 icgjcmd.org
 icgjcpgh.org
@@ -213,6 +212,7 @@ irvingbooks.com
 isdrecords.com
 isitwetyet.com
 isoc.ws
+israelitessaintsofchrist.org
 israelunite.org
 israelunitedinchrist.tumblr.com
 isupk.com
@@ -398,7 +398,6 @@ therevolutionaryblackpantherparty.org
 therightstuff.biz
 thesnc.org
 thesocialcontract.com
-thestraightway.org
 thestraightway.org
 thethreepercenters.org
 theuka.us

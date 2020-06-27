@@ -185,7 +185,6 @@
 **.hlmenckenclub.org
 **.home60515.com
 **.horowitzfreedomcenter.org
-**.https://www.israelitessaintsofchrist.org/
 **.hypgnosisrecords.bigcartel.com
 **.icgjcmd.org
 **.icgjcpgh.org
@@ -205,6 +204,7 @@
 **.isdrecords.com
 **.isitwetyet.com
 **.isoc.ws
+**.israelitessaintsofchrist.org
 **.israelunite.org
 **.israelunitedinchrist.tumblr.com
 **.isupk.com
@@ -390,7 +390,6 @@
 **.therightstuff.biz
 **.thesnc.org
 **.thesocialcontract.com
-**.thestraightway.org
 **.thestraightway.org
 **.thethreepercenters.org
 **.theuka.us
