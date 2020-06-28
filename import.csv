@@ -22,6 +22,7 @@
 #         are not in the current year's list
 #       x are domains which no longer exist (nx) (removed from configs)
 #       d are domains which still exist, but are non-functional (remain in configs)
+#       r are groups which are no longer in the list
 #
 ###########################################################################
 ### Custom
@@ -37,6 +38,7 @@ Graham Linehan|whythatsdelightful.wordpress.com|Custom Transphobic|2020|2020
 International Organization for the Family|profam.org|Custom Anti-LGBTQ|2020|2020
 d - Iron March|ironmarch.org|Custom Neo-Nazi|2020|2020
 Kosher Question, The|thekosherquestion.com|Custom Anti-Semetic|2019
+Ku Klux Klan Truth|kukluxklantruth.wordpress.com|Custom KKK Blog|2020|2020
 National Vanguard|nationalvanguard.org|Custom|2019
 Nationalist Coalition|ncoal.com|Custom|2019
 Parler "Social Media"|parler.com|Custom Alt-right|2020|2020
@@ -421,37 +423,44 @@ The Realist Report|therealistreport.com|Holocaust Denial|2016|2020
 ### KKK
 ###########################################################################
 Ku Klux Klan|kkk.com
-## Christian American Knights of the Ku Klux Klan|!!! None found.
-Church of the National Knights of the Ku Klux Klan|cnkkkk.net
-## Confederate White Knights of the Ku Klux Klan|!!! None found.
-East Coast Knights Of The True Invisible Empire|eastcoastknightsofthetrueinvisibleempire.com
-Georgia Knight Riders of the Ku Klux Klan|georgiaknightriderskkk.com
-## Great Lakes Knights of the Ku Klux Klan|!!! None found.
-International Keystone Knights of the Ku Klux Klan|ikkkkk.org
-## Knights of the Ku Klux Klan|!!! None found.
+## + Alliance of American Klans|N/A|KKK|2019|2020
++ American Christian Dixie Knights of the Ku Klux Klan|acdk311.com|KKK|2019|2020
+## r - Christian American Knights of the Ku Klux Klan|N/A|KKK|2018|2020
+Church of the National Knights of the Ku Klux Klan|cnkkkk.net|KKK|2016|2020
+## r - Confederate White Knights of the Ku Klux Klan|N/A|KKK|2016|2020
+East Coast Knights Of The True Invisible Empire|eastcoastknightsofthetrueinvisibleempire.com|KKK|2016|2020
+## Exalted Knights of the Ku Klux Klan|N/A|KKK|2017|2020
+## Exalted Knights of the Ku Klux Klan|exaltedknights.com|taken over & redirected :-)
+dr - Georgia Knight Riders of the Ku Klux Klan|georgiaknightriderskkk.com
+## r - Great Lakes Knights of the Ku Klux Klan|N/A|2016|2020
+## Honorable Sacred Knights of the Ku Klux Klan|N/A|2018|2020
++ Imperial Klans of America of the Ku Klux Klan|imperialklansofamerica.com|KKK|2019|2020
+International Keystone Knights of the Ku Klux Klan|ikkkkk.org|KKK|2018|2020
+## Knights of the Ku Klux Klan|N/A|KKK|2016|2020
 Knights of the White Disciples|knightsofthewhitedisciples.com
-Ku Klos Knights of the Ku Klux Klan|kuklosknights.com
+Ku Klos Knights of the Ku Klux Klan|kuklosknights.com|KKK|2016|2020
 Loyal White Knights of the Ku Klux Klan|kkkknights.com
-## Militant Knights Ku Klux Klan|!!! None found.
-## Nordic Order Knights of the Ku Klux Klan|!!! None found.
-## North Mississippi White Knights Of The Ku Klux Klan|!!! None found.
+## Noble Klans of America|N/A -- Intentionally don't have one|KKK|2018|2020
+## Nordic Order Knights of the Ku Klux Klan|N/A|2016|2020
+## North Mississippi White Knights Of The Ku Klux Klan|N/A|KKK|2016|2020
 ## Old Dominion Knights of the Ku Klux Klan|!!! None found.
 ## Old Glory Knights of the Ku Klux Klan|!!! None found.
-Original Knight Riders Knights of the Ku Klux Klan|originalknightriders.net
-## Outlaw Knights of the Ku Klux Klan|!!! None found.
-## Pacific Coast Knights of the Ku Klux Klan|!!! None found.
-## Patriotic Brigade Knights of the Ku Klux Klan|!!! None found.
-Rebel Brigade Knights True Invisible Empire|rebelbrigadeknightstrueinvisibleempire.yolasite.com
-Rebel Brigade Knights True Invisible Empire|rebelbrigade.blogspot.com
-Rebel Brigade Knights True Invisible Empire|rebelbrigadeknightstrueinvisibleempire.wordpress.com
-## Southern Ohio Knights of the Ku Klux Klan|!!! None found.
+## xr - Original Knight Riders Knights of the Ku Klux Klan|originalknightriders.net|KKK|2016|2020
+## - Outlaw Knights of the Ku Klux Klan|N/A|KKK|2016|2020
+## Pacific Coast Knights of the Ku Klux Klan|N/A|2016|2020
+## Patriotic Brigade Knights of the Ku Klux Klan|N/A|2016|2020
+Rebel Brigade Knights True Invisible Empire|rebelbrigadeknightstrueinvisibleempire.yolasite.com|KKK|2016|2020
+Rebel Brigade Knights True Invisible Empire|rebelbrigade.blogspot.com|KKK|2016|2020
+Rebel Brigade Knights True Invisible Empire|rebelbrigadeknightstrueinvisibleempire.wordpress.com|KKK|2016|2020
+## - Southern Ohio Knights of the Ku Klux Klan|N/A|KKK|2016|2020
 Texas Rebel Knights of the Ku Klux Klan|texasrebelknightskkk.com
-Traditionalist American Knights of the Ku Klux Klan|traditionalistamericanknights.com
-## United Dixie White Knights Ku Klux Klan|!!! None found.
-United Klans of America|theuka.us
+d - Traditionalist American Knights of the Ku Klux Klan|traditionalistamericanknights.com
+## United Dixie White Knights Ku Klux Klan|N/A|2016|2020
+United Klans of America|theuka.us|KKK|2016|2020
 United Northern and Southern Knights of the Ku Klux Klan|unskkkk.com
-## United White Knights of the Ku Klux Klan|!!! None found.
-## White Knights of the Ku Klux Klan of America|!!! None found.
+## - United White Knights of the Ku Klux Klan|N/A|2016|2020
+## - White Knights of the Ku Klux Klan of America|N/A|KKK|2016|2020
+## White Knights of Texas|N/A|KKK|2019|2020
 #
 #
 ###########################################################################
