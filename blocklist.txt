@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2020-06-28
+# Date: 2020-07-08
 #
 masharahyasharahla.com
 1776.shop
@@ -75,6 +75,7 @@ bnp.org.uk
 bodubalasena.org
 bombislam.com
 bombisrael.com
+breitbart.com
 brothernathanaelfoundation.org
 c-fam.org
 cagsfl.online
@@ -278,6 +279,7 @@ nsm88records.com
 nspublications.com
 numbersusa.com
 nyice.us
+oann.com
 occidentaldissent.com
 officialproudboys.com
 officialstreetpreachers.blogspot.com
@@ -448,6 +450,7 @@ voat.co
 voxespana.es
 waronthehorizon.com
 washsummit.com
+westmonster.com
 wfcchurch.org
 whitakeronline.org
 whiteboysociety.blogspot.com

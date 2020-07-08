@@ -140,6 +140,8 @@ bodubalasena.org CNAME .
 bombislam.com CNAME .
 *.bombisrael.com CNAME .
 bombisrael.com CNAME .
+*.breitbart.com CNAME .
+breitbart.com CNAME .
 *.brothernathanaelfoundation.org CNAME .
 brothernathanaelfoundation.org CNAME .
 *.c-fam.org CNAME .
@@ -546,6 +548,8 @@ nspublications.com CNAME .
 numbersusa.com CNAME .
 *.nyice.us CNAME .
 nyice.us CNAME .
+*.oann.com CNAME .
+oann.com CNAME .
 *.occidentaldissent.com CNAME .
 occidentaldissent.com CNAME .
 *.officialproudboys.com CNAME .
@@ -886,6 +890,8 @@ voxespana.es CNAME .
 waronthehorizon.com CNAME .
 *.washsummit.com CNAME .
 washsummit.com CNAME .
+*.westmonster.com CNAME .
+westmonster.com CNAME .
 *.wfcchurch.org CNAME .
 wfcchurch.org CNAME .
 *.whitakeronline.org CNAME .
