@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2020-07-08
+# Date: 2020-07-09
 #
 masharahyasharahla.com
 1776.shop
@@ -72,6 +72,7 @@ bloodandhonour-arkansas.webs.com
 bloodandhonour.net
 bloodandhonourworldwide.co.uk
 bnp.org.uk
+bobbypickles.com
 bodubalasena.org
 bombislam.com
 bombisrael.com
@@ -248,6 +249,7 @@ leagueofthesouth.com
 libertybc.sermon.net
 lincolncountycan.com
 liveprayer.com
+loomered.com
 lordshipchurch.org
 luxorcouture.com
 massresistance.org
@@ -258,6 +260,7 @@ mostholyfamilymonastery.com
 mountainminutemen.com
 msrproductions.com
 natall.com
+national-justice.com
 nationalistwomensfront.org
 nationalistwomensfront.wordpress.com
 nationalvanguard.org
