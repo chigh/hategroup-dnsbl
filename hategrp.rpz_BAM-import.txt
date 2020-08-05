@@ -10,6 +10,7 @@
 **.8kun.com
 **.8kun.net
 **.8kun.org
+**.8kun.top
 **.8kun.tv
 **.BroJed.org
 **.Custom
@@ -148,6 +149,7 @@
 **.exodus1715.org
 **.exodusamericanus.com
 **.f2a.org
+**.faircop.org.uk
 **.fairus.org
 **.faithandheritage.com
 **.faithbaptistchalmette.com

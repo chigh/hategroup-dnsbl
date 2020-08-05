@@ -26,6 +26,8 @@ masharahyasharahla.com CNAME .
 8kun.net CNAME .
 *.8kun.org CNAME .
 8kun.org CNAME .
+*.8kun.top CNAME .
+8kun.top CNAME .
 *.8kun.tv CNAME .
 8kun.tv CNAME .
 *.BroJed.org CNAME .
@@ -302,6 +304,8 @@ exodus1715.org CNAME .
 exodusamericanus.com CNAME .
 *.f2a.org CNAME .
 f2a.org CNAME .
+*.faircop.org.uk CNAME .
+faircop.org.uk CNAME .
 *.fairus.org CNAME .
 fairus.org CNAME .
 *.faithandheritage.com CNAME .
