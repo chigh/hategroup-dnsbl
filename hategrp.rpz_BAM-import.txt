@@ -254,6 +254,7 @@
 **.mostholyfamilymonastery.com
 **.mountainminutemen.com
 **.msrproductions.com
+**.mymilitia.com
 **.natall.com
 **.national-justice.com
 **.nationalistwomensfront.org
@@ -387,6 +388,7 @@
 **.theamericanguard.org
 **.thecomforter.info
 **.thedustininmansociety.org
+**.theepochtimes.com
 **.thefederalist.com
 **.theholyconceptionunit.org
 **.thekosherquestion.com

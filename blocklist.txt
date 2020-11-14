@@ -4,7 +4,7 @@
 #           https://www.splcenter.org/hate-map
 #   URL: https://tch3.net/hg-dnsbl/blocklist.txt
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2020-08-05
+# Date: 2020-11-14
 #
 masharahyasharahla.com
 1776.shop
@@ -262,6 +262,7 @@ missiontoisrael.org
 mostholyfamilymonastery.com
 mountainminutemen.com
 msrproductions.com
+mymilitia.com
 natall.com
 national-justice.com
 nationalistwomensfront.org
@@ -395,6 +396,7 @@ theamericanfreedomparty.us
 theamericanguard.org
 thecomforter.info
 thedustininmansociety.org
+theepochtimes.com
 thefederalist.com
 theholyconceptionunit.org
 thekosherquestion.com

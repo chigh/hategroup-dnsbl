@@ -1,3 +1,7 @@
+## 2020-11-14
+
+- ADDED: two custom domains for rw militias and ultra right-wing media & conspiracy theories
+
 ## 2020-06-27
 
 - FIXED: commented out some rows which were meant to be exactly that.
