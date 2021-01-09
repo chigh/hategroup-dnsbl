@@ -124,6 +124,7 @@
 **.dailystormer.ph
 **.dailystormer.red
 **.dailystormer.ru
+**.dailystormer.su
 **.danielgreenfield.org
 **.defendthefamily.com
 **.deiryassin.org

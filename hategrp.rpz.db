@@ -254,6 +254,8 @@ dailystormer.ph CNAME .
 dailystormer.red CNAME .
 *.dailystormer.ru CNAME .
 dailystormer.ru CNAME .
+*.dailystormer.su CNAME .
+dailystormer.su CNAME .
 *.danielgreenfield.org CNAME .
 danielgreenfield.org CNAME .
 *.defendthefamily.com CNAME .
