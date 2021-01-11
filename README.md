@@ -39,7 +39,6 @@ With Pi-hole, use either the wildcard list or the blacklist, but not both.
 - *blocklist.txt*
 	- A text file list of only the domains.
 	- This can be added to Pi-hole configuration on a local web server or add the following URL to Pi-hole's Block Lists ([instructions](https://github.com/pi-hole/pi-hole/wiki/Customising-sources-for-ad-lists)):
-		- https://tch3.net/hg-dnsbl/blocklist.txt
 		- https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
 - *04-pihole-wildcard.conf*
 	- Wildcard domain list for Pi-hole. When using the GUI, *03-pihole-wildcard.conf* is created and used. Used as a separate file, *dnsmasq* will read in the contents for both without having to worry about overwriting anything added within the GUI. Less work.
