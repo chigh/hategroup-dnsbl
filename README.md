@@ -79,7 +79,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [KKK]                             |2020-06-27|
 | [Male Supremacy]                  |2020-06-17|
 | [Neo-Confederate]                 |2019-08-10|
-| [Neo-Nazi]                        |2019-08-10|
+| [Neo-Nazi]                        |2021-01-11|
 | [Phineas Priesthood]              |[N/A]|
 | [Racist Skinheads]                |2019-08-10|
 | [Radical Traditional Catholicism] |2019-08-10|

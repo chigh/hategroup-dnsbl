@@ -105,6 +105,7 @@
 **.combat18.net
 **.combat18.org
 **.concernedchristiancitizens.org
+**.confederatewave.org
 **.conservative-headlines.com
 **.counter-currents.com
 **.counterjihadcoalition.org
@@ -317,7 +318,6 @@
 **.qmap.pub
 **.qsociety.org.au
 **.radiojihad.org
-**.radiowehrwolf.world
 **.radixjournal.com
 **.rairfoundation.com
 **.raoe.org
@@ -457,6 +457,7 @@
 **.whiteboysociety.blogspot.com
 **.whiterabbitradio.net
 **.whythatsdelightful.wordpress.com
+**.wildmans-shop.com
 **.windsorhills.org
 **.worldcongress.org
 **.wotansnation.org

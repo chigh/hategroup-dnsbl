@@ -216,6 +216,8 @@ combat18.net CNAME .
 combat18.org CNAME .
 *.concernedchristiancitizens.org CNAME .
 concernedchristiancitizens.org CNAME .
+*.confederatewave.org CNAME .
+confederatewave.org CNAME .
 *.conservative-headlines.com CNAME .
 conservative-headlines.com CNAME .
 *.counter-currents.com CNAME .
@@ -640,8 +642,6 @@ qmap.pub CNAME .
 qsociety.org.au CNAME .
 *.radiojihad.org CNAME .
 radiojihad.org CNAME .
-*.radiowehrwolf.world CNAME .
-radiowehrwolf.world CNAME .
 *.radixjournal.com CNAME .
 radixjournal.com CNAME .
 *.rairfoundation.com CNAME .
@@ -920,6 +920,8 @@ whiteboysociety.blogspot.com CNAME .
 whiterabbitradio.net CNAME .
 *.whythatsdelightful.wordpress.com CNAME .
 whythatsdelightful.wordpress.com CNAME .
+*.wildmans-shop.com CNAME .
+wildmans-shop.com CNAME .
 *.windsorhills.org CNAME .
 windsorhills.org CNAME .
 *.worldcongress.org CNAME .
