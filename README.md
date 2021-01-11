@@ -80,6 +80,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Male Supremacy]                  |2020-06-17|
 | [Neo-Confederate]                 |2019-08-10|
 | [Neo-Nazi]                        |2021-01-11|
+| [Neo-V&ouml;lkisch][neo-volkisch] |2021-01-11|
 | [Phineas Priesthood]              |[N/A]|
 | [Racist Skinheads]                |2019-08-10|
 | [Radical Traditional Catholicism] |2019-08-10|
@@ -119,6 +120,7 @@ Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/mas
 [male supremacy]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy
 [neo-confederate]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-confederate
 [neo-nazi]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-nazi
+[neo-volkisch]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-volkisch
 [phineas priesthood]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/phineas-priesthood
 [racist skinheads]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/racist-skinhead
 [radical traditional catholicism]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/radical-traditional-catholicism
