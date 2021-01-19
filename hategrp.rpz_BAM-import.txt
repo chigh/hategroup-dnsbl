@@ -13,7 +13,6 @@
 **.8kun.top
 **.8kun.tv
 **.BroJed.org
-**.Custom
 **.Islamthreat.com
 **.a2zpublications.com
 **.abidingtruthministry.com
@@ -42,9 +41,9 @@
 **.americanidentitymovement.com
 **.americanimmigrationcontrol.com
 **.americannaziparty.com
+**.americanpatriotsusa.net
 **.americanpatrol.com
 **.americansfortruth.com
-**.americanvikings.com
 **.americanvision.org
 **.americaspromiseministries.org
 **.amerikaner.org
@@ -66,11 +65,13 @@
 **.bloodandhonour-arkansas.webs.com
 **.bloodandhonour.net
 **.bloodandhonourworldwide.co.uk
+**.bloodriverradio.com
 **.bnp.org.uk
 **.bobbypickles.com
 **.bodubalasena.org
 **.bombislam.com
 **.bombisrael.com
+**.borderkeepersofalabama.org
 **.breitbart.com
 **.brothernathanaelfoundation.org
 **.c-fam.org
@@ -82,6 +83,7 @@
 **.catholiccounterpoint.org
 **.catholicism.org
 **.ccfile.com
+**.ccir.net
 **.ccv.org
 **.centerforsecuritypolicy.org
 **.cfnews.org
@@ -104,6 +106,7 @@
 **.cnkkkk.net
 **.coachdavelive.com
 **.codoh.com
+**.colchestercollection.com
 **.combat18.net
 **.combat18.org
 **.concernedchristiancitizens.org
@@ -176,6 +179,7 @@
 **.freeamerican.com
 **.freedomdefense.typepad.com
 **.freespeech.tv
+**.freestartr.com
 **.fwbcla.org
 **.gab.com
 **.gallowstreewotansvolk.blogspot.com
@@ -188,6 +192,7 @@
 **.godhatesfags.com
 **.goldenstateskinheads.org
 **.golifa.com
+**.gotnews.com
 **.hammerskins.net
 **.hatreon.net
 **.helpsavemaryland.org
@@ -206,6 +211,7 @@
 **.iiisecurityforce.com
 **.ikkkkk.org
 **.illinoisfamily.org
+**.immaculateheartschool.org
 **.immigrationcontrol.com
 **.imperialklansofamerica.com
 **.insightusa.us
@@ -275,6 +281,7 @@
 **.ncpastors.net
 **.neinchan.com
 **.neveragaincanada.ca
+**.njeha.com
 **.noi.org
 **.northwestfront.org
 **.npiamerica.org
@@ -302,7 +309,6 @@
 **.pccmonroe.org
 **.pegida.de
 **.perpetualdiversity.com
-**.pioneerlittleeurope.com
 **.pjtn.org
 **.pnwkindred.com
 **.pokerface.com
@@ -320,6 +326,7 @@
 **.pzg.biz
 **.qmap.pub
 **.qsociety.org.au
+**.radiofreemississippi.net
 **.radiojihad.org
 **.radixjournal.com
 **.rairfoundation.com
@@ -327,10 +334,12 @@
 **.rebelbrigade.blogspot.com
 **.rebelbrigadeknightstrueinvisibleempire.wordpress.com
 **.rebelbrigadeknightstrueinvisibleempire.yolasite.com
+**.reclaim-australia.com
 **.redice.tv
 **.refugeeresettlementwatch.org
 **.refugeeresettlementwatch.wordpress.com
 **.remnantnewspaper.com
+**.renaissancehorizon.com
 **.rense.com
 **.renseradio.com
 **.renseradioarchives.com
@@ -349,6 +358,7 @@
 **.ruthinstitute.org
 **.sacredtruthministries.com
 **.sadisticsoulsmc.org
+**.saintbenedict.com
 **.saintsunit.org
 **.savecalifornia.com
 **.scott-townsend.com
@@ -376,7 +386,6 @@
 **.stahlhelmrecords.blogspot.com
 **.stedfastbaptistkjv.org
 **.steinreport.com
-**.stormfront.co.uk
 **.stormfront.org
 **.strongholdbaptist.church
 **.sultanknish.blogspot.com
@@ -423,7 +432,7 @@
 **.traditionalvalues.org
 **.traditioninaction.org
 **.tradworker.org
-**.tradyouth.org
+**.tribaltheocrat.com
 **.truelightpentecost.org
 **.truenation.org
 **.truenation.websitetoolbox.com
@@ -435,6 +444,7 @@
 **.unitedfamilies.org
 **.unitedkingdomofisrael.org
 **.unitedriotrecords.net
+**.unitedskinheadnation.com
 **.unskkkk.com
 **.unwonline-uk.org
 **.unwonline.org
@@ -453,6 +463,7 @@
 **.voxespana.es
 **.waronthehorizon.com
 **.washsummit.com
+**.wesearchr.com
 **.westmonster.com
 **.wfcchurch.org
 **.whitakeronline.org

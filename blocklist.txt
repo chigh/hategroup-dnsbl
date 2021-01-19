@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #           https://www.splcenter.org/hate-map
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2021-01-11
+# Date: 2021-01-19
 #
 masharahyasharahla.com
 1776.shop
@@ -20,7 +20,6 @@ masharahyasharahla.com
 8kun.top
 8kun.tv
 BroJed.org
-Custom
 Islamthreat.com
 a2zpublications.com
 abidingtruthministry.com
@@ -49,9 +48,9 @@ americanfreepress.net
 americanidentitymovement.com
 americanimmigrationcontrol.com
 americannaziparty.com
+americanpatriotsusa.net
 americanpatrol.com
 americansfortruth.com
-americanvikings.com
 americanvision.org
 americaspromiseministries.org
 amerikaner.org
@@ -73,11 +72,13 @@ blackridersliberationparty.com
 bloodandhonour-arkansas.webs.com
 bloodandhonour.net
 bloodandhonourworldwide.co.uk
+bloodriverradio.com
 bnp.org.uk
 bobbypickles.com
 bodubalasena.org
 bombislam.com
 bombisrael.com
+borderkeepersofalabama.org
 breitbart.com
 brothernathanaelfoundation.org
 c-fam.org
@@ -89,6 +90,7 @@ carolynyeager.net
 catholiccounterpoint.org
 catholicism.org
 ccfile.com
+ccir.net
 ccv.org
 centerforsecuritypolicy.org
 cfnews.org
@@ -111,6 +113,7 @@ clarionproject.org
 cnkkkk.net
 coachdavelive.com
 codoh.com
+colchestercollection.com
 combat18.net
 combat18.org
 concernedchristiancitizens.org
@@ -183,6 +186,7 @@ frc.org
 freeamerican.com
 freedomdefense.typepad.com
 freespeech.tv
+freestartr.com
 fwbcla.org
 gab.com
 gallowstreewotansvolk.blogspot.com
@@ -195,6 +199,7 @@ godhatesamerica.com
 godhatesfags.com
 goldenstateskinheads.org
 golifa.com
+gotnews.com
 hammerskins.net
 hatreon.net
 helpsavemaryland.org
@@ -213,6 +218,7 @@ ihspress.com
 iiisecurityforce.com
 ikkkkk.org
 illinoisfamily.org
+immaculateheartschool.org
 immigrationcontrol.com
 imperialklansofamerica.com
 insightusa.us
@@ -282,6 +288,7 @@ ncparty.ca
 ncpastors.net
 neinchan.com
 neveragaincanada.ca
+njeha.com
 noi.org
 northwestfront.org
 npiamerica.org
@@ -309,7 +316,6 @@ patriotic-flags.com
 pccmonroe.org
 pegida.de
 perpetualdiversity.com
-pioneerlittleeurope.com
 pjtn.org
 pnwkindred.com
 pokerface.com
@@ -327,6 +333,7 @@ puttroopsontheborder.com
 pzg.biz
 qmap.pub
 qsociety.org.au
+radiofreemississippi.net
 radiojihad.org
 radixjournal.com
 rairfoundation.com
@@ -334,10 +341,12 @@ raoe.org
 rebelbrigade.blogspot.com
 rebelbrigadeknightstrueinvisibleempire.wordpress.com
 rebelbrigadeknightstrueinvisibleempire.yolasite.com
+reclaim-australia.com
 redice.tv
 refugeeresettlementwatch.org
 refugeeresettlementwatch.wordpress.com
 remnantnewspaper.com
+renaissancehorizon.com
 rense.com
 renseradio.com
 renseradioarchives.com
@@ -356,6 +365,7 @@ runestone.org
 ruthinstitute.org
 sacredtruthministries.com
 sadisticsoulsmc.org
+saintbenedict.com
 saintsunit.org
 savecalifornia.com
 scott-townsend.com
@@ -383,7 +393,6 @@ spofga.org
 stahlhelmrecords.blogspot.com
 stedfastbaptistkjv.org
 steinreport.com
-stormfront.co.uk
 stormfront.org
 strongholdbaptist.church
 sultanknish.blogspot.com
@@ -430,7 +439,7 @@ traditionalistamericanknights.com
 traditionalvalues.org
 traditioninaction.org
 tradworker.org
-tradyouth.org
+tribaltheocrat.com
 truelightpentecost.org
 truenation.org
 truenation.websitetoolbox.com
@@ -442,6 +451,7 @@ understandingthethreat.com
 unitedfamilies.org
 unitedkingdomofisrael.org
 unitedriotrecords.net
+unitedskinheadnation.com
 unskkkk.com
 unwonline-uk.org
 unwonline.org
@@ -460,6 +470,7 @@ voat.co
 voxespana.es
 waronthehorizon.com
 washsummit.com
+wesearchr.com
 westmonster.com
 wfcchurch.org
 whitakeronline.org

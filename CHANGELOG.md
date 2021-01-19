@@ -1,3 +1,11 @@
+## 2021-01-19
+
+- FIXED: made sure all lines fit a "standard" with proper fields
+- FIXED: typographical errors in non-domain fields
+- ADDED: a couple of new and/or updated statuses. 
+- PROPOSED: add 3rd date for when removed or leave last modified field for that
+- PROPOSED: add additional fields to existing SPLC csv; would cause more work than to keep it separate
+
 ## 2020-11-14
 
 - ADDED: two custom domains for rw militias and ultra right-wing media & conspiracy theories

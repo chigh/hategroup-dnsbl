@@ -65,11 +65,11 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 | [Ideology] & [Sources]            | Date     |
 | :--                               | :--:     |
-| [Alt-Right]                       |2018-07-06|
+| [Alt-Right]                       |[N/A]     |
 | [Anti-Immigrant]                  |2020-06-17|
 | [Anti-LGBTQ]                      |2020-06-17|
 | [Anti-Muslim]                     |2020-06-17|
-| [Antigovernment Movement]         |TBD|
+| [Antigovernment Movement]         |[N/A]     |
 | [Black Separatist]  		        |2020-06-17|
 | [Christian Identity] 		        |2020-06-17|
 | [General Hate]                    |2020-06-17|
@@ -80,11 +80,11 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [Neo-Confederate]                 |2019-08-10|
 | [Neo-Nazi]                        |2021-01-11|
 | [Neo-V&ouml;lkisch][neo-volkisch] |2021-01-11|
-| [Phineas Priesthood]              |[N/A]|
-| [Racist Skinheads]                |2019-08-10|
-| [Radical Traditional Catholicism] |2019-08-10|
-| [Sovereign Citizens Movement]     |[N/A]|
-| [White Nationalist]               |2019-08-10|
+| [Phineas Priesthood]              |[N/A]     |
+| [Racist Skinheads]                |2021-01-19|
+| [Radical Traditional Catholicism] |2021-01-19|
+| [Sovereign Citizens Movement]     |[N/A]     |
+| [White Nationalist]               |2021-01-19|
 
 - There is no SPLC for Canada, so based upon a groups related to the ones already in the list.
 	- [A guide to Canada's anti-Islamic groups -- NowToronto](https://nowtoronto.com/news/canada-islamophobic-groups/)
@@ -93,9 +93,9 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 ## To do
 
-- Fill in with 2019 data from SPLC's hate map. [in progress]
 - Complete the Antigovernment Movement.
 	- There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
+    - These are not included in the hatemap and have to be researched via the SPLC website
 
 ## License
 Licensed under [MIT](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/LICENSE.md).
