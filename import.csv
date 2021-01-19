@@ -31,20 +31,6 @@
 #   group|domain|category|SPLC added|Last modified in DNSBL|notes
 #
 ###########################################################################
-### Canada
-###########################################################################
-## Canadian Three Percenters||Custom - General Hate; Canada|2019||none found; social media only
-III% Canada Gear - Threeper Gear|threeper-gear.ca|Custom - General Hate; Canada|2019||
-Never Again Canada|neveragaincanada.ca|Custom - General Hate; Canada|2019||
-## Northern Order||Custom - General Hate; Canada|2019||none found; social media only
-New Constitution Party|ncparty.ca|Custom - General Hate; Canada|2019||
-Rise Canada|risecanada.com|Custom - General Hate; Canada|2019||
-Three Percenters Canada|threeperscanada.com|Custom - General Hate; Canada|2019||
-Three Percenters Club|threepercentersclub.org|Custom - General Hate; Canada|2019||
-## Three Percenters Alberta||Custom - General Hate; Canada|2019||none found; social media only
-#
-#
-###########################################################################
 # Anti-Immigrant
 ###########################################################################
 American Border Patrol|americanborderpatrol.com|Anti-Immigrant|2018|2020|
@@ -69,7 +55,6 @@ Legal Immigrants for America|golifa.com|Anti-Immigrant|2018|2020|
 Mountain Minutemen|mountainminutemen.com|Anti-Immigrant|2020|2020|
 National Coalition for Immigration Reform/Coalition of Comprehensive Immigration Reform (formerly CCIR)|cirnow.org|Anti-Immigrant|2018|2020|
 d National Organization for European American Rights|duke.org|Anti-Immigrant|2018|2020|
-? New Yorkers for Immigration Control and Enforcement (NYICE)|nyice.us|Anti-Immigrant|2018|2020|
 Oregonians for Immigration Reform|oregonir.org|Anti-Immigrant|2018|2020|
 ProEnglish|proenglish.org|Anti-Immigrant|2018|2020|
 Respect Washington|respectwashington.us|Anti-Immigrant|2018|2020|
@@ -77,15 +62,14 @@ Respect Washington|respectwashington.us|Anti-Immigrant|2018|2020|
 ## nx San Diegan Patriots (partner to SDfS)|sandiegopatriots.com|Anti-Immigrant|2018|2018|
 Texans for Immigration Reduction and Enforcement|tfire.org|Anti-Immigrant|2018|2020|
 The Remembrance Project|theremembranceproject.org|Anti-Immigrant|2018|2020|
-? US Border Guard|usborderguard.com|Anti-Immigrant|2018|2020|
 ## V-Dare|vdare.com|Anti-Immigrant|2018||duplicate in list
+? New Yorkers for Immigration Control and Enforcement (NYICE)|nyice.us|Anti-Immigrant|2018|2020|
+? US Border Guard|usborderguard.com|Anti-Immigrant|2018|2020|
 #
 #
 ###########################################################################
 ### Anti-LGBTQ
 ###########################################################################
-? Abiding Truth Ministries|abidingtruthministry.com|Anti-LGBTQ|2018|2020|
-? Abiding Truth Ministries|defendthefamily.com|Anti-LGBTQ|2018|2020|
 All Scripture Baptist Church|allscripturebaptist.com|Anti-LGBTQ|2020|2020|
 Alliance Defending Freedom|adflegal.org|Anti-LGBTQ|2018|2020|
 American College of Pediatricians|acpeds.org|Anti-LGBTQ|2018|2020|
@@ -97,7 +81,6 @@ ATLAH World Missionary Church (All The Land Anointed Holy)|atlah.org|Anti-LGBTQ|
 Center for Family and Human Rights (C-FAM)|c-fam.org|Anti-LGBTQ|2018|2020|
 Chalcedon Foundation|chalcedon.edu|Anti-LGBTQ|2020|2020|
 Church Militant/St. Michael's Media|churchmilitant.com|Anti-LGBTQ|2018|2020|
-? Citizens for Community Values|ccv.org|Anti-LGBTQ|2018||
 Concerned Christian Citizens|concernedchristiancitizens.org|Anti-LGBTQ|2018|2020|
 Conservative Republicans of Texas|crtpac.com|Anti-LGBTQ|2018|2020|
 D. James Kennedy Ministries (formerly Truth in Action)|djameskennedy.org|Anti-LGBTQ|2018|2020|
@@ -121,17 +104,15 @@ Pacific Justice Institute|pacificjustice.org|Anti-LGBTQ|2018|2020|
 Pass the Salt Ministries|coachdavelive.com|Anti-LGBTQ|2018|2020|
 Pilgrims Covenant Church|pccmonroe.org|Anti-LGBTQ|2018|2020|
 Probe Ministries|probe.org|Anti-LGBTQ|2018||
-? Providence Road Baptist Church|prbcnc.com|Anti-LGBTQ|2018||
 Public Advocate of the United States|publicadvocateusa.org|Anti-LGBTQ|2018|2020|
-+ Revival Baptist Church (Florida)|revivalbaptistorlando.com|Anti-LGBTQ|2020|2020|
++ Revival Baptist Church (Florida)|revivalbaptistorlando.com|Anti-LGBTQ|2019|2020|
 Ruth Institute|ruthinstitute.org|Anti-LGBTQ|2018|2020|
 Save California|savecalifornia.com|Anti-LGBTQ|2018|2020|
 + Scott Lively Ministries (see also: Abiding Truth Ministries)|scottlively.net|Anti-LGBTQ|2020|2020|
 Stedfast Baptist Church|stedfastbaptistkjv.org|Anti-LGBTQ|2018|2020|
 + Strong Hold Baptist Church|strongholdbaptist.church|Anti-LGBTQ|2020|2020|
 Sure Foundation Baptist Church|surefoundationbaptist.church|Anti-LGBTQ|2018|2020|
-? TC Family (Traverse City Family)|tcfamily.org|Anti-LGBTQ|2018|2020|
-The Campus Ministry USA; The|BroJed.org|Anti-LGBTQ|2018|2020|
+The Campus Ministry USA; The|brojed.org|Anti-LGBTQ|2018|2020|
 The Pray in Jesus Name Project|prayinjesusname.org|Anti-LGBTQ|2018|2020|
 Tom Brown Ministries|tbm.org|Anti-LGBTQ|2018|2020|
 d Traditional Values Coalition|traditionalvalues.org|Anti-LGBTQ|2018||
@@ -141,26 +122,27 @@ Verity Baptist Church|veritybaptist.com|Anti-LGBTQ|2018|2020|
 Warriors For Christ|wfcchurch.org|Anti-LGBTQ|2018|2020|
 Westboro Baptist Church|godhatesfags.com|Anti-LGBTQ|2018|2020|
 Westboro Baptist Church|godhatesamerica.com|Anti-LGBTQ|2018|2020|
-? Windsor Hills Baptist Church|windsorhills.org|Anti-LGBTQ|2018|
 World Congress of Families/International Organization for the Family|worldcongress.org|Anti-LGBTQ|2018|2020|
+? Abiding Truth Ministries|abidingtruthministry.com|Anti-LGBTQ|2018|2020|
+? Abiding Truth Ministries|defendthefamily.com|Anti-LGBTQ|2018|2020|
+? Citizens for Community Values|ccv.org|Anti-LGBTQ|2018||
+? TC Family (Traverse City Family)|tcfamily.org|Anti-LGBTQ|2018|2020|
+? Providence Road Baptist Church|prbcnc.com|Anti-LGBTQ|2018||
+? Windsor Hills Baptist Church|windsorhills.org|Anti-LGBTQ|2018|
 #
 #
 ###########################################################################
 ### Anti-Muslim
 ###########################################################################
 ACT for America|actforamerica.org|Anti-Muslim|2018|2020|
-? American Constitution Center|americanconstitutioncenter.org|Anti-Muslim|2018||
 American Freedom Alliance|americanfreedomalliance.org|2018|2020|
 American Freedom Defense Initiative (Stop Islamization of America)|freedomdefense.typepad.com|Anti-Muslim|2018|2020|
 American Freedom Law Center|americanfreedomlawcenter.org|Anti-Muslim|2018|2020|
 American Public Policy Alliance|publicpolicyalliance.org|Anti-Muslim|2018|2020|
-? Bare Naked Islam|barenakedislam.com|Anti-Muslim|2018|2020|
 Bomb Islam|bombislam.com|Robert Sterkeson|Anti-Muslim|2018|2020|
-## ? Bosch Fawstin||Anti-Muslim|2018|2020|none found
 ## Bureau on American Islamic Relations||Anti-Muslim|2018|2020|none found
 Center for Security Policy|centerforsecuritypolicy.org|Anti-Muslim|2018|2020|
 Christian Action Network|christianaction.org|Anti-Muslim|2018|2020|
-? Citizen Warrior|citizenwarrior.com|Anti-Muslim|2018|2020|
 Citizens for National Security|cfns.us|Anti-Muslim|2018|2020|
 x Citizens' Action Group of South Florida|cagsfl.online|Anti-Muslim|2018||
 Clarion Project|clarionproject.org|Anti-Muslim|2018||
@@ -168,8 +150,6 @@ Clarion Project|clarionproject.org|Anti-Muslim|2018||
 Counter Jihadist Coalition of Southern California|counterjihadcoalition.org|Anti-Muslim|2018|2020|
 Cultures In Context Incorporated/Turning Point Project|turningpointproject.com|Anti-Muslim|2018|2020|
 David Horowitz Freedom Center|horowitzfreedomcenter.org|Anti-Muslim|2018|2020|
-? - Faith Freedom|faithfreedom.org|Anti-Muslim|2018|2020|
-? - Faith Leaders for America (Center for Security Policy)|faithleadersforamerica.com|Anti-Muslim|2018|2020|
 d - Family Security Matters (Center for Security Policy)|familysecuritymatters.org|Anti-Muslim|2018||
 ## + Florida Family Association||Anti-Muslim|2020|2020|none found
 Fortress of Faith|fortressoffaith.com|Anti-Muslim|2018|2020|
@@ -178,8 +158,6 @@ Fortress of Faith|fortressoffaith.com|Anti-Muslim|2018|2020|
 ##+ G416 Patriots||Anti-Muslim|2018||none found; social media only
 Glazov Gang Productions/Jamie Galazov|jamieglazov.com|Anti-Muslim|2018|2020|
 + Global Faith Institute|globalfaith.org|Anti-Muslim|2020|2020|
-? III% Security Force|iiisecurityforce.com|Anti-Muslim|2018||
-? Islamthreat.com|Islamthreat.com|Anti-Muslim|2018||
 Jihad Watch|jihadwatch.org|Anti-Muslim|2018|2020|
 ## - Keep South Dakota Safe PAC||Anti-Muslim|2018|2020|none found
 Last Chance Patriots|lastchancepatriots.org|Anti-Muslim|2018|2020|
@@ -199,7 +177,6 @@ Shoebat Foundation; The|shoebat.com|Anti-Muslim|2018||
 d Silver Bullet Gun Oil|silverbulletgunoil.net|Anti-Muslim|2017|2020|
 ## Soldiers of Odin||Anti-Muslim|2018|2020|none found; social media only
 Southeast Michigan Tea Party|semichiganteaparty.com|Anti-Muslim|2018|2020|
-? Stop the Islamization of the World|siotw.org|Anti-Muslim|2018||
 - Sultan Knish a blog by Daniel Greenfield|sultanknish.blogspot.com|Anti-Muslim|2016|2020|
 - Sultan Knish a blog by Daniel Greenfield|danielgreenfield.org|Anti-Muslim|2016|2020|
 ## Sunshine on Government (SONG) Alliance||Anti-Muslim|2017|2020|none found; social media only
@@ -213,11 +190,22 @@ Truth in Textbooks (Texas)|truthintexastextbooks.com|Anti-Muslim|2017|2020|
 Unconstrained Analytics|unconstrainedanalytics.org|Anti-Muslim|2017|2020|
 Understanding the Threat|understandingthethreat.com|Anti-Muslim|2018|2020|
 Virginia Christian Alliance|vachristian.org|Anti-Muslim|2018|2020|
+? American Constitution Center|americanconstitutioncenter.org|Anti-Muslim|2018||
+? Bare Naked Islam|barenakedislam.com|Anti-Muslim|2018|2020|
+## ? Bosch Fawstin||Anti-Muslim|2018|2020|none found
+? Citizen Warrior|citizenwarrior.com|Anti-Muslim|2018|2020|
+? - Faith Freedom|faithfreedom.org|Anti-Muslim|2018|2020|
+? - Faith Leaders for America (Center for Security Policy)|faithleadersforamerica.com|Anti-Muslim|2018|2020|
+? III% Security Force|iiisecurityforce.com|Anti-Muslim|2018||
+? Islamthreat.com|islamthreat.com|Anti-Muslim|2018||
+? Stop the Islamization of the World|siotw.org|Anti-Muslim|2018||
 #
 #
 ###########################################################################
 ### Antigovernment Movement
 ###########################################################################
+# N/A
+#
 #
 ###########################################################################
 ### Black Separatist/Black Nationalist
@@ -480,7 +468,7 @@ National Alliance|natall.com|Neo-Nazi|2016|2021|
 ## National Socialist Legion||Neo-Nazi|2018|2021|none found
 ## National Socialist Liberation Front||Neo-Nazi|2017|2021|none found
 National Socialist Movement (USA)|nsm88.org|Neo-Nazi|2018|2021
-## Nationalist Initiative||Neo-Nazi|?|2020|none found.
+## -- Nationalist Initiative||Neo-Nazi|2018|2018|none found.
 -d Nationalist Women's Front|nationalistwomensfront.org|Neo-Nazi|2017|2019|
 - Nationalist Women's Front|nationalistwomensfront.wordpress.com|Neo-Nazi|2017|2019|
 New Order|theneworder.org|Neo-Nazi|2016|2021|
@@ -530,7 +518,6 @@ d Pacific Northwest Wolfpack Kindred|pnwkindred.com|Neo-Volkisch|2018
 ## rc American Vikings|americanvikings.com|Racist Skinheads|2018|2020|Outdoor supply? Close intersect.
 ## - American Viking Apparel||Racist Skinheads|2018|2019/2021|none found; etsy
 ## - Aryan Skins Kindred||Racist Skinheads|2018|2019/2021|none found
-## ? -- Aryan Strikeforce||Racist Skinheads|2018|2019/2021|none found; social media only
 d Be Active Front USA|ourfightclothingco.com|Racist Skinheads|2018||redirects to simcast.com (see also Our Fight Clothing)
 d Blood and Honour America Division|bloodandhonour.net|Racist Skinheads|2018|2019/2021|
 d Blood and Honour Arkansas/Combat 18|bloodandhonour-arkansas.webs.com|Racist Skinheads|2018||
@@ -549,13 +536,14 @@ d Keystone State Skinheads|keystone2001united.wordpress.com|2016|2019/2021|wp su
 ## Northern Hammerskins|hammerskins.net|Racist Skinheads|2018||duplicate domain
 ## Northwestern Hammerskins|hammerskins.net|Racist Skinheads|2018||duplicate domain
 ## - Sacto Skins||Racist Skinheads|2018|2019|none found; social media only
-## ? Supreme White Alliance||Racist Skinheads|2018|2018|none found
 d United Skinhead Nation|unitedskinheadnation.com|Racist Skinhead|2019|2019/2021|
 ## - United Southern Skins||Racist Skinheads|2018|2019/2021|none found
-? Vinland Clothing|vinlandclothing.com|Racist Skinheads|2018|2018|
 ## Vinlanders Social Club||Racist Skinheads|2018|2018|none found
 ## - Warior's Pride Clothing||Racist Skinheads|2018|2018|none found
 ## Western Hammerskins|hammerskins.net|Racist Skinheads|2018|2018|
+## ? -- Aryan Strikeforce||Racist Skinheads|2018|2019/2021|none found; social media only
+## ? Supreme White Alliance||Racist Skinheads|2018|2018|none found
+? Vinland Clothing|vinlandclothing.com|Racist Skinheads|2018|2018|
 #
 #
 ###########################################################################
@@ -641,6 +629,7 @@ Right Stuff; The (TRS)|therightstuff.biz|White Nationalist|2018|2020|
 ## Rise Above Movement||White Nationalist|2017|2017|none found
 Scott-Townsend Publishers|scott-townsend.com|White Nationalist|2016|2017|
 ## Sheildwall Network||White Nationalist|2018|2018|none found
+Social Contract Press|tscpress.com|White Nationalist|2018|2020|
 Social Contract Press|thesocialcontract.com|White Nationalist|2016|2017|
 ## -- Sons & Daughters of Liberty||White Nationalist|2016|2017|none found
 ## d- South Africa Project|southafricaproject.info|White Nationalist|2016|2017/2021|
@@ -688,6 +677,7 @@ Citizens for the St. Croix Valley|citizensforthestcroixvalley.com|Custom - Anti-
 The Epoch Times|theepochtimes.com|Custom - Alt-Right||2020|far-right conspiracy theories
 European Americans United|europeanamericansunited.org|Custom - General Hate||2019|
 Faircop|faircop.org.uk|Custom - Transphobic||2020|
+Federalist; The|thefederalist.com|Custom - General Hate||2020-06-16|Ticks all the boxes
 Gab "Social Media"|gab.com|Custom - Alt-Right||2020|Neo-Nazi; "free speech zone"
 Graham Linehan|whythatsdelightful.wordpress.com|Custom - Transphobic||2020|
 International Organization for the Family|profam.org|Custom - Anti-LGBTQ||2020|
@@ -698,6 +688,7 @@ Kiwifarms|kiwifarms.nl|Custom - Alt-Right||2019|
 Kosher Question; The|thekosherquestion.com|Custom - Anti-Semetic||2019|
 Ku Klux Klan Truth|kukluxklantruth.wordpress.com|Custom - KKK||2020|
 Laura Loomer|loomered.com|Custom - White Nationalist||2020|aggregating National Justice
+Master's House; The (related: Virtinia Christian Alliance)|tmhnow.org|Custom - General Hate||2020|
 My Militia|mymilitia.com|Custom - General Hate||2020|
 National Justice; operated by TRS|national-justice.com|Custom - White Nationalist||2020|
 National Vanguard|nationalvanguard.org|Custom - General Hate||2019|
@@ -709,8 +700,6 @@ Return of Kings|returnofkings.com|Custom - Male Supremacy|2019|2020|
 Sharia Unveiled|shariaunveiled.wordpress.com|Custom - General Hate||2019|
 Silent Nationalist Majority|silentnationalistmajority.com|Custom - General Hate||2019|
 Southern Party of Georgia|spofga.org|Custom - General Hate||2019|
-The Federalist|thefederalist.com|Custom - General Hate||2020-06-16|Ticks all the boxes
-The Master's House (related: Virtinia Christian Alliance)|tmhnow.org|Custom - General Hate||2020|
 Three Percenters (aka III%)|thethreepercenters.org|Custom - General Hate||2019|
 ## Tyr Security||Custom - White Nationalist|2018||none found
 ## Valley Family Forum||Custom - Anti-LGBTQ||2020|none found; Related: Virginia Christian Alliance/Focus on the Family
@@ -767,9 +756,22 @@ qmap|qmap.pub|Custom - QAnon|2019|2019-11-05|
 + Stop Islamisation of Norway|sian.no|Custom Anti-Muslim|2020|2020|Wikipedia Related
 ## + True Blue Crew/Reclaim Australia||Custom - Anti-Muslim|2020|2020|none found; Wikipedia Related
 ## + United Patriots Front/Reclaim Australia||Custom - Anti-Muslim|2020|2020|none found; Wikipedia Related
-? Reclaim Australia|reclaim-australia.com|Custom - Anti-Muslim|2020|2020|Wikipedia Related
+Reclaim Australia|reclaim-australia.com|Custom - Anti-Muslim|2020|2020|Wikipedia Related
 + Vox (Political Party)|voxespana.es|Custom - Anti-Muslim|2020|2020|Wikipedia Related
 Altra Firearms|altrafirearms.com|Custom - Anti-Muslim|2018|2020|
 NumbersUSA|numbersusa.com|Custom - Anti-Immigrant|2018|2020|
 ProjectUSA|projectusa.org|Custom - Anti-Immigrant|2018|2020|
-The Social Contract Press|tscpress.com|Custom - White Nationalist|2018|2020|
+#
+#
+###########################################################################
+### Canada
+###########################################################################
+## Canadian Three Percenters||Custom - General Hate; Canada|2019||none found; social media only
+III% Canada Gear - Threeper Gear|threeper-gear.ca|Custom - General Hate; Canada|2019||
+Never Again Canada|neveragaincanada.ca|Custom - General Hate; Canada|2019||
+## Northern Order||Custom - General Hate; Canada|2019||none found; social media only
+New Constitution Party|ncparty.ca|Custom - General Hate; Canada|2019||
+Rise Canada|risecanada.com|Custom - General Hate; Canada|2019||
+Three Percenters Canada|threeperscanada.com|Custom - General Hate; Canada|2019||
+Three Percenters Club|threepercentersclub.org|Custom - General Hate; Canada|2019||
+## Three Percenters Alberta||Custom - General Hate; Canada|2019||none found; social media only

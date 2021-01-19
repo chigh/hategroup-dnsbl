@@ -30,10 +30,6 @@ masharahyasharahla.com CNAME .
 8kun.top CNAME .
 *.8kun.tv CNAME .
 8kun.tv CNAME .
-*.BroJed.org CNAME .
-BroJed.org CNAME .
-*.Islamthreat.com CNAME .
-Islamthreat.com CNAME .
 *.a2zpublications.com CNAME .
 a2zpublications.com CNAME .
 *.abidingtruthministry.com CNAME .
@@ -152,6 +148,8 @@ bombisrael.com CNAME .
 borderkeepersofalabama.org CNAME .
 *.breitbart.com CNAME .
 breitbart.com CNAME .
+*.brojed.org CNAME .
+brojed.org CNAME .
 *.brothernathanaelfoundation.org CNAME .
 brothernathanaelfoundation.org CNAME .
 *.c-fam.org CNAME .
@@ -446,6 +444,8 @@ irvingbooks.com CNAME .
 isdrecords.com CNAME .
 *.isitwetyet.com CNAME .
 isitwetyet.com CNAME .
+*.islamthreat.com CNAME .
+islamthreat.com CNAME .
 *.isoc.ws CNAME .
 isoc.ws CNAME .
 *.israelitessaintsofchrist.org CNAME .
