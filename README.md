@@ -14,7 +14,7 @@ This is a list of designated hate groups' domains as designated by the [Southern
 
 Please report errors [here](https://github.com/chigh/hategroup-dnsbl/issues).
 
-**Note:** This project and I am are in *no* way associated with SPLC. I created this with data from their public website plus a handful of other domains I have come across. (see the Custom section in *import.csv*)
+**Note:** This project and I am are in *no* way associated with SPLC. I created this with data from their public website plus a handful of other domains I have come across. (see the Custom sections in *import.csv*)
 
 - Not all groups have domains; Some have facebook or pages on other shared resources. This will be noted in the *import.csv* if further information is available. This information will be periodically back-filled as it becomes available.
 - Some ideologies have overlap. Pi-hole will account for that. 
@@ -30,9 +30,9 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
         - `?` are groups/domains that are not in the list, but are on the SPLC site.
         - `??` domain needs to be confirmed, needs more detail, etc.
         - `+` are newly added groups in the list.
-        - `-` are active groups which have been in previous year's lists, but are not in the current year's list
+        - `-` are active groups which have been in previous year's lists, but are not in the current year's list (remain in configs)
         - `--` scheduled to be deleted with the next year's data
-        - `nx` are domains which no longer exist (nx) (removed from configs)
+        - `nx` are domains which no longer exist (nxdomain) (removed from configs)
         - `d` are domains which still exist, but are non-functional (remain in configs)
         - `rc` are reclaimed domains for other purposes, removed from configs
 
