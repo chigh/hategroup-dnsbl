@@ -28,10 +28,13 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
 	- A comma separated variable file of domains and the names of the organizations. This is for reference and to generate all of the lists.
     - Lines beginning with 
         - `?` are groups/domains that are not in the list, but are on the SPLC site.
+        - `??` domain needs to be confirmed, needs more detail, etc.
         - `+` are newly added groups in the list.
         - `-` are active groups which have been in previous year's lists, but are not in the current year's list
-        - `x` are domains which no longer exist (nx) (removed from configs)
+        - `--` scheduled to be deleted with the next year's data
+        - `nx` are domains which no longer exist (nx) (removed from configs)
         - `d` are domains which still exist, but are non-functional (remain in configs)
+        - `rc` are reclaimed domains for other purposes, removed from configs
 
 ### Pi-hole
 With Pi-hole, use either the wildcard list or the blacklist, but not both. 
@@ -56,7 +59,7 @@ With Pi-hole, use either the wildcard list or the blacklist, but not both.
 Importing the generated file will over-write all entries in the Response Policy in which this list is imported.
 
 - *hategrp.rpz_BAM-import.txt*
-	- A file to be imported into BlueCat Address Manager to create a Response Policy. Importing these object into the Response Policy will completely overwrite any existing records.
+	- A file to be imported into BlueCat Address Manager to create a Response Policy. ***Note*** Importing these objects into a Response Policy will completely overwrite any existing records.
 
 ## Sources 
 
