@@ -49,8 +49,6 @@ With Pi-hole, use either the wildcard list or the blacklist, but not both.
 ### ISC BIND
 - *hategrp.rpz.db*
 	- BIND zone database file to be used with the contents of named.conf for BIND's Response Policies
-- *hategrp.rpz_BAM-import.txt*
-	- A file to be imported into BlueCat Address Manager to create a hate group based Response Policy
 - *named.conf*
 	- A section of named.conf to be included in your BIND implementation to use the included database. This goes in the *view* section.
 
@@ -58,10 +56,9 @@ With Pi-hole, use either the wildcard list or the blacklist, but not both.
 Importing the generated file will over-write all entries in the Response Policy in which this list is imported.
 
 - *hategrp.rpz_BAM-import.txt*
+	- A file to be imported into BlueCat Address Manager to create a Response Policy. Importing these object into the Response Policy will completely overwrite any existing records.
 
 ## Sources 
-
-**Note:** This is a work in progress and I haven't gotten to all sections, yet.
 
 | [Ideology] & [Sources]            | Date     |
 | :--                               | :--:     |
@@ -94,7 +91,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 ## To do
 
 - Complete the Antigovernment Movement.
-	- There are 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
+	- As of 2018, there were 475 groups listed. Some may be grouped under a single domain, but until I can research, they are all considered to be individual groups with potentially individual domains.
     - These are not included in the hatemap and have to be researched via the SPLC website
 
 ## License

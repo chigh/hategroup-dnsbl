@@ -1,11 +1,16 @@
 ## 2021-01-19
 
+- UPDATE: Racist Skinheads, Rad Trad Catholicism, White Nationalist w/2019 data
 - FIXED: made sure all lines fit a "standard" with proper fields
 - FIXED: typographical errors in non-domain fields
 - ADDED: a couple of new and/or updated statuses. 
 - CHANGED: re-sorted entries. Groups found on the SPLC website, but not on the hate-map, are now listed at the bottom of each category.
 - PROPOSED: add 3rd date for when removed or leave last modified field for that
 - PROPOSED: add additional fields to existing SPLC csv; would cause more work than to keep it separate
+
+## 2021-01-11
+
+- UPDATE: Neo-Nazi, Neo-Voelkisch
 
 ## 2020-11-14
 
