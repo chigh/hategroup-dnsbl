@@ -194,6 +194,7 @@
 **.gotnews.com
 **.hammerskins.net
 **.hatreon.net
+**.hedgewik.com
 **.helpsavemaryland.org
 **.hipgnosiscovers.com
 **.hlmenckenclub.org
@@ -243,6 +244,7 @@
 **.kiwifarms.nl
 **.kiwifarms.pl
 **.kkk.com
+**.kkkchurch.com
 **.kkkknights.com
 **.knightsofthewhitedisciples.com
 **.kriegbook.com
@@ -377,6 +379,7 @@
 **.silverbulletgunoil.net
 **.sioeeu.wordpress.com
 **.siotw.org
+**.skysilk.com
 **.socialarchitects26.com
 **.sonplace.com
 **.sonsoflibertymedia.com
@@ -386,6 +389,7 @@
 **.stahlhelmrecords.blogspot.com
 **.stedfastbaptistkjv.org
 **.steinreport.com
+**.stonetoss.com
 **.stormfront.org
 **.strongholdbaptist.church
 **.sultanknish.blogspot.com

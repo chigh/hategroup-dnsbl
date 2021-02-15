@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #           https://www.splcenter.org/hate-map
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2021-01-19
+# Date: 2021-02-15
 #
 masharahyasharahla.com
 1776.shop
@@ -201,6 +201,7 @@ golifa.com
 gotnews.com
 hammerskins.net
 hatreon.net
+hedgewik.com
 helpsavemaryland.org
 hipgnosiscovers.com
 hlmenckenclub.org
@@ -250,6 +251,7 @@ kiwifarms.net
 kiwifarms.nl
 kiwifarms.pl
 kkk.com
+kkkchurch.com
 kkkknights.com
 knightsofthewhitedisciples.com
 kriegbook.com
@@ -384,6 +386,7 @@ silentnationalistmajority.com
 silverbulletgunoil.net
 sioeeu.wordpress.com
 siotw.org
+skysilk.com
 socialarchitects26.com
 sonplace.com
 sonsoflibertymedia.com
@@ -393,6 +396,7 @@ spofga.org
 stahlhelmrecords.blogspot.com
 stedfastbaptistkjv.org
 steinreport.com
+stonetoss.com
 stormfront.org
 strongholdbaptist.church
 sultanknish.blogspot.com

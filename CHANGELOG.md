@@ -1,3 +1,7 @@
+## 2021-02-05
+
+- ADDED: Hate comics sites
+
 ## 2021-01-19
 
 - UPDATE: Racist Skinheads, Rad Trad Catholicism, White Nationalist w/2019 data

@@ -34,7 +34,7 @@ Included in this bundle are files and configuration code to be used with [Pi-hol
         - `--` scheduled to be deleted with the next year's data
         - `nx` are domains which no longer exist (nxdomain) (removed from configs)
         - `d` are domains which still exist, but are non-functional (remain in configs)
-        - `rc` are reclaimed domains for other purposes, removed from configs
+        - `rc` are reclaimed domains for other purposes (removed from configs)
 
 ### Pi-hole
 With Pi-hole, use either the wildcard list or the blacklist, but not both. 
