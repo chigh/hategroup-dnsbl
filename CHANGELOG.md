@@ -1,3 +1,6 @@
+## 2021-03-21
+- ADDED: Potential domain for Mike Lindell's new free speech social network
+
 ## 2021-02-05
 
 - ADDED: Hate comics sites

@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #           https://www.splcenter.org/hate-map
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2021-02-15
+# Date: 2021-03-21
 #
 masharahyasharahla.com
 1776.shop
@@ -471,6 +471,7 @@ vinlandclothing.com
 vinlandicwerwolfdistribution.wordpress.com
 vipsumo.com
 voat.co
+vocl.com
 voxespana.es
 waronthehorizon.com
 washsummit.com

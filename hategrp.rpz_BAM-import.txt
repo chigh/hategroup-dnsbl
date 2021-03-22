@@ -464,6 +464,7 @@
 **.vinlandicwerwolfdistribution.wordpress.com
 **.vipsumo.com
 **.voat.co
+**.vocl.com
 **.voxespana.es
 **.waronthehorizon.com
 **.washsummit.com
