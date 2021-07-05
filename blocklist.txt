@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #           https://www.splcenter.org/hate-map
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2021-03-21
+# Date: 2021-07-05
 #
 masharahyasharahla.com
 1776.shop
@@ -193,6 +193,7 @@ gatestoneinstitute.org
 generations.org
 george.news
 georgiaknightriderskkk.com
+gettr.com
 globalfaith.org
 godhatesamerica.com
 godhatesfags.com
