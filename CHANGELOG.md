@@ -1,3 +1,6 @@
+## 2021-11-24
+- ADDED: Gender Critical Coming Out Day -- Anti-LGBT+
+
 ## 2021-03-21
 - ADDED: Potential domain for Mike Lindell's new free speech social network
 
