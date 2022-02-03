@@ -3,7 +3,7 @@
 #   Source: https://www.splcenter.org/fighting-hate
 #           https://www.splcenter.org/hate-map
 #   URL: https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt
-# Date: 2021-11-24
+# Date: 2022-02-03
 #
 masharahyasharahla.com
 1776.shop
@@ -53,6 +53,7 @@ americanvision.org
 americaspromiseministries.org
 amerikaner.org
 amren.com
+ansgararyan.com
 arktos.com
 asatrufolkassembly.org
 atlah.org
@@ -365,6 +366,7 @@ richardhoskins.com
 risecanada.com
 rnpaheadquarters.org
 robertsungenis.org
+rumble.com
 runestone.org
 ruthinstitute.org
 sacredtruthministries.com
