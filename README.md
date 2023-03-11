@@ -65,7 +65,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 
 | [Ideology] & [Sources]            | Date     |
 | :--                               | :--:     |
-| [Alt-Right]                       |[N/A]     |
+| [Alt-Right]                       |2022      |
 | [Anti-Immigrant]                  |2020-06-17|
 | [Anti-LGBTQ]                      |2020-06-17|
 | [Anti-Muslim]                     |2020-06-17|
@@ -78,7 +78,7 @@ Importing the generated file will over-write all entries in the Response Policy 
 | [KKK]                             |2020-06-27|
 | [Male Supremacy]                  |2020-06-17|
 | [Neo-Confederate]                 |2019-08-10|
-| [Neo-Nazi]                        |2021-01-11|
+| [Neo-Nazi]                        |2022-01-03|
 | [Neo-V&ouml;lkisch][neo-volkisch] |2021-01-11|
 | [Phineas Priesthood]              |[N/A]     |
 | [Racist Skinheads]                |2021-01-19|
